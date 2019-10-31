@@ -1346,6 +1346,7 @@ GameObject:
   m_Component:
   - component: {fileID: 951391156}
   - component: {fileID: 951391157}
+  - component: {fileID: 951391158}
   m_Layer: 0
   m_Name: CamAnchor
   m_TagString: Untagged
@@ -1382,6 +1383,24 @@ MonoBehaviour:
   CamMoveSpeed: 3
   CamMoveClamp_ZoomOut: 24
   CamMoveClamp_ZoomOut_OnZoomed: 24
+--- !u!114 &951391158
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 951391155}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 787d20394416fd14f8e98e997cc4c075, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  setGridRotation: {x: 50, y: 0, z: 0}
+  getGridZoom: 70
+  isGridRotate: 0
+  GridForImage: {fileID: 1562072080}
+  GridForCam: {fileID: 2059643950}
+  insZoom: {fileID: 963194229}
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
@@ -1393,6 +1412,7 @@ GameObject:
   - component: {fileID: 963194228}
   - component: {fileID: 963194227}
   - component: {fileID: 963194226}
+  - component: {fileID: 963194229}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -1465,6 +1485,28 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &963194229
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 963194225}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4b17ea4051cc42488ea411f3f0aa3c6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  a_zoomInBeforeDamping: 35
+  a_zoomInAfterDamping: 40
+  ma_zoomInBeforeDamping: 55
+  ma_zoomInAfterDamping: 55
+  zoomOutBeforeDamping: 110
+  zoomOutAfterDamping: 100
+  BeforeDamping: {x: 0, y: 0}
+  AfterDamping: {x: 0, y: 0}
+  cam: {fileID: 963194227}
+  FrameChangeForGridRot: 0
 --- !u!1 &976197484
 GameObject:
   m_ObjectHideFlags: 0
@@ -2226,7 +2268,7 @@ GameObject:
   - component: {fileID: 1562072082}
   - component: {fileID: 1562072081}
   m_Layer: 0
-  m_Name: Grid
+  m_Name: GridForImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2994,7 +3036,7 @@ GameObject:
   - component: {fileID: 2059643952}
   - component: {fileID: 2059643951}
   m_Layer: 0
-  m_Name: CamGrid
+  m_Name: GridForCam
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

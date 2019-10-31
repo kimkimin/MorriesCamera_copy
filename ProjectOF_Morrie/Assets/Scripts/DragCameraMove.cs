@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+/// 카메라 이동
+/// </summary>
 public class DragCameraMove : MonoBehaviour
 {
     public float CamMoveSpeed;
@@ -26,7 +29,6 @@ public class DragCameraMove : MonoBehaviour
     {
         CamAnchor = gameObject;
     }
-
     
     public void OnTouchBegan_ToCameraMove()
     {
@@ -35,14 +37,14 @@ public class DragCameraMove : MonoBehaviour
         StartTouch = Link_touchCheck.touch.position;
         StartMouse = Input.mousePosition;
 
-        StartTouch_world = Camera.main.ScreenToWorldPoint(StartTouch
-            + Vector3.forward * -Camera.main.transform.position.z);
-        //start좌표를 저장하고 월드좌표로 바꿔주는 타이밍도 중요!
+        StartTouch_world = Camera.main.ScreenToWorldPoint(
+            StartTouch + Vector3.forward * -Camera.main.transform.position.z);
     }
     public void OnTouchMoved_ToCameraMove()
-    {if (!enabled) return;
+    { if (!enabled) return;
 
-        OnTouchMoved_ZoomOff();
+        if (GetComponent<GridRotate>().isGridRotate) OnTouchMoved_ZoomOn();
+        else OnTouchMoved_ZoomOff();
     }
 
 
@@ -66,9 +68,6 @@ public class DragCameraMove : MonoBehaviour
             Mathf.Clamp(CamAnchor.transform.localPosition.x, -CamMoveClamp_ZoomOut_OnZoomed, CamMoveClamp_ZoomOut_OnZoomed),
             Mathf.Clamp(CamAnchor.transform.localPosition.y, -CamMoveClamp_ZoomOut_OnZoomed, CamMoveClamp_ZoomOut_OnZoomed),
             CamAnchor.transform.localPosition.z);
-
-        Camera.main.transform.position = CamAnchor.transform.position;
-
     }
 
     /// <summary>
@@ -86,13 +85,13 @@ public class DragCameraMove : MonoBehaviour
             Mathf.Clamp(CamAnchor.transform.localPosition.x, -CamMoveClamp_ZoomOut, CamMoveClamp_ZoomOut),
             Mathf.Clamp(CamAnchor.transform.localPosition.y, -CamMoveClamp_ZoomOut, CamMoveClamp_ZoomOut),
             CamAnchor.transform.localPosition.z);
-
-        //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        /*
+        //
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         CamAnchor.transform.localPosition = Vector3.MoveTowards(CamAnchor.transform.localPosition,
             new Vector3(CamAnchor.transform.localPosition.x, CamAnchor.transform.localPosition.y, 0), 0.02f);
         //z축 0으로 고정 (엄청 크게는 상관없는데 값변하는게 신경쓰여서 추가함)[0617]
-        //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-        Camera.main.transform.position = CamAnchor.transform.position;
+        //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        */
     }
 }
