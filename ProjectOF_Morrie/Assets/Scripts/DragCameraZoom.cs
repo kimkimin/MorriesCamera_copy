@@ -15,7 +15,7 @@ public class DragCameraZoom : MonoBehaviour
     public Camera cam;
 
     [Tooltip("BOOL, 줌이 끝날때까지 drag move가(touchcount == 1) 실행하는것을 방지")]
-    public static bool IsTouch2 = false;
+    public static bool b_IsTouch2 = false;
     [Tooltip("FLOAT, grid 축회전이랑 줌속도 맞춰줄 드래그 변화량")]
     public float FrameChangeForGridRot;
 
@@ -29,7 +29,7 @@ public class DragCameraZoom : MonoBehaviour
     {
         if (Input.touchCount == 2)
             ZoomStart();
-        else if (Input.touchCount == 0 && IsTouch2)
+        else if (Input.touchCount == 0 && b_IsTouch2)
             ZoomEnd();
     }
 
@@ -41,7 +41,7 @@ public class DragCameraZoom : MonoBehaviour
     {
         if (!enabled) return;
 
-        IsTouch2 = true;
+        b_IsTouch2 = true;
         Touch touch0 = Input.GetTouch(0);
         Touch touch1 = Input.GetTouch(1);
 
@@ -74,7 +74,7 @@ public class DragCameraZoom : MonoBehaviour
     {
         if (!enabled) return;
 
-        IsTouch2 = false;
+        b_IsTouch2 = false;
         if (cam.orthographic)
         {
             if (cam.orthographicSize < AfterDamping.x)

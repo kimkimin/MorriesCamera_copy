@@ -43,7 +43,7 @@ public class DragCameraMove : MonoBehaviour
     public void OnTouchMoved_ToCameraMove()
     { if (!enabled) return;
 
-        if (GetComponent<GridRotate>().isGridRotate) OnTouchMoved_ZoomOn();
+        if (GetComponent<GridRotate>().b_isGridRotate) OnTouchMoved_ZoomOn();
         else OnTouchMoved_ZoomOff();
     }
 
@@ -58,8 +58,7 @@ public class DragCameraMove : MonoBehaviour
         Vector3 CurrentGap = StartTouch - (Vector3)Link_touchCheck.touch.position;
         Vector3 PreviousGap = StartTouch - PreviousPos;
 
-        float EachFrameMag = Mathf.Abs((PreviousGap.magnitude - CurrentGap.magnitude) * 0.1f);//0.02f
-        //속도(지금은 0.02f가 젤 적절한데 씬마다 다른지 확인해야함)랑 방향 수정
+        float EachFrameMag = Mathf.Abs((PreviousGap.magnitude - CurrentGap.magnitude) * 0.1f);
 
         Vector3 EachFrameDiff = -(PreviousGap - CurrentGap).normalized * 0.1f * EachFrameMag;
         CamAnchor.transform.Translate(EachFrameDiff);
@@ -85,13 +84,5 @@ public class DragCameraMove : MonoBehaviour
             Mathf.Clamp(CamAnchor.transform.localPosition.x, -CamMoveClamp_ZoomOut, CamMoveClamp_ZoomOut),
             Mathf.Clamp(CamAnchor.transform.localPosition.y, -CamMoveClamp_ZoomOut, CamMoveClamp_ZoomOut),
             CamAnchor.transform.localPosition.z);
-        /*
-        //
-        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-        CamAnchor.transform.localPosition = Vector3.MoveTowards(CamAnchor.transform.localPosition,
-            new Vector3(CamAnchor.transform.localPosition.x, CamAnchor.transform.localPosition.y, 0), 0.02f);
-        //z축 0으로 고정 (엄청 크게는 상관없는데 값변하는게 신경쓰여서 추가함)[0617]
-        //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-        */
     }
 }

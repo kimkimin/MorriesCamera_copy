@@ -9,7 +9,7 @@ public class GridRotate : MonoBehaviour
     [Tooltip("그리드가 회전되는 zoom 값")]
     public float getGridZoom;
     [Tooltip("DragCameraMove.cs 에서 그리드 회전여부 확인용")]
-    public bool isGridRotate = false;
+    public bool b_isGridRotate = false;
     
     public GameObject GridForImage, GridForCam;
     public DragCameraZoom insZoom;
@@ -18,17 +18,19 @@ public class GridRotate : MonoBehaviour
     {
         if (Camera.main.fieldOfView < getGridZoom)//zoom in
         {
+            print("is it play loop");
             float SpeedClamp = Mathf.Clamp(Mathf.Abs(insZoom.FrameChangeForGridRot), 40, 450);
             GridForImage.transform.eulerAngles =
                 Vector3.MoveTowards(GridForImage.transform.eulerAngles, setGridRotation, Time.deltaTime * SpeedClamp);
 
             gameObject.transform.eulerAngles = GridForImage.transform.eulerAngles;
             GridForCam.transform.eulerAngles = GridForImage.transform.eulerAngles;
-            isGridRotate = true;
+            b_isGridRotate = true;
         }
         else//zoom out
         {
-            isGridRotate = false;
+            print("is it play loop");
+            b_isGridRotate = false;
             float SpeedClamp = Mathf.Clamp(Mathf.Abs(insZoom.FrameChangeForGridRot), 40, 450);
             GridForImage.transform.eulerAngles =
                 Vector3.MoveTowards(GridForImage.transform.eulerAngles, Vector3.zero, Time.deltaTime * SpeedClamp);
@@ -37,6 +39,5 @@ public class GridRotate : MonoBehaviour
             GridForCam.transform.eulerAngles = GridForImage.transform.eulerAngles;
         }
         Camera.main.transform.position = transform.position;
-        //
     }
 }
