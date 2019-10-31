@@ -12,27 +12,37 @@ public class DragCameraMove : MonoBehaviour
     Vector3 StartTouch, StartMouse;
     Vector3 StartTouch_world;
 
-    // Start is called before the first frame update
+    private void OnEnable()
+    {
+        Link_touchCheck.OnTouchBegan += this.OnTouchBegan_ToCameraMove;
+        Link_touchCheck.OnTouchMoved += this.OnTouchMoved_ToCameraMove;
+    }
+    private void OnDisable()
+    {
+        Link_touchCheck.OnTouchBegan -= this.OnTouchBegan_ToCameraMove;
+        Link_touchCheck.OnTouchMoved -= this.OnTouchMoved_ToCameraMove;
+    }
     void Start()
     {
         CamAnchor = gameObject;
     }
-    
 
     
-    /// <summary>
-    /// 터치가 들어갈때(한번) 실행되는 함수
-    /// </summary>
-    public void OnTouchBegan()
+    public void OnTouchBegan_ToCameraMove()
     {
         if (!enabled) return;
 
-        StartTouch = TouchCheck.touch.position;
+        StartTouch = Link_touchCheck.touch.position;
         StartMouse = Input.mousePosition;
 
         StartTouch_world = Camera.main.ScreenToWorldPoint(StartTouch
             + Vector3.forward * -Camera.main.transform.position.z);
         //start좌표를 저장하고 월드좌표로 바꿔주는 타이밍도 중요!
+    }
+    public void OnTouchMoved_ToCameraMove()
+    {if (!enabled) return;
+
+        OnTouchMoved_ZoomOff();
     }
 
 
@@ -41,9 +51,9 @@ public class DragCameraMove : MonoBehaviour
     /// </summary>
     public void OnTouchMoved_ZoomOn()
     {
-        Vector3 PreviousPos = TouchCheck.touch.position - TouchCheck.touch.deltaPosition;
+        Vector3 PreviousPos = Link_touchCheck.touch.position - Link_touchCheck.touch.deltaPosition;
 
-        Vector3 CurrentGap = StartTouch - (Vector3)TouchCheck.touch.position;
+        Vector3 CurrentGap = StartTouch - (Vector3)Link_touchCheck.touch.position;
         Vector3 PreviousGap = StartTouch - PreviousPos;
 
         float EachFrameMag = Mathf.Abs((PreviousGap.magnitude - CurrentGap.magnitude) * 0.1f);//0.02f
@@ -57,6 +67,8 @@ public class DragCameraMove : MonoBehaviour
             Mathf.Clamp(CamAnchor.transform.localPosition.y, -CamMoveClamp_ZoomOut_OnZoomed, CamMoveClamp_ZoomOut_OnZoomed),
             CamAnchor.transform.localPosition.z);
 
+        Camera.main.transform.position = CamAnchor.transform.position;
+
     }
 
     /// <summary>
@@ -64,7 +76,7 @@ public class DragCameraMove : MonoBehaviour
     /// </summary>
     public void OnTouchMoved_ZoomOff()
     {
-        Vector3 EndTouch_world = Camera.main.ScreenToWorldPoint((Vector3)TouchCheck.touch.position
+        Vector3 EndTouch_world = Camera.main.ScreenToWorldPoint((Vector3)Link_touchCheck.touch.position
             + Vector3.forward * -Camera.main.transform.position.z);
 
         Vector3 TouchGap_WorldTouch = EndTouch_world - StartTouch_world;
@@ -81,5 +93,6 @@ public class DragCameraMove : MonoBehaviour
         //z축 0으로 고정 (엄청 크게는 상관없는데 값변하는게 신경쓰여서 추가함)[0617]
         //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+        Camera.main.transform.position = CamAnchor.transform.position;
     }
 }

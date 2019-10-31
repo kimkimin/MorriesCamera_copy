@@ -4,7 +4,7 @@ using UnityEngine;
 using System;
 using UnityEngine.EventSystems;
 
-public class TouchCheck : MonoBehaviour
+public class Link_touchCheck : MonoBehaviour
 {
     public static Touch touch;
     public delegate void TouchDelegate();
@@ -16,11 +16,11 @@ public class TouchCheck : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Input.touchCount == 1)
+        if (Input.touchCount == 1)
         {
             touch = Input.GetTouch(0);
 
-            if(touch.phase == TouchPhase.Began)
+            if (touch.phase == TouchPhase.Began)
                 OnTouchBegan?.Invoke();
             if (touch.phase == TouchPhase.Moved)
                 OnTouchMoved?.Invoke();
