@@ -8,8 +8,8 @@ using UnityEngine;
 public class DragCameraMove : MonoBehaviour
 {
     public float CamMoveSpeed;
-    public float CamMoveClamp_ZoomOut;// = 6.5f;
-    public float CamMoveClamp_ZoomOut_OnZoomed;// = 10.5f;
+    public float CamMoveClamp_ZoomOut;
+    public float CamMoveClamp_ZoomOut_OnZoomed;
 
     GameObject CamAnchor;
     Vector3 StartTouch, StartMouse;
@@ -31,8 +31,8 @@ public class DragCameraMove : MonoBehaviour
     }
     
     public void OnTouchBegan_ToCameraMove()
-    {
-        if (!enabled) return;
+    {   if (!enabled) return;
+        if (CameraButton.b_manualCameraActive) return;
 
         StartTouch = Link_touchCheck.touch.position;
         StartMouse = Input.mousePosition;
@@ -41,7 +41,8 @@ public class DragCameraMove : MonoBehaviour
             StartTouch + Vector3.forward * -Camera.main.transform.position.z);
     }
     public void OnTouchMoved_ToCameraMove()
-    { if (!enabled) return;
+    {   if (!enabled) return;
+        if (CameraButton.b_manualCameraActive) return;
 
         if (GetComponent<GridRotate>().b_isGridRotate) OnTouchMoved_ZoomOn();
         else OnTouchMoved_ZoomOff();

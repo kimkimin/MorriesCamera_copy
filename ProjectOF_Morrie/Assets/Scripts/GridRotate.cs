@@ -12,7 +12,9 @@ public class GridRotate : MonoBehaviour
     public bool b_isGridRotate = false;
     
     public GameObject GridForImage, GridForCam;
+    public GameObject cameraActive;
     public DragCameraZoom insZoom;
+    public CameraMode insCamMode;
 
     void Update()
     {
@@ -25,6 +27,11 @@ public class GridRotate : MonoBehaviour
             gameObject.transform.eulerAngles = GridForImage.transform.eulerAngles;
             GridForCam.transform.eulerAngles = GridForImage.transform.eulerAngles;
             b_isGridRotate = true;
+
+            //카메라 ui활성화
+            cameraActive.SetActive(true);
+            if (CameraMode.b_autoMode) insCamMode.AutoButton();
+            else insCamMode.ManualButton();
         }
         else//zoom out
         {
@@ -35,6 +42,10 @@ public class GridRotate : MonoBehaviour
 
             gameObject.transform.eulerAngles = GridForImage.transform.eulerAngles;
             GridForCam.transform.eulerAngles = GridForImage.transform.eulerAngles;
+
+            cameraActive.SetActive(false);
+            insCamMode.autoViewfinder.SetActive(false);
+            //insCamMode.maueViewfinder.SetActive(false);
         }
         Camera.main.transform.position = transform.position;
     }
