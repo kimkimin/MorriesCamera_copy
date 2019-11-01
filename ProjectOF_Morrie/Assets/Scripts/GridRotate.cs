@@ -18,7 +18,6 @@ public class GridRotate : MonoBehaviour
     {
         if (Camera.main.fieldOfView < getGridZoom)//zoom in
         {
-            print("is it play loop");
             float SpeedClamp = Mathf.Clamp(Mathf.Abs(insZoom.FrameChangeForGridRot), 40, 450);
             GridForImage.transform.eulerAngles =
                 Vector3.MoveTowards(GridForImage.transform.eulerAngles, setGridRotation, Time.deltaTime * SpeedClamp);
@@ -29,7 +28,6 @@ public class GridRotate : MonoBehaviour
         }
         else//zoom out
         {
-            print("is it play loop");
             b_isGridRotate = false;
             float SpeedClamp = Mathf.Clamp(Mathf.Abs(insZoom.FrameChangeForGridRot), 40, 450);
             GridForImage.transform.eulerAngles =
