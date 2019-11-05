@@ -7,6 +7,7 @@ public class AnswerCheck : MonoBehaviour
 {
     public RectTransform boxImage;
     public Vector2 boxSizeMin, boxSizeMax;
+    public AnswerGetList insAnswerList;
 
     bool b_isSizeFit = false;
 
@@ -31,10 +32,11 @@ public class AnswerCheck : MonoBehaviour
     {   if (!enabled) return;
         if (!b_isSizeFit) return;
 
+        
         //if
     }
 
-    /*
+    /**/
     /// <summary>
     /// 드래그와 찾은이미지 비교
     /// 손이 떨어졌을때 드래그박스가 이미지범위에서 벗어났는지를 확인
@@ -48,19 +50,23 @@ public class AnswerCheck : MonoBehaviour
         //1. 정답 코너 리스트비교 > 위치비교, 각 코너비교
         //2. 오답 코너 리스트비교 > 위치비교, 각 코너비교
         //3. true false 체크하기
+        //
+        //으ㄸㄷ 
 
-        for (int i = 0; i < ins_tttr.RightObject.Count; i++)
+
+        for (int i = 0; i < insAnswerList.rightAnswer.Length; i++)
         {
-            if (RectTransformUtility.RectangleContainsScreenPoint(CheckRecttransform, ins_tttr.PositionFigureOut_Right()[i]))//position 확인
+
+            if (RectTransformUtility.RectangleContainsScreenPoint(CheckRecttransform, insAnswerList.GetAnswerPosition()[i]))//position 확인
             {
                 for (int j = 0; j < 4; j++)
                 {
-                    if (!RectTransformUtility.RectangleContainsScreenPoint(CheckRecttransform, ins_tttr.GetSizedeltaFromRender(ins_tttr.RightObject[i])[j]))//corner 확인
+                    if (!RectTransformUtility.RectangleContainsScreenPoint(CheckRecttransform, insAnswerList.GetSizedeltaFromRender(insAnswerList.rightAnswer[i])[j]))//corner 확인
                         return false;
                 }
                 return true;
             }
         }
         return false;
-    }*/
+    }
 }
