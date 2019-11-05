@@ -38,7 +38,7 @@ public class DragCameraZoom : MonoBehaviour
     /// 두손가락으로 드래그하는 양으로 줌한다
     /// </summary>
     void ZoomStart()
-    {
+    {   if (CameraButton.b_manualCameraActive) return;
         if (!enabled) return;
 
         b_IsTouch2 = true;
@@ -71,7 +71,7 @@ public class DragCameraZoom : MonoBehaviour
     /// 드래그가 끝나고 화면이 지정범위를 벗어날경우 화면을 댐핑함
     /// </summary>
     void ZoomEnd()
-    {
+    {   if (CameraButton.b_manualCameraActive) return;
         if (!enabled) return;
 
         b_IsTouch2 = false;

@@ -20,6 +20,7 @@ public class DragBoxDraw : MonoBehaviour
     private void OnDisable()
     {
         Link_touchCheck.OnTouchBegan -= this.DragBoxStart;
+        Link_touchCheck.OnTouchEnded -= this.DragBoxEnd;
     }
 
     void Update()

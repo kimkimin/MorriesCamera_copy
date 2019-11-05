@@ -26,16 +26,18 @@ public class GridRotate : MonoBehaviour
 
             gameObject.transform.eulerAngles = GridForImage.transform.eulerAngles;
             GridForCam.transform.eulerAngles = GridForImage.transform.eulerAngles;
-            b_isGridRotate = true;
 
             //카메라 ui활성화
-            cameraActive.SetActive(true);
-            if (CameraMode.b_autoMode) insCamMode.AutoButton();
-            else insCamMode.ManualButton();
+            if (!b_isGridRotate)
+            {
+                cameraActive.SetActive(true);
+                if (CameraMode.b_autoMode) insCamMode.AutoButton();
+                else insCamMode.ManualButton();
+                b_isGridRotate = true;
+            }
         }
         else//zoom out
         {
-            b_isGridRotate = false;
             float SpeedClamp = Mathf.Clamp(Mathf.Abs(insZoom.FrameChangeForGridRot), 40, 450);
             GridForImage.transform.eulerAngles =
                 Vector3.MoveTowards(GridForImage.transform.eulerAngles, Vector3.zero, Time.deltaTime * SpeedClamp);
@@ -43,9 +45,12 @@ public class GridRotate : MonoBehaviour
             gameObject.transform.eulerAngles = GridForImage.transform.eulerAngles;
             GridForCam.transform.eulerAngles = GridForImage.transform.eulerAngles;
 
-            cameraActive.SetActive(false);
-            insCamMode.autoViewfinder.SetActive(false);
-            //insCamMode.maueViewfinder.SetActive(false);
+            if (b_isGridRotate)
+            {
+                cameraActive.SetActive(false);
+                insCamMode.autoViewfinder.SetActive(false);
+                b_isGridRotate = false;
+            }
         }
         Camera.main.transform.position = transform.position;
     }
