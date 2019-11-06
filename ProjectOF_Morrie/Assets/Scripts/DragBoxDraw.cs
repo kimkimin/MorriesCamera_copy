@@ -8,6 +8,7 @@ public class DragBoxDraw : MonoBehaviour
     public RectTransform boxImage;
     public Canvas standardCanvas;
     public bool b_isDrawBox = false;
+    public AnswerCheck insAnswer;
 
     Vector3 cameraCenter;
     Vector3 startPos, endPos;
@@ -76,8 +77,8 @@ public class DragBoxDraw : MonoBehaviour
     }
 
     public void DragBoxEnd()
-    {
-        boxImage.sizeDelta = Vector2.zero;
+    {if(!insAnswer.b_isSizeFit) boxImage.sizeDelta = Vector2.zero;
+
 
         if (!enabled) return;
         if (!CameraButton.b_manualCameraActive) return;

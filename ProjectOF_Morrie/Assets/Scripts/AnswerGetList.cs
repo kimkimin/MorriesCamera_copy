@@ -8,12 +8,13 @@ using UnityEngine;
 public class AnswerGetList : MonoBehaviour
 {
     public GameObject[] rightAnswer;
-    Vector3[] rightPos;
+    public Vector3[] rightPos;
 
     // Start is called before the first frame update
     void Start()
     {
         rightPos = new Vector3[rightAnswer.Length];
+        GetAnswerPosition();
     }
 
     /// <summary>

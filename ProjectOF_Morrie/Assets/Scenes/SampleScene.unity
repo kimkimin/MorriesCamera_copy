@@ -2057,6 +2057,7 @@ MonoBehaviour:
   boxImage: {fileID: 1200416871}
   standardCanvas: {fileID: 638432685}
   b_isDrawBox: 0
+  insAnswer: {fileID: 1200416874}
 --- !u!4 &330453251
 Transform:
   m_ObjectHideFlags: 0
@@ -6415,7 +6416,6 @@ GameObject:
   m_Component:
   - component: {fileID: 986947986}
   - component: {fileID: 986947985}
-  - component: {fileID: 986947984}
   - component: {fileID: 986947987}
   m_Layer: 0
   m_Name: RenderCamera
@@ -6424,14 +6424,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!81 &986947984
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 986947983}
-  m_Enabled: 1
 --- !u!20 &986947985
 Camera:
   m_ObjectHideFlags: 0
@@ -7329,6 +7321,7 @@ GameObject:
   - component: {fileID: 1200416871}
   - component: {fileID: 1200416873}
   - component: {fileID: 1200416872}
+  - component: {fileID: 1200416874}
   m_Layer: 5
   m_Name: Image_DragBox
   m_TagString: Untagged
@@ -7390,7 +7383,25 @@ CanvasRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1200416870}
-  m_CullTransparentMesh: 0
+  m_CullTransparentMesh: 1
+--- !u!114 &1200416874
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1200416870}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9e2b6b22fb9e084380692687a67e347, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  boxRT: {fileID: 1200416871}
+  boxSizeMin: 500
+  boxSizeMax: 1000
+  insAnswerList: {fileID: 2011181073}
+  renderView: {fileID: 386008897}
+  b_isSizeFit: 0
 --- !u!1 &1218582805
 GameObject:
   m_ObjectHideFlags: 0
@@ -11295,7 +11306,7 @@ GameObject:
   - component: {fileID: 2011181072}
   - component: {fileID: 2011181073}
   m_Layer: 0
-  m_Name: '*GetAnswerList'
+  m_Name: '*GetAnswerListManager'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11331,6 +11342,7 @@ MonoBehaviour:
   - {fileID: 426328173}
   - {fileID: 213523340}
   - {fileID: 33041091}
+  rightPos: []
 --- !u!1 &2049818209
 GameObject:
   m_ObjectHideFlags: 0
