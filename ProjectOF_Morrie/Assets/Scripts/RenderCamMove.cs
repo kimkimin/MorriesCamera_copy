@@ -7,9 +7,6 @@ using UnityEngine;
 /// </summary>
 public class RenderCamMove : MonoBehaviour
 {
-    public DragBoxDraw insBoxDraw;
-
-
     public void CorrectAnswerMove()
     {
         transform.position = Camera.main.transform.position;

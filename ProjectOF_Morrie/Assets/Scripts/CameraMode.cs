@@ -26,20 +26,23 @@ public class CameraMode : MonoBehaviour
         ManualModeSetting();
     }
 
+    /// <summary>
+    /// 자동모드 ui 활성화, 초기화
+    /// </summary>
     public void AutoModeSetting()
     {if (b_manualMode) return;
 
         autoViewfinder.SetActive(true);
         camButton.OnCamButton();
-        //오토뷰 활성
         //카메라버튼에서 b_manualCameraActive false로 두고 ManualCamButton() 실행
     }
+    /// <summary>
+    /// 수동모드 ui 비활성화
+    /// </summary>
     public void ManualModeSetting()
     {if (b_autoMode) return;
 
         autoViewfinder.SetActive(false);
         maueViewfinder.SetActive(false);
-        //오토뷰 비활성
-        //매뉴얼뷰 비활성
     }
 }

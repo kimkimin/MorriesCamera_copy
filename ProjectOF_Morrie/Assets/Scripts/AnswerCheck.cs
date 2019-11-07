@@ -7,8 +7,9 @@ public class AnswerCheck : MonoBehaviour
 {
     public RectTransform boxRT; //boxRectTransform
     public float boxSizeMin, boxSizeMax;
-    public AnswerGetList insAnswerList;
     public GameObject renderView;
+    public AnswerGetList insAnswerList;
+    public RenderCamMove insRenderCam;
 
     public bool b_isSizeFit = false;
 
@@ -52,6 +53,7 @@ public class AnswerCheck : MonoBehaviour
         renderView.SetActive(true);
         if (CheckingArea(boxRT))
         {
+            insRenderCam.CorrectAnswerMove();//수정필요
             print("Right");
         }
         else

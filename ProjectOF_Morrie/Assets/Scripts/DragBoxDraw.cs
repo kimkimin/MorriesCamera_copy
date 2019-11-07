@@ -32,6 +32,9 @@ public class DragBoxDraw : MonoBehaviour
             DragBoxOnDraging();
     }
 
+    /// <summary>
+    /// 드래그 시작, 화면 기준 터치좌표 저장
+    /// </summary>
     public void DragBoxStart()
     {   if (!enabled) return;
         if (!CameraButton.b_manualCameraActive) return;
@@ -39,8 +42,8 @@ public class DragBoxDraw : MonoBehaviour
         boxImage.gameObject.SetActive(true);
 
         Vector3 TempMouse;
-        TempMouse.x = Mathf.Clamp(Link_touchCheck.touch.position.x, cameraCenter.x - 530, cameraCenter.x + 540);//캔버스내에서 벗어나지 못하게막음
-        TempMouse.y = Mathf.Clamp(Link_touchCheck.touch.position.y, cameraCenter.y - 959, cameraCenter.y + 960);
+        TempMouse.x = Mathf.Clamp(Link_touchCheck.touch.position.x, cameraCenter.x - Screen.width/2, cameraCenter.x + Screen.width / 2);
+        TempMouse.y = Mathf.Clamp(Link_touchCheck.touch.position.y, cameraCenter.y - Screen.height/2 , cameraCenter.y + Screen.height / 2);
         TempMouse.z = 0;
 
         Vector2 tempPosVector2;
@@ -52,13 +55,16 @@ public class DragBoxDraw : MonoBehaviour
         b_isDrawBox = true;
     }
 
+    /// <summary>
+    /// 드래그, 화면 기준 터치좌표 저장, 드래그 박스 위치 설정, 드래그 박스 사이즈 설정
+    /// </summary>
     public void DragBoxOnDraging()
     {   if (!enabled) return;
         if (!CameraButton.b_manualCameraActive) return;
 
         Vector3 TempMouse;
-        TempMouse.x = Mathf.Clamp(Link_touchCheck.touch.position.x, cameraCenter.x - 530, cameraCenter.x + 540);
-        TempMouse.y = Mathf.Clamp(Link_touchCheck.touch.position.y, cameraCenter.y - 959, cameraCenter.y + 960);
+        TempMouse.x = Mathf.Clamp(Link_touchCheck.touch.position.x, cameraCenter.x - Screen.width / 2, cameraCenter.x + Screen.width / 2);
+        TempMouse.y = Mathf.Clamp(Link_touchCheck.touch.position.y, cameraCenter.y - Screen.height / 2, cameraCenter.y + Screen.height / 2);
         TempMouse.z = 0;
 
         Vector2 tempPosVector2;
@@ -76,14 +82,15 @@ public class DragBoxDraw : MonoBehaviour
 
     }
 
+    /// <summary>
+    /// 드래그 종료, 초기화 
+    /// </summary>
     public void DragBoxEnd()
-    {if(!insAnswer.b_isSizeFit) boxImage.sizeDelta = Vector2.zero;
-
-
+    {if(!insAnswer.b_isSizeFit) boxImage.sizeDelta = Vector2.zero;//수정필요
+    
         if (!enabled) return;
         if (!CameraButton.b_manualCameraActive) return;
-
-        //드래그 박스가 끝나고
+        
         if (b_isDrawBox)//버튼클릭과 동시에 드래그실행됨을 방지
         {
             boxImage.gameObject.SetActive(false);
@@ -91,8 +98,10 @@ public class DragBoxDraw : MonoBehaviour
         }
     }
 
-
-    //드래그 방향과 상관없이 계산가능한 끝점
+    
+    /// <summary>
+    /// 드래그 방향과 상관없이 계산가능한 끝점 반환
+    /// </summary>
     Vector3 GetNewRatioEndPoint(Vector3 start, Vector3 end)
     {
         Vector3 newEnd = end;
