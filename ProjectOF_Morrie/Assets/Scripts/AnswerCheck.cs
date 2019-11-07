@@ -3,13 +3,18 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+/// <summary>
+/// Manual모드에서 정답을 확인
+/// </summary>
 public class AnswerCheck : MonoBehaviour
 {
     public RectTransform boxRT; //boxRectTransform
     public float boxSizeMin, boxSizeMax;
-    public GameObject renderView;
+    //public GameObject renderView;
     public AnswerGetList insAnswerList;
-    public RenderCamMove insRenderCam;
+    public RenderViewActive insRenderView;
+    //public RenderCamMove insRenderCam;
+    //public RenderViewMaskResetting insRenderMask;
 
     public bool b_isSizeFit = false;
 
@@ -25,7 +30,7 @@ public class AnswerCheck : MonoBehaviour
     }
 
     /// <summary>
-    /// 드래그시 박스가 
+    /// 드래그시 박스가 촬영가능 영역인지 표시
     /// </summary>
     public void CheckingSizeDragMove()
     {if (!gameObject.activeSelf) return;
@@ -43,17 +48,27 @@ public class AnswerCheck : MonoBehaviour
                 boxRT.gameObject.GetComponent<Image>().color = Color.grey * new Color(1, 1, 1, 0.5f); ;
             }
         }
+        else
+        {
+            b_isSizeFit = false;
+            boxRT.gameObject.GetComponent<Image>().color = Color.grey * new Color(1, 1, 1, 0.5f); ;
+        }
     }
 
+    /// <summary>
+    /// 드래그 종료시 정답영역을 확인하고 프린트
+    /// </summary>
     public void CheckingAnswerDragEnd()
     {   if (!enabled) return;
         if (!b_isSizeFit) return;
 
         boxRT.gameObject.SetActive(false);
-        renderView.SetActive(true);
+        insRenderView.ActiveRenderView();
+        //renderView.SetActive(true);
+        //insRenderMask.MaskResizing();
+        //insRenderCam.CorrectAnswerMove();
         if (CheckingArea(boxRT))
         {
-            insRenderCam.CorrectAnswerMove();//수정필요
             print("Right");
         }
         else

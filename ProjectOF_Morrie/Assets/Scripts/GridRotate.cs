@@ -16,6 +16,7 @@ public class GridRotate : MonoBehaviour
     public DragCameraZoom insZoom;
     public CameraMode insCamMode;
 
+
     void Update()
     {
         if (Camera.main.fieldOfView < getGridZoom)//zoom in

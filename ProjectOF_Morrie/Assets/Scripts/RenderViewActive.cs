@@ -8,6 +8,9 @@ using UnityEngine;
 /// </summary>
 public class RenderViewActive : MonoBehaviour
 {
+    public RenderCamMove insRenderCam;
+    public RenderViewMaskResetting insRenderMask;
+
     private void OnEnable()
     {
         DragCameraZoom.b_IsTouch2 = !DragCameraZoom.b_IsTouch2;
@@ -22,5 +25,12 @@ public class RenderViewActive : MonoBehaviour
     public void DeactivateRenderView()
     {
         gameObject.SetActive(false);
+    }
+
+    public void ActiveRenderView()
+    {
+        gameObject.SetActive(true);
+        insRenderMask.MaskResizing();
+        insRenderCam.CorrectAnswerMove();
     }
 }

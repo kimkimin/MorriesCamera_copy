@@ -4,6 +4,9 @@ using UnityEngine;
 using System;
 using UnityEngine.EventSystems;
 
+/// <summary>
+/// 터치 인풋을 검사
+/// </summary>
 public class Link_touchCheck : MonoBehaviour
 {
     public static Touch touch;

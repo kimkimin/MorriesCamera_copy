@@ -591,6 +591,7 @@ MonoBehaviour:
   dragBoxDrawActive: {fileID: 330453249}
   manualViewFinder: {fileID: 1646089003}
   isManualNow: 0
+  insRenderView: {fileID: 386008900}
 --- !u!1 &103840193
 GameObject:
   m_ObjectHideFlags: 0
@@ -2143,6 +2144,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea5cf84b5d5ad1d43afc8fac0cf57e3c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  insRenderCam: {fileID: 986947987}
+  insRenderMask: {fileID: 1822050036}
 --- !u!1 &411670535
 GameObject:
   m_ObjectHideFlags: 0
@@ -7506,9 +7509,8 @@ MonoBehaviour:
   boxRT: {fileID: 1200416871}
   boxSizeMin: 500
   boxSizeMax: 1000
-  renderView: {fileID: 386008897}
   insAnswerList: {fileID: 2011181073}
-  insRenderCam: {fileID: 986947987}
+  insRenderView: {fileID: 386008900}
   b_isSizeFit: 0
 --- !u!1 &1218582805
 GameObject:
@@ -10249,6 +10251,7 @@ GameObject:
   - component: {fileID: 1822050034}
   - component: {fileID: 1822050033}
   - component: {fileID: 1822050035}
+  - component: {fileID: 1822050036}
   m_Layer: 5
   m_Name: LoadImageMask
   m_TagString: Untagged
@@ -10325,6 +10328,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_ShowMaskGraphic: 1
+--- !u!114 &1822050036
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1822050031}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df89740c5c0446e4a9d7970b54f43db9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  boxRT: {fileID: 1200416871}
+  viewFinderRT: {fileID: 1776039376}
 --- !u!1 &1825764711
 GameObject:
   m_ObjectHideFlags: 0

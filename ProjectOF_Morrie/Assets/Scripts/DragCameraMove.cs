@@ -30,6 +30,9 @@ public class DragCameraMove : MonoBehaviour
         CamAnchor = gameObject;
     }
     
+    /// <summary>
+    /// 터치 시작
+    /// </summary>
     public void OnTouchBegan_ToCameraMove()
     {   if (!enabled) return;
         if (CameraButton.b_manualCameraActive) return;
@@ -40,6 +43,10 @@ public class DragCameraMove : MonoBehaviour
         StartTouch_world = Camera.main.ScreenToWorldPoint(
             StartTouch + Vector3.forward * -Camera.main.transform.position.z);
     }
+
+    /// <summary>
+    /// 터치중
+    /// </summary>
     public void OnTouchMoved_ToCameraMove()
     {   if (!enabled) return;
         if (CameraButton.b_manualCameraActive) return;
@@ -59,7 +66,7 @@ public class DragCameraMove : MonoBehaviour
         Vector3 CurrentGap = StartTouch - (Vector3)Link_touchCheck.touch.position;
         Vector3 PreviousGap = StartTouch - PreviousPos;
 
-        float EachFrameMag = Mathf.Abs((PreviousGap.magnitude - CurrentGap.magnitude) * 0.1f);
+        float EachFrameMag = Mathf.Abs((PreviousGap.magnitude - CurrentGap.magnitude) * 0.1f);//그래서 쓰리디일때는 갭을계산해서 이동하구
 
         Vector3 EachFrameDiff = -(PreviousGap - CurrentGap).normalized * 0.1f * EachFrameMag;
         CamAnchor.transform.Translate(EachFrameDiff);
@@ -78,7 +85,7 @@ public class DragCameraMove : MonoBehaviour
         Vector3 EndTouch_world = Camera.main.ScreenToWorldPoint((Vector3)Link_touchCheck.touch.position
             + Vector3.forward * -Camera.main.transform.position.z);
 
-        Vector3 TouchGap_WorldTouch = EndTouch_world - StartTouch_world;
+        Vector3 TouchGap_WorldTouch = EndTouch_world - StartTouch_world;//투디일때는 걍합니다.
         CamAnchor.transform.localPosition -= TouchGap_WorldTouch;
 
         CamAnchor.transform.localPosition = new Vector3(

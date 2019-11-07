@@ -33,7 +33,7 @@ public class CameraMode : MonoBehaviour
     {if (b_manualMode) return;
 
         autoViewfinder.SetActive(true);
-        camButton.OnCamButton();
+        if (CameraButton.b_manualCameraActive) camButton.ManualCamButton();
         //카메라버튼에서 b_manualCameraActive false로 두고 ManualCamButton() 실행
     }
     /// <summary>

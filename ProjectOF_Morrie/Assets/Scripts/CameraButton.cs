@@ -12,6 +12,7 @@ public class CameraButton : MonoBehaviour
     public GameObject manualViewFinder;
     public static bool b_manualCameraActive = false;
     public bool isManualNow;
+    public RenderViewActive insRenderView;
 
     private void Update()
     {
@@ -26,10 +27,11 @@ public class CameraButton : MonoBehaviour
 
     void AutoCamButton()
     {
+        insRenderView.ActiveRenderView();
         //세이브 포토 O
         print("Save Photo");
     }
-    void ManualCamButton()
+    public void ManualCamButton()
     {
         if (b_manualCameraActive)
         {
