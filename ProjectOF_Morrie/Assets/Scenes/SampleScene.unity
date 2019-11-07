@@ -591,7 +591,7 @@ MonoBehaviour:
   dragBoxDrawActive: {fileID: 330453249}
   manualViewFinder: {fileID: 1646089003}
   isManualNow: 0
-  insRenderView: {fileID: 386008900}
+  insAnswerCheck: {fileID: 1200416874}
 --- !u!1 &103840193
 GameObject:
   m_ObjectHideFlags: 0
@@ -7507,6 +7507,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   boxRT: {fileID: 1200416871}
+  viewRT: {fileID: 1776039376}
   boxSizeMin: 500
   boxSizeMax: 1000
   insAnswerList: {fileID: 2011181073}

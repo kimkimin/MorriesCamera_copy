@@ -4,17 +4,14 @@ using UnityEngine;
 using UnityEngine.UI;
 
 /// <summary>
-/// Manual모드에서 정답을 확인
+/// 모드에 따라 정답을 확인
 /// </summary>
 public class AnswerCheck : MonoBehaviour
 {
-    public RectTransform boxRT; //boxRectTransform
+    public RectTransform boxRT, viewRT; //boxRectTransform
     public float boxSizeMin, boxSizeMax;
-    //public GameObject renderView;
     public AnswerGetList insAnswerList;
     public RenderViewActive insRenderView;
-    //public RenderCamMove insRenderCam;
-    //public RenderViewMaskResetting insRenderMask;
 
     public bool b_isSizeFit = false;
 
@@ -30,7 +27,7 @@ public class AnswerCheck : MonoBehaviour
     }
 
     /// <summary>
-    /// 드래그시 박스가 촬영가능 영역인지 표시
+    /// Manu모드에서 드래그시 박스가 촬영가능 영역인지 표시
     /// </summary>
     public void CheckingSizeDragMove()
     {if (!gameObject.activeSelf) return;
@@ -56,17 +53,14 @@ public class AnswerCheck : MonoBehaviour
     }
 
     /// <summary>
-    /// 드래그 종료시 정답영역을 확인하고 프린트
+    /// Manu모드에서 드래그 종료시 정답영역을 확인하고 프린트
     /// </summary>
     public void CheckingAnswerDragEnd()
-    {   if (!enabled) return;
+    {
         if (!b_isSizeFit) return;
-
+        
         boxRT.gameObject.SetActive(false);
         insRenderView.ActiveRenderView();
-        //renderView.SetActive(true);
-        //insRenderMask.MaskResizing();
-        //insRenderCam.CorrectAnswerMove();
         if (CheckingArea(boxRT))
         {
             print("Right");
@@ -79,9 +73,25 @@ public class AnswerCheck : MonoBehaviour
         b_isSizeFit = false;//초기화
 
     }
+
+    /// <summary>
+    /// Auto모드에서 카메라버튼을 눌렀을때 정답영역을 확인하고 프린트
+    /// </summary>
+    public void CheckingAnswerCamButton()
+    {
+        insRenderView.ActiveRenderView();
+        if (CheckingArea(viewRT))
+        {
+            print("Right");
+        }
+        else
+        {
+            print("Wrong");
+        }
+    }
     
     /// <summary>
-    /// 드래그 영역안에 정답이 있는지 확인
+    /// CheckRT 영역안에 정답이 있는지 확인
     /// </summary>
     public bool CheckingArea(RectTransform CheckRT)//CheckRectTransform
     {
@@ -101,5 +111,4 @@ public class AnswerCheck : MonoBehaviour
         }
         return false;
     }
-    //오답 확인할 필요없음 
 }

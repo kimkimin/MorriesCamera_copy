@@ -11,13 +11,7 @@ public class CameraButton : MonoBehaviour
     public GameObject dragBoxDrawActive;
     public GameObject manualViewFinder;
     public static bool b_manualCameraActive = false;
-    public bool isManualNow;
-    public RenderViewActive insRenderView;
-
-    private void Update()
-    {
-        isManualNow = b_manualCameraActive;
-    }
+    public AnswerCheck insAnswerCheck;
 
     public void OnCamButton()
     {
@@ -27,8 +21,7 @@ public class CameraButton : MonoBehaviour
 
     void AutoCamButton()
     {
-        insRenderView.ActiveRenderView();
-        //세이브 포토 O
+        insAnswerCheck.CheckingAnswerCamButton();
         print("Save Photo");
     }
     public void ManualCamButton()
@@ -45,7 +38,6 @@ public class CameraButton : MonoBehaviour
             dragBoxDrawActive.SetActive(true);
             b_manualCameraActive = true;
         }
-        //세이브 포토 X
         print("Save Photo");
     }
 }
