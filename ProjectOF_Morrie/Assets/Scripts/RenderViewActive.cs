@@ -10,6 +10,7 @@ public class RenderViewActive : MonoBehaviour
 {
     public RenderCamMove insRenderCam;
     public RenderViewMaskResetting insRenderMask;
+    public PictureSave insPictureSave;
 
     private void OnEnable()
     {
@@ -32,5 +33,10 @@ public class RenderViewActive : MonoBehaviour
         gameObject.SetActive(true);
         insRenderMask.MaskResizing();
         insRenderCam.CorrectAnswerMove();
+    }
+
+    public void SavePhotoFromPictureSave()
+    {
+        insPictureSave.SavePhoto();
     }
 }

@@ -9,19 +9,35 @@ using System.IO;
 /// </summary>
 public class PictureSave : MonoBehaviour
 {
-    public RectTransform getReadSize;
-    //public bool can
     // Start is called before the first frame update
     void Start()
     {
         Screen.SetResolution(Screen.width, Screen.height, true);
-        //아직 옮겨놓지 않음 
-        //이미지 캡쳐가 고정이라 새로 지정해도 괜찮을거같음
     }
 
-    // Update is called once per frame
-    void Update()
+    public void SavePhoto()
     {
+        StartCoroutine(TakeA_Picture());
+    }
+
+    IEnumerator TakeA_Picture()
+    {
+        yield return new WaitForEndOfFrame();
+        //한프레임 대기
         
+        Texture2D screenShot = new Texture2D(600, 600, TextureFormat.RGB24, false);
+        screenShot.ReadPixels(new Rect(Screen.width/2 - 300, Screen.height/2 - 197, screenShot.width, screenShot.height), 0, 0);
+        screenShot.Apply();
+
+        if (SystemInfo.deviceType == DeviceType.Handheld)
+        {
+            byte[] bytes = screenShot.EncodeToPNG();
+            System.IO.File.WriteAllBytes(Path.Combine(Application.persistentDataPath, "capture.png"), bytes);
+        }
+        else
+        {
+            byte[] bytes = screenShot.EncodeToPNG();
+            System.IO.File.WriteAllBytes(Path.Combine("D:/MorriesCamera/MorriesCameraUnity/ProjectOF_Morrie/Assets/Image/SavePhoto", "capture.png"), bytes);
+        }
     }
 }

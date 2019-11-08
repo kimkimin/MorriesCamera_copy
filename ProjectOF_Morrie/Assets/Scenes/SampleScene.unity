@@ -590,7 +590,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dragBoxDrawActive: {fileID: 330453249}
   manualViewFinder: {fileID: 1646089003}
-  isManualNow: 0
   insAnswerCheck: {fileID: 1200416874}
 --- !u!1 &103840193
 GameObject:
@@ -2146,6 +2145,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   insRenderCam: {fileID: 986947987}
   insRenderMask: {fileID: 1822050036}
+  insPictureSave: {fileID: 963194230}
 --- !u!1 &411670535
 GameObject:
   m_ObjectHideFlags: 0
@@ -6000,6 +6000,7 @@ GameObject:
   - component: {fileID: 963194227}
   - component: {fileID: 963194226}
   - component: {fileID: 963194229}
+  - component: {fileID: 963194230}
   m_Layer: 0
   m_Name: MainCamera
   m_TagString: MainCamera
@@ -6094,6 +6095,18 @@ MonoBehaviour:
   AfterDamping: {x: 0, y: 0}
   cam: {fileID: 963194227}
   FrameChangeForGridRot: 0
+--- !u!114 &963194230
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 963194225}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14fc10a531ab5094ba9ba83e5639286c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &974862424
 GameObject:
   m_ObjectHideFlags: 0
