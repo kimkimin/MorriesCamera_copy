@@ -99,7 +99,6 @@ public class AnswerCheck : MonoBehaviour
         {
             if (RectTransformUtility.RectangleContainsScreenPoint(CheckRT, insAnswerList.GetAnswerPosition()[i]))//position 확인
             {
-                print("위치통과");
                 for (int j = 0; j < 4; j++)
                 {
                     if (!RectTransformUtility.RectangleContainsScreenPoint(CheckRT, insAnswerList.GetSizedeltaFromRender(insAnswerList.rightAnswer[i])[j]))//corner 확인
@@ -107,7 +106,6 @@ public class AnswerCheck : MonoBehaviour
                 }
                 return true;
             }
-            print(insAnswerList.GetAnswerPosition()[i] + ", in " + CheckRT.transform.position);
         }
         return false;
     }

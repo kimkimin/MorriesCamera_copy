@@ -11,6 +11,7 @@ public class RenderViewActive : MonoBehaviour
     public RenderCamMove insRenderCam;
     public RenderViewMaskResetting insRenderMask;
     public PictureSave insPictureSave;
+    public PictureLoad insPictureLoad;
 
     private void OnEnable()
     {
@@ -20,14 +21,21 @@ public class RenderViewActive : MonoBehaviour
     private void OnDisable()
     {
         DragCameraZoom.b_IsTouch2 = !DragCameraZoom.b_IsTouch2;
-        print(DragCameraZoom.b_IsTouch2);
+        //print(DragCameraZoom.b_IsTouch2);
     }
 
+    /// <summary>
+    /// 애님 종료시 랜더뷰 비활성화 실행
+    /// </summary>
     public void DeactivateRenderView()
     {
+        insPictureLoad.LoadA_Picture();//임시
         gameObject.SetActive(false);
     }
 
+    /// <summary>
+    /// 랜더뷰 활성화
+    /// </summary>
     public void ActiveRenderView()
     {
         gameObject.SetActive(true);
@@ -35,6 +43,9 @@ public class RenderViewActive : MonoBehaviour
         insRenderCam.CorrectAnswerMove();
     }
 
+    /// <summary>
+    /// 애님 중간에 랜더뷰 팝업되었을때 사진저장 실행
+    /// </summary>
     public void SavePhotoFromPictureSave()
     {
         insPictureSave.SavePhoto();
