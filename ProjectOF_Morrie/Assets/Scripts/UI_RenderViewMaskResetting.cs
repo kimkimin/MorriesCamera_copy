@@ -5,7 +5,7 @@ using UnityEngine;
 /// <summary>
 /// 랜더뷰 세팅
 /// </summary>
-public class RenderViewMaskResetting : MonoBehaviour
+public class UI_RenderViewMaskResetting : MonoBehaviour
 {
     public RectTransform boxRT, viewFinderRT;
 

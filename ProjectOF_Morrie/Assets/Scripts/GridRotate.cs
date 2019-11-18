@@ -13,7 +13,7 @@ public class GridRotate : MonoBehaviour
     
     public GameObject GridForImage, GridForCam;
     public GameObject cameraActive;
-    public DragCameraZoom insZoom;
+    public Play_DragCameraZoom insZoom;
     public CameraMode insCamMode;
 
 

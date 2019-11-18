@@ -6,12 +6,12 @@ using UnityEngine.UI;
 /// <summary>
 /// 모드에 따라 정답을 확인
 /// </summary>
-public class AnswerCheck : MonoBehaviour
+public class Play_AnswerCheck : MonoBehaviour
 {
     public RectTransform boxRT, viewRT; //boxRectTransform
     public float boxSizeMin, boxSizeMax;
-    public AnswerGetList insAnswerList;
-    public RenderViewActive insRenderView;
+    public Play_AnswerGetList insAnswerList;
+    public UI_RenderViewActive insRenderView;
 
     public bool b_isSizeFit = false;
 

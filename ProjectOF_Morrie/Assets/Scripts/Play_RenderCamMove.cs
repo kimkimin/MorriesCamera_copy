@@ -5,7 +5,7 @@ using UnityEngine;
 /// <summary>
 /// 정답일 경우 랜더카메라를 메인카메라 위치로 이동
 /// </summary>
-public class RenderCamMove : MonoBehaviour
+public class Play_RenderCamMove : MonoBehaviour
 {
     public void CorrectAnswerMove()
     {

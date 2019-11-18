@@ -5,7 +5,7 @@ using UnityEngine;
 /// <summary>
 /// 카메라 줌
 /// </summary>
-public class DragCameraZoom : MonoBehaviour
+public class Play_DragCameraZoom : MonoBehaviour
 {
     public float a_zoomInBeforeDamping, a_zoomInAfterDamping;
     public float ma_zoomInBeforeDamping, ma_zoomInAfterDamping;

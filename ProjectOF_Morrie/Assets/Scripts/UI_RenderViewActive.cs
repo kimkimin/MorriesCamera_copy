@@ -6,21 +6,21 @@ using UnityEngine;
 /// 렌더뷰가 활성화 됐을때 터치를 방지, 
 /// 렌더뷰 애니메이션 종료시 렌더뷰 비활성화
 /// </summary>
-public class RenderViewActive : MonoBehaviour
+public class UI_RenderViewActive : MonoBehaviour
 {
-    public RenderCamMove insRenderCam;
-    public RenderViewMaskResetting insRenderMask;
+    public Play_RenderCamMove insRenderCam;
+    public UI_RenderViewMaskResetting insRenderMask;
     public PictureSave insPictureSave;
     public PictureLoad insPictureLoad;
 
     private void OnEnable()
     {
-        DragCameraZoom.b_IsTouch2 = !DragCameraZoom.b_IsTouch2;
-        print(DragCameraZoom.b_IsTouch2);
+        Play_DragCameraZoom.b_IsTouch2 = !Play_DragCameraZoom.b_IsTouch2;
+        print(Play_DragCameraZoom.b_IsTouch2);
     }
     private void OnDisable()
     {
-        DragCameraZoom.b_IsTouch2 = !DragCameraZoom.b_IsTouch2;
+        Play_DragCameraZoom.b_IsTouch2 = !Play_DragCameraZoom.b_IsTouch2;
         //print(DragCameraZoom.b_IsTouch2);
     }
 

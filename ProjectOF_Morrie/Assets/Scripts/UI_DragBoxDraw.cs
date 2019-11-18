@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 //using System;
 
-public class DragBoxDraw : MonoBehaviour
+public class UI_DragBoxDraw : MonoBehaviour
 {
     public RectTransform boxImage;
     public Canvas standardCanvas;
     public bool b_isDrawBox = false;
-    public AnswerCheck insAnswer;
+    public Play_AnswerCheck insAnswer;
 
     Vector3 cameraCenter;
     Vector3 startPos, endPos;

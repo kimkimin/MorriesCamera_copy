@@ -5,7 +5,7 @@ using UnityEngine;
 /// <summary>
 /// 카메라 이동
 /// </summary>
-public class DragCameraMove : MonoBehaviour
+public class Play_DragCameraMove : MonoBehaviour
 {
     public float CamMoveSpeed;
     public float CamMoveClamp_ZoomOut;

@@ -11,7 +11,7 @@ public class CameraButton : MonoBehaviour
     public GameObject dragBoxDrawActive;
     public GameObject manualViewFinder;
     public static bool b_manualCameraActive = false;
-    public AnswerCheck insAnswerCheck;
+    public Play_AnswerCheck insAnswerCheck;
 
     public void OnCamButton()
     {

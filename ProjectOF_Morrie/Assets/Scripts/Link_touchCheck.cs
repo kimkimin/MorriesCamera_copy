@@ -19,7 +19,7 @@ public class Link_touchCheck : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.touchCount == 1 && !DragCameraZoom.b_IsTouch2)
+        if (Input.touchCount == 1 && !Play_DragCameraZoom.b_IsTouch2)
         {
             touch = Input.GetTouch(0);
 

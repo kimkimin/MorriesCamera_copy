@@ -5,7 +5,7 @@ using UnityEngine;
 /// <summary>
 /// 정답 목록을 가져오고, 해당 목록의 위치값과 코너값 리스트를 return
 /// </summary>
-public class AnswerGetList : MonoBehaviour
+public class Play_AnswerGetList : MonoBehaviour
 {
     public GameObject[] rightAnswer;
     public Vector3[] rightPos;
