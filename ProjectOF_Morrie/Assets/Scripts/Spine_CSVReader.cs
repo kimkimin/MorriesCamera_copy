@@ -32,10 +32,10 @@ public class Spine_CSVReader : MonoBehaviour
         List<string> anim = new List<string>();
         for (int i = 0; i < voka.Count; i++)
         {
-            print("matched with " + voka[i][(int)SpineCategory.Skin] + "?");
+            //print("matched with " + voka[i][(int)SpineCategory.Skin] + "?");
             if (skin == voka[i][(int)SpineCategory.Skin])
             {
-                print("matched");
+                //print("matched");
                 for (int j = (int)SpineCategory.Idle; j < voka[i].Length; j++)
                 {
                     anim.Add(voka[i][j]);
@@ -43,10 +43,9 @@ public class Spine_CSVReader : MonoBehaviour
                 return anim;
             }
         }
-        print("Return null");
+        //print("Return null");
         return null;
     }
-    //여기서부터
 
     public enum SpineCategory
     {

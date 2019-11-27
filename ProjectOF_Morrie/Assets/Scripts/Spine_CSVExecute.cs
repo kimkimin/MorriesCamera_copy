@@ -5,32 +5,32 @@ using Spine.Unity;
 
 public class Spine_CSVExecute : MonoBehaviour
 {
-    SkeletonAnimation mySk;
     List<string[]> voka = new List<string[]>();
     List<string> anim = new List<string>();
+
     // Start is called before the first frame update
     void Start()
     {
+        GetVoka();
+    }
+
+    void GetVoka()
+    {
         StreamReader sr = new StreamReader(Application.dataPath + "/Resource/Morries_SpineAnimation_CSV.csv");
         string source = sr.ReadToEnd();
-        mySk = GetComponent<SkeletonAnimation>();
-        print(mySk.initialSkinName);
-
-        GetVoka(source);
-        //List<Dictionary<string, string>> dictList = Spine_CSVReader.Reader(source);
-
+        voka = Spine_CSVReader.SplitVoka(source);
     }
 
-    void GetVoka(string csv)
+    public void CheckSkin(SkeletonAnimation skelton_)
     {
-        voka = Spine_CSVReader.SplitVoka(csv);
-        anim = Spine_CSVReader.SplitSkin(voka, mySk.initialSkinName);
-        SetAnim(anim);
+        anim = Spine_CSVReader.SplitSkin(voka, skelton_.initialSkinName);
+        SetAnim(anim, skelton_);
     }
 
-    void SetAnim(List<string> anim_)
+    void SetAnim(List<string> anim_, SkeletonAnimation skeleton_)
     {
-        print("내스킨 : " + mySk.initialSkinName + ", 내아이들 : " + anim_[0]);
-        mySk.AnimationName = anim_[0];
+        //print("내스킨 : " + skeleton_.initialSkinName + ", 내아이들 : " + anim_[0]);
+        skeleton_.AnimationName = anim_[0];
+        skeleton_.gameObject.GetComponent<Spine_SetAnimList>().SetAnim(anim);
     }
 }

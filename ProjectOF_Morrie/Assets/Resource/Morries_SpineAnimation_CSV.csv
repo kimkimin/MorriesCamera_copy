@@ -1,0 +1,7 @@
+SpineName,Skin,idle or verb,Touch1,Touch2,Touch3
+Pub_standing01,S1_HandsOnHip_pants,S1_HandsOnHip_pants_idle,S1_HandsOnHip_pants_t1_RE,,
+Pub_standing01,S1_drink_onepiece,S1_drink_onepiece_idle,S1_drink_onepiece_t1_RE,,
+Pub_standing01,S1_nod_pants,S1_nod_pants_idle,S1_nod_pants_t1_RE,,
+Pub_standing01,S1_point_pants,S1_point_pants_idle,S1_point2_pants_t1_RE,,
+Pub_standing01,S1_touchtube_glasses,S1_touchtube_glasses_idle,S1_touchtube_glasses_t1_RE,,
+Pub_standing02,S1_laugh_pants,S1_laugh_pants_idle,S1_laugh_pants_T1_E,S1_laugh_pants_T2_L,S1_laugh_pants_T3_E
