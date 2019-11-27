@@ -1,0 +1,160 @@
+
+Pub_standing01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armL_handsOnHip
+  rotate: false
+  xy: 84, 136
+  size: 37, 68
+  orig: 37, 68
+  offset: 0, 0
+  index: -1
+armL_tube
+  rotate: true
+  xy: 2, 111
+  size: 59, 41
+  orig: 59, 41
+  offset: 0, 0
+  index: -1
+armR_drink
+  rotate: true
+  xy: 45, 114
+  size: 56, 34
+  orig: 56, 34
+  offset: 0, 0
+  index: -1
+armR_handsOnHip
+  rotate: false
+  xy: 123, 138
+  size: 38, 66
+  orig: 38, 66
+  offset: 0, 0
+  index: -1
+armR_itchy
+  rotate: false
+  xy: 462, 405
+  size: 38, 95
+  orig: 38, 95
+  offset: 0, 0
+  index: -1
+armR_point
+  rotate: false
+  xy: 280, 181
+  size: 95, 39
+  orig: 95, 39
+  offset: 0, 0
+  index: -1
+armR_tube
+  rotate: true
+  xy: 333, 325
+  size: 70, 83
+  orig: 70, 83
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 218, 303
+  size: 113, 197
+  orig: 113, 197
+  offset: 0, 0
+  index: -1
+closedeye
+  rotate: false
+  xy: 114, 320
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+drink
+  rotate: false
+  xy: 203, 141
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: -1
+earL
+  rotate: false
+  xy: 280, 222
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+earR
+  rotate: true
+  xy: 361, 255
+  size: 68, 88
+  orig: 68, 88
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 127, 320
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+legL
+  rotate: true
+  xy: 418, 347
+  size: 53, 81
+  orig: 53, 81
+  offset: 0, 0
+  index: -1
+legR
+  rotate: false
+  xy: 411, 402
+  size: 49, 98
+  orig: 49, 98
+  offset: 0, 0
+  index: -1
+legR_handsOnHip
+  rotate: true
+  xy: 114, 328
+  size: 71, 98
+  orig: 71, 98
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 114, 206
+  size: 95, 164
+  orig: 95, 164
+  offset: 0, 0
+  index: -1
+onepiece
+  rotate: false
+  xy: 2, 280
+  size: 110, 119
+  orig: 110, 119
+  offset: 0, 0
+  index: -1
+pants
+  rotate: true
+  xy: 2, 172
+  size: 106, 80
+  orig: 106, 80
+  offset: 0, 0
+  index: -1
+pants02
+  rotate: true
+  xy: 333, 397
+  size: 103, 76
+  orig: 103, 76
+  offset: 0, 0
+  index: -1
+sunglasses
+  rotate: true
+  xy: 163, 138
+  size: 66, 38
+  orig: 66, 38
+  offset: 0, 0
+  index: -1
+tube_up
+  rotate: false
+  xy: 2, 401
+  size: 214, 99
+  orig: 214, 99
+  offset: 0, 0
+  index: -1
