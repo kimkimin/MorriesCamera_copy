@@ -2,10 +2,14 @@
 using UnityEngine;
 using System.Text.RegularExpressions;
 
+/// <summary>
+/// CSV를 받아와서 읽고 애님배열을 반환
+/// </summary>
 public class Spine_CSVReader : MonoBehaviour
 {
     static string SPLIT_LINE = "\n"; // 줄바꿈 패턴의 문자열을 분리 하는데 쓰임
     static string SPLIT_COMMA = ","; // 특정 패턴의 문자열로 분리 하는데 쓰임
+    static string SPLIT_UNDERBAR = "_";
     static char[] TRIM_CHAR = { }; // 단어의 양끝에 공백또는 지정 문자를 제거하는데 쓰임
 
 
@@ -47,6 +51,13 @@ public class Spine_CSVReader : MonoBehaviour
         return null;
     }
 
+    public static string SplitType(string anim)
+    {
+        string[] splitAnim = Regex.Split(anim, SPLIT_UNDERBAR);
+        string splitType = splitAnim[splitAnim.Length - 1];
+        return splitType;
+    }
+
     public enum SpineCategory
     {
         Name,
@@ -56,10 +67,10 @@ public class Spine_CSVReader : MonoBehaviour
 
     public enum AnimCategory
     {
-        Idle,
-        Touch1,
-        Touch2,
-        Touch3,
-        Touch4
+        idle,
+        t1,
+        t2,
+        t3,
+        t4
     }
 }
