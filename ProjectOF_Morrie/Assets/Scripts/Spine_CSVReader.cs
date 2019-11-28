@@ -51,9 +51,15 @@ public class Spine_CSVReader : MonoBehaviour
     {
         Name,
         Skin,
+        Idle
+    }
+
+    public enum AnimCategory
+    {
         Idle,
         Touch1,
         Touch2,
-        Touch3
+        Touch3,
+        Touch4
     }
 }

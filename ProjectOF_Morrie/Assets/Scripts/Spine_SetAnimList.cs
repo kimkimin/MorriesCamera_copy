@@ -8,16 +8,15 @@ public class Spine_SetAnimList : MonoBehaviour
 
     public void SetAnim(List<string> anim)
     {
-        animList = anim;
-        for (int i = 0; i < animList.Count; i++)
+        int count = anim.Count;
+        for (int i = 0; i < anim.Count; i++)
         {
-            if(animList[i] == "")
+            if(anim[i] == "")
             {
-                print(i);
-                animList.RemoveRange(i, animList.Count);
+                anim.RemoveRange(i, anim.Count - i);
                 break;
             }
         }
+        animList = anim;
     }
-    //이상하다 이게왜 안되지 여기서부터 다시하세요 배열에서 공백없애기 시봘
 }

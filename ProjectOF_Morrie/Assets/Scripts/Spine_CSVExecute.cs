@@ -3,10 +3,14 @@ using UnityEngine;
 using System.IO;
 using Spine.Unity;
 
+/// <summary>
+/// Spine의 목록을 가져오고 CSV를 읽어서 애니메이션을 매칭해줌
+/// </summary>
 public class Spine_CSVExecute : MonoBehaviour
 {
     List<string[]> voka = new List<string[]>();
     List<string> anim = new List<string>();
+    public SkeletonAnimation[] skeletons;
 
     // Start is called before the first frame update
     void Start()
@@ -19,6 +23,16 @@ public class Spine_CSVExecute : MonoBehaviour
         StreamReader sr = new StreamReader(Application.dataPath + "/Resource/Morries_SpineAnimation_CSV.csv");
         string source = sr.ReadToEnd();
         voka = Spine_CSVReader.SplitVoka(source);
+
+        MatchIdle();
+    }
+
+    public void MatchIdle()
+    {
+        for (int i = 0; i < skeletons.Length; i++)
+        {
+            CheckSkin(skeletons[i]);
+        }
     }
 
     public void CheckSkin(SkeletonAnimation skelton_)
@@ -29,7 +43,7 @@ public class Spine_CSVExecute : MonoBehaviour
 
     void SetAnim(List<string> anim_, SkeletonAnimation skeleton_)
     {
-        //print("내스킨 : " + skeleton_.initialSkinName + ", 내아이들 : " + anim_[0]);
+        print("내스킨 : " + skeleton_.initialSkinName + ", 내아이들 : " + anim_[0]);
         skeleton_.AnimationName = anim_[0];
         skeleton_.gameObject.GetComponent<Spine_SetAnimList>().SetAnim(anim);
     }
