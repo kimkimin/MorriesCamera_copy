@@ -1,0 +1,279 @@
+
+Pub_stand03.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bikini01
+  rotate: false
+  xy: 437, 812
+  size: 107, 92
+  orig: 107, 92
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: true
+  xy: 276, 975
+  size: 31, 113
+  orig: 31, 113
+  offset: 0, 0
+  index: -1
+LeafSkirt
+  rotate: false
+  xy: 296, 818
+  size: 139, 86
+  orig: 139, 86
+  offset: 0, 0
+  index: -1
+Leg_left
+  rotate: true
+  xy: 627, 962
+  size: 44, 80
+  orig: 44, 80
+  offset: 0, 0
+  index: -1
+Leg_right
+  rotate: true
+  xy: 823, 959
+  size: 47, 95
+  orig: 47, 95
+  offset: 0, 0
+  index: -1
+Onepiece01
+  rotate: false
+  xy: 2, 843
+  size: 105, 91
+  orig: 105, 91
+  offset: 0, 0
+  index: -1
+Pants
+  rotate: false
+  xy: 846, 868
+  size: 104, 80
+  orig: 104, 80
+  offset: 0, 0
+  index: -1
+acc_flowerCrown
+  rotate: false
+  xy: 709, 961
+  size: 112, 45
+  orig: 112, 45
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 608
+  size: 107, 194
+  orig: 107, 194
+  offset: 0, 0
+  index: -1
+cap_acc
+  rotate: false
+  xy: 126, 919
+  size: 110, 56
+  orig: 110, 56
+  offset: 0, 0
+  index: -1
+chat_armR
+  rotate: false
+  xy: 920, 950
+  size: 86, 56
+  orig: 86, 56
+  offset: 0, 0
+  index: -1
+chat_mouth
+  rotate: false
+  xy: 81, 989
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+close
+  rotate: false
+  xy: 2, 1001
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+delicious_armR
+  rotate: false
+  xy: 238, 917
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+delicious_mouth
+  rotate: true
+  xy: 131, 985
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+drink_mouth
+  rotate: true
+  xy: 41, 995
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+drink_stuff
+  rotate: true
+  xy: 452, 970
+  size: 36, 75
+  orig: 36, 75
+  offset: 0, 0
+  index: -1
+ear_right
+  rotate: true
+  xy: 758, 880
+  size: 77, 86
+  orig: 77, 86
+  offset: 0, 0
+  index: -1
+glass_acc
+  rotate: false
+  xy: 559, 896
+  size: 113, 64
+  orig: 113, 64
+  offset: 0, 0
+  index: -1
+grasp_drink_armR
+  rotate: false
+  xy: 529, 970
+  size: 96, 36
+  orig: 96, 36
+  offset: 0, 0
+  index: -1
+grasp_tube_armR
+  rotate: false
+  xy: 856, 688
+  size: 101, 178
+  orig: 101, 178
+  offset: 0, 0
+  index: -1
+ice_stuff
+  rotate: true
+  xy: 391, 972
+  size: 34, 59
+  orig: 34, 59
+  offset: 0, 0
+  index: -1
+icecream_2floor
+  rotate: true
+  xy: 156, 977
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+icecream_armR
+  rotate: false
+  xy: 674, 888
+  size: 82, 71
+  orig: 82, 71
+  offset: 0, 0
+  index: -1
+icecream_clothes
+  rotate: true
+  xy: 546, 790
+  size: 104, 119
+  orig: 104, 119
+  offset: 0, 0
+  index: -1
+justStand_armR
+  rotate: true
+  xy: 188, 977
+  size: 29, 86
+  orig: 29, 86
+  offset: 0, 0
+  index: -1
+merong_mouth
+  rotate: false
+  xy: 59, 990
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 363, 906
+  size: 62, 194
+  orig: 62, 194
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 15, 999
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+pattern_giraffe
+  rotate: true
+  xy: 667, 769
+  size: 97, 187
+  orig: 97, 187
+  offset: 0, 0
+  index: -1
+pattern_line
+  rotate: true
+  xy: 109, 838
+  size: 77, 185
+  orig: 77, 185
+  offset: 0, 0
+  index: -1
+pattern_line2
+  rotate: true
+  xy: 2, 738
+  size: 98, 182
+  orig: 98, 182
+  offset: 0, 0
+  index: -1
+pattern_starfish
+  rotate: true
+  xy: 400, 687
+  size: 101, 195
+  orig: 101, 195
+  offset: 0, 0
+  index: -1
+sad_mouth
+  rotate: false
+  xy: 25, 999
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+scoop_armL
+  rotate: false
+  xy: 296, 917
+  size: 65, 56
+  orig: 65, 56
+  offset: 0, 0
+  index: -1
+smile_mouth
+  rotate: false
+  xy: 106, 986
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+tube_horizontal_down_stuff
+  rotate: false
+  xy: 2, 936
+  size: 122, 48
+  orig: 122, 48
+  offset: 0, 0
+  index: -1
+tube_horizontal_up_stuff
+  rotate: false
+  xy: 186, 717
+  size: 212, 99
+  orig: 212, 99
+  offset: 0, 0
+  index: -1
+tube_vertical_stuff
+  rotate: true
+  xy: 597, 663
+  size: 104, 200
+  orig: 104, 200
+  offset: 0, 0
+  index: -1
