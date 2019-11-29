@@ -20,9 +20,13 @@ public class Spine_CSVExecute : MonoBehaviour
 
     void GetVoka()
     {
-        StreamReader sr = new StreamReader(Application.dataPath + "/Resource/Morries_SpineAnimation_CSV.csv");
-        string source = sr.ReadToEnd();
-        voka = Spine_CSVReader.SplitVoka(source);
+        var csvResource = (TextAsset)Resources.Load("Morries_SpineAnimation_CSV");
+        if (csvResource == null)
+            print("csv is null");
+        string cvsString = csvResource.text;
+        //StreamReader sr = new StreamReader(Application.dataPath + "/Resources/Morries_SpineAnimation_CSV.csv");
+        //string source = sr.ReadToEnd();
+        voka = Spine_CSVReader.SplitVoka(cvsString);//source);
 
         MatchIdle();
     }
