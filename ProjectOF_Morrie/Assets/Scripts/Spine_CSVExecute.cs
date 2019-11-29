@@ -23,7 +23,6 @@ public class Spine_CSVExecute : MonoBehaviour
         var rawCSV = (TextAsset)Resources.Load("Morries_SpineAnimation_CSV");
         if (rawCSV == null)
             print("csv is null");
-        //여기서부터 수정
         string modiCSV = rawCSV.text;
         voka = Spine_CSVReader.SplitVoka(modiCSV);
 
