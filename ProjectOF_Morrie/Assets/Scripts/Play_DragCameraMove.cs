@@ -66,7 +66,7 @@ public class Play_DragCameraMove : MonoBehaviour
         Vector3 CurrentGap = StartTouch - (Vector3)Link_touchCheck.touch.position;
         Vector3 PreviousGap = StartTouch - PreviousPos;
 
-        float EachFrameMag = Mathf.Abs((PreviousGap.magnitude - CurrentGap.magnitude) * 0.1f);//그래서 쓰리디일때는 갭을계산해서 이동하구
+        float EachFrameMag = Mathf.Abs((PreviousGap.magnitude - CurrentGap.magnitude) * 10f);//그래서 쓰리디일때는 갭을계산해서 이동하구
 
         Vector3 EachFrameDiff = -(PreviousGap - CurrentGap).normalized * 0.1f * EachFrameMag;
         CamAnchor.transform.Translate(EachFrameDiff);
