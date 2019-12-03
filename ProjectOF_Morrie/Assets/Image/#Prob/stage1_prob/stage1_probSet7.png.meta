@@ -1,16 +1,25 @@
 fileFormatVersion: 2
-guid: 23a909a93619ab6419f6a37e9f4705c3
+guid: 9bae3ae3aeffd144599e5e811dbd8f39
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2856944314540550555
-    second: stage1_probSet2_0
+      213: 7470247443449674080
+    second: stage1_probSet7_0
   - first:
-      213: 3289698844990584227
-    second: stage1_probSet2_1
+      213: 1202037381283125063
+    second: stage1_probSet7_1
   - first:
-      213: -2687612909487224938
-    second: stage1_probSet2_2
+      213: -1362989116433549860
+    second: stage1_probSet7_2
+  - first:
+      213: 3490823390618852575
+    second: stage1_probSet7_3
+  - first:
+      213: -1463207735445915404
+    second: stage1_probSet7_4
+  - first:
+      213: 541389863085787134
+    second: stage1_probSet7_5
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -93,7 +102,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: iPhone
-    maxTextureSize: 256
+    maxTextureSize: 1024
     resizeAlgorithm: 0
     textureFormat: 33
     textureCompression: 1
@@ -107,13 +116,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: stage1_probSet2_0
+      name: stage1_probSet7_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 128
-        width: 128
-        height: 128
+        y: 683
+        width: 512
+        height: 341
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,20 +130,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9a410eeb52f8d4b4ab2532b82d8f264f
-      internalID: -2856944314540550555
+      spriteID: c5a8699f4d0b741468e1df13897428b1
+      internalID: 7470247443449674080
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stage1_probSet2_1
+      name: stage1_probSet7_1
       rect:
         serializedVersion: 2
-        x: 128
-        y: 128
-        width: 128
-        height: 128
+        x: 512
+        y: 683
+        width: 512
+        height: 341
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -142,20 +151,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69462eb8333fa4c4bbae9ccfeac1d607
-      internalID: 3289698844990584227
+      spriteID: f0f3b0be6b154b049afcc61f818eba31
+      internalID: 1202037381283125063
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stage1_probSet2_2
+      name: stage1_probSet7_2
       rect:
         serializedVersion: 2
-        x: 128
-        y: 0
-        width: 128
-        height: 128
+        x: 0
+        y: 342
+        width: 512
+        height: 341
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -163,8 +172,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3c292f8f39f5f8b4a9fd66a0062f5f08
-      internalID: -2687612909487224938
+      spriteID: 52764a77728a7d149a25b68f499cc725
+      internalID: -1362989116433549860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_probSet7_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 342
+        width: 512
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829bb3e99705421438b2f36806b4980f
+      internalID: 3490823390618852575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_probSet7_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 512
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90865e7baaf01244180c6cf5f2295a82
+      internalID: -1463207735445915404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_probSet7_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1
+        width: 512
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c468c55358066fb41afa89f699dd57fe
+      internalID: 541389863085787134
       vertices: []
       indices: 
       edges: []
