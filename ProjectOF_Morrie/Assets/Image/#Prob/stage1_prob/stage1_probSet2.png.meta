@@ -11,6 +11,9 @@ TextureImporter:
   - first:
       213: -2687612909487224938
     second: stage1_probSet2_2
+  - first:
+      213: 1661965779572086350
+    second: stage1_probSet2_3
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -121,7 +124,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9a410eeb52f8d4b4ab2532b82d8f264f
+      spriteID: f30898e69467a454081853aff1767b6d
       internalID: -2856944314540550555
       vertices: []
       indices: 
@@ -142,7 +145,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69462eb8333fa4c4bbae9ccfeac1d607
+      spriteID: d4570648e120fdb4ca7e2602a1ac2138
       internalID: 3289698844990584227
       vertices: []
       indices: 
@@ -150,6 +153,27 @@ TextureImporter:
       weights: []
     - serializedVersion: 2
       name: stage1_probSet2_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47481bf609d571548b9d43ca071c1af4
+      internalID: -2687612909487224938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_probSet2_3
       rect:
         serializedVersion: 2
         x: 128
@@ -163,8 +187,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3c292f8f39f5f8b4a9fd66a0062f5f08
-      internalID: -2687612909487224938
+      spriteID: 98091ee5dfcd97344bb66ff8b03380bd
+      internalID: 1661965779572086350
       vertices: []
       indices: 
       edges: []
@@ -172,7 +196,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 5644e9375d17c9b4096d22bff39afb6a
     internalID: 0
     vertices: []
     indices: 

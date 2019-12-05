@@ -5,9 +5,14 @@ using Spine.Unity;
 
 public class SetPropAngle : MonoBehaviour
 {
+    Vector3 tepmp;
+    private void Start()
+    {
+        tepmp = GetComponent<Transform>().eulerAngles;
+    }
     void Update()
     {
-        transform.eulerAngles = Vector3.zero;
+        transform.eulerAngles = tepmp;//Vector3.zero;
         //GetComponent<SkeletonAnimation>().skeleton.RootBone.SetLocalPosition(Vector2.zero);
     }
 }

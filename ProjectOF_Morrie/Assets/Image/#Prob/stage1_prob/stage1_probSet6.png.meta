@@ -11,6 +11,9 @@ TextureImporter:
   - first:
       213: -5859836518082345056
     second: stage1_probSet6_2
+  - first:
+      213: 4854363798837942624
+    second: stage1_probSet6_3
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -93,14 +96,14 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: iPhone
-    maxTextureSize: 512
+    maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 33
+    textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
-    overridden: 1
+    overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -108,6 +111,27 @@ TextureImporter:
     sprites:
     - serializedVersion: 2
       name: stage1_probSet6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66cdb983d3575246971b837a576bf07
+      internalID: -6665956961034110314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_probSet6_1
       rect:
         serializedVersion: 2
         x: 256
@@ -121,14 +145,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b825df536577754fb3291f67112b1ac
-      internalID: -6665956961034110314
+      spriteID: 4cb19fe992db3624ba558f989104c0f7
+      internalID: -5734702873516471166
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stage1_probSet6_1
+      name: stage1_probSet6_2
       rect:
         serializedVersion: 2
         x: 0
@@ -142,14 +166,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a46eab76b9ba3a741b9b4917aeb2dbed
-      internalID: -5734702873516471166
+      spriteID: 404e3f726e5873f4a9f2443b5f668154
+      internalID: -5859836518082345056
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stage1_probSet6_2
+      name: stage1_probSet6_3
       rect:
         serializedVersion: 2
         x: 256
@@ -163,8 +187,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a227b66f01d796e4ba5c7fccc3971684
-      internalID: -5859836518082345056
+      spriteID: 6e8b3c5d6cc2a0b4d83bb386ad3e33b9
+      internalID: 4854363798837942624
       vertices: []
       indices: 
       edges: []
@@ -172,7 +196,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 47826f0fcefcdfa45bd520ee40e5a4d9
     internalID: 0
     vertices: []
     indices: 

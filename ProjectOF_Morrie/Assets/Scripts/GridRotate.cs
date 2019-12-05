@@ -16,12 +16,19 @@ public class GridRotate : MonoBehaviour
     public Play_DragCameraZoom insZoom;
     public CameraMode insCamMode;
 
-
+    /*
+    public delegate void GridRotateDelegate();
+    public static event GridRotateDelegate LayDown;
+    public static event GridRotateDelegate StandUp;
+    public static float gridSpeed;
+    */
     void Update()
     {
         if (Camera.main.fieldOfView < getGridZoom)//zoom in
         {
             float SpeedClamp = Mathf.Clamp(Mathf.Abs(insZoom.FrameChangeForGridRot), 40, 450);
+            //gridSpeed = SpeedClamp;
+            //LayDown?.Invoke();
             GridForImage.transform.eulerAngles =
                 Vector3.MoveTowards(GridForImage.transform.eulerAngles, setGridRotation, Time.deltaTime * SpeedClamp);
 
@@ -40,6 +47,8 @@ public class GridRotate : MonoBehaviour
         else//zoom out
         {
             float SpeedClamp = Mathf.Clamp(Mathf.Abs(insZoom.FrameChangeForGridRot), 40, 450);
+            //gridSpeed = SpeedClamp;
+            //StandUp?.Invoke();
             GridForImage.transform.eulerAngles =
                 Vector3.MoveTowards(GridForImage.transform.eulerAngles, Vector3.zero, Time.deltaTime * SpeedClamp);
 
