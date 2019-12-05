@@ -5695,7 +5695,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 5000
-  field of view: 43.8
+  field of view: 92.3
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
@@ -8490,11 +8490,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb6b8d618204517498708589460c02ee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  temp: {fileID: 624120768}
-  setRotLay: {x: 0, y: 0, z: 0}
-  setRotStand: {x: 0, y: 0, z: 0}
-  setRotLay_world: {x: 0, y: 0, z: 0}
-  setRotStand_world: {x: 0, y: 0, z: 0}
 --- !u!212 &1622745529
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -9169,13 +9164,14 @@ GameObject:
   m_Component:
   - component: {fileID: 1790138406}
   - component: {fileID: 1790138408}
+  - component: {fileID: 1790138407}
   m_Layer: 0
   m_Name: New Sprite (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1790138406
 Transform:
   m_ObjectHideFlags: 0
@@ -9190,6 +9186,18 @@ Transform:
   m_Father: {fileID: 507958215}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 20.156}
+--- !u!114 &1790138407
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790138405}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb6b8d618204517498708589460c02ee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!212 &1790138408
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -9894,11 +9902,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb6b8d618204517498708589460c02ee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  temp: {fileID: 0}
-  setRotLay: {x: 0, y: 0, z: 0}
-  setRotStand: {x: 0, y: 0, z: 0}
-  setRotLay_world: {x: 0, y: 0, z: 0}
-  setRotStand_world: {x: 0, y: 0, z: 0}
 --- !u!1 &1913309470
 GameObject:
   m_ObjectHideFlags: 0

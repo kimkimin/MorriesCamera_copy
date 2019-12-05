@@ -16,12 +16,12 @@ public class GridRotate : MonoBehaviour
     public Play_DragCameraZoom insZoom;
     public CameraMode insCamMode;
 
-    /*
+    
     public delegate void GridRotateDelegate();
     public static event GridRotateDelegate LayDown;
     public static event GridRotateDelegate StandUp;
     public static float gridSpeed;
-    */
+    /**/
     void Update()
     {
         if (Camera.main.fieldOfView < getGridZoom)//zoom in
@@ -38,6 +38,8 @@ public class GridRotate : MonoBehaviour
             //카메라 ui활성화
             if (!b_isGridRotate)
             {
+                print("?");
+                LayDown?.Invoke();
                 cameraActive.SetActive(true);
                 if (CameraMode.b_autoMode) insCamMode.AutoButton();
                 else insCamMode.ManualButton();
@@ -57,6 +59,8 @@ public class GridRotate : MonoBehaviour
 
             if (b_isGridRotate)
             {
+                print("!");
+                StandUp?.Invoke();
                 cameraActive.SetActive(false);
                 insCamMode.autoViewfinder.SetActive(false);
                 b_isGridRotate = false;
