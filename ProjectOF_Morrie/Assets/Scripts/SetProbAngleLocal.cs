@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class tempRo : MonoBehaviour
+public class SetProbAngleLocal : MonoBehaviour
 {
     Quaternion down, up;
 
