@@ -1,0 +1,69 @@
+
+priv_buried_S1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 119
+  size: 143, 109
+  orig: 143, 109
+  offset: 0, 0
+  index: -1
+earL
+  rotate: true
+  xy: 113, 173
+  size: 89, 74
+  orig: 89, 74
+  offset: 0, 0
+  index: -1
+earR
+  rotate: true
+  xy: 189, 180
+  size: 77, 44
+  orig: 77, 44
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: false
+  xy: 126, 161
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+eye_open
+  rotate: false
+  xy: 138, 163
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: false
+  xy: 189, 167
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: false
+  xy: 113, 160
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 273, 259
+  size: 134, 148
+  orig: 134, 148
+  offset: 0, 0
+  index: -1
+sand
+  rotate: false
+  xy: 2, 264
+  size: 269, 143
+  orig: 269, 143
+  offset: 0, 0
+  index: -1
