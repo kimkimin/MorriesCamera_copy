@@ -1,0 +1,111 @@
+
+pub_crawl.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm
+  rotate: false
+  xy: 462, 285
+  size: 44, 101
+  orig: 44, 101
+  offset: 0, 0
+  index: -1
+L_ear
+  rotate: true
+  xy: 110, 315
+  size: 69, 83
+  orig: 69, 83
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 297, 265
+  size: 98, 53
+  orig: 98, 53
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: true
+  xy: 110, 269
+  size: 44, 78
+  orig: 44, 78
+  offset: 0, 0
+  index: -1
+R_ear
+  rotate: true
+  xy: 2, 230
+  size: 68, 88
+  orig: 68, 88
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 190, 246
+  size: 98, 53
+  orig: 98, 53
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 386
+  size: 191, 120
+  orig: 191, 120
+  offset: 0, 0
+  index: -1
+eye-close
+  rotate: true
+  xy: 499, 494
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+eye_open
+  rotate: true
+  xy: 478, 499
+  size: 7, 19
+  orig: 7, 19
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 195, 365
+  size: 141, 156
+  orig: 141, 156
+  offset: 0, 0
+  index: -1
+pants_01
+  rotate: true
+  xy: 2, 300
+  size: 84, 106
+  orig: 84, 106
+  offset: 0, 0
+  index: -1
+pants_02
+  rotate: false
+  xy: 353, 388
+  size: 123, 118
+  orig: 123, 118
+  offset: 0, 0
+  index: -1
+top_01
+  rotate: true
+  xy: 353, 291
+  size: 95, 107
+  orig: 95, 107
+  offset: 0, 0
+  index: -1
+top_02
+  rotate: true
+  xy: 195, 301
+  size: 62, 100
+  orig: 62, 100
+  offset: 0, 0
+  index: -1
+top_02_sleeve
+  rotate: true
+  xy: 92, 228
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
