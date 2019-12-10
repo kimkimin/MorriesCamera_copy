@@ -76,6 +76,7 @@ public class Spine_Touch : MonoBehaviour
 
     void CheckAnimType(string animName)
     {
+        //이거 그냥 소문자버전도 만들까
         string[] types = { "RE", "L", "E", "TG",  "IN", "E1", "RE1", "RE2", "RE3"};
         string myType = Spine_CSVReader.SplitType(animName);
 
