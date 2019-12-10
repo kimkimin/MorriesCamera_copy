@@ -1,0 +1,251 @@
+
+Pub_stand02.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmL_ukulele_front
+  rotate: false
+  xy: 193, 149
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 216
+  size: 107, 194
+  orig: 107, 194
+  offset: 0, 0
+  index: -1
+Mouse_laugh
+  rotate: false
+  xy: 314, 2
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+Mouse_laugh2
+  rotate: false
+  xy: 144, 12
+  size: 95, 74
+  orig: 95, 74
+  offset: 0, 0
+  index: -1
+Mouse_laugh3
+  rotate: true
+  xy: 363, 402
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 194, 252
+  size: 41, 158
+  orig: 41, 158
+  offset: 0, 0
+  index: -1
+close
+  rotate: false
+  xy: 241, 2
+  size: 70, 9
+  orig: 70, 9
+  offset: 0, 0
+  index: -1
+ear
+  rotate: true
+  xy: 237, 212
+  size: 62, 78
+  orig: 62, 78
+  offset: 0, 0
+  index: -1
+headset_front
+  rotate: true
+  xy: 237, 276
+  size: 146, 78
+  orig: 146, 78
+  offset: 0, 0
+  index: -1
+laugh_armL
+  rotate: false
+  xy: 314, 21
+  size: 65, 47
+  orig: 65, 47
+  offset: 0, 0
+  index: -1
+laugh_armR
+  rotate: false
+  xy: 381, 23
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+laugh_armR hand
+  rotate: true
+  xy: 193, 195
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1
+laugh_eye
+  rotate: true
+  xy: 489, 366
+  size: 69, 13
+  orig: 69, 13
+  offset: 0, 0
+  index: -1
+leafSkirt01
+  rotate: false
+  xy: 218, 424
+  size: 153, 86
+  orig: 153, 86
+  offset: 0, 0
+  index: -1
+leafSkirt02
+  rotate: true
+  xy: 2, 77
+  size: 137, 130
+  orig: 137, 130
+  offset: 0, 0
+  index: -1
+legL
+  rotate: false
+  xy: 476, 230
+  size: 32, 93
+  orig: 32, 93
+  offset: 0, 0
+  index: -1
+lifeJacket
+  rotate: true
+  xy: 373, 325
+  size: 110, 114
+  orig: 110, 114
+  offset: 0, 0
+  index: -1
+look_armL
+  rotate: true
+  xy: 134, 88
+  size: 59, 93
+  orig: 59, 93
+  offset: 0, 0
+  index: -1
+look_armR
+  rotate: true
+  xy: 373, 437
+  size: 73, 136
+  orig: 73, 136
+  offset: 0, 0
+  index: -1
+look_laugh_earL
+  rotate: true
+  xy: 430, 113
+  size: 51, 80
+  orig: 51, 80
+  offset: 0, 0
+  index: -1
+look_laugh_earR
+  rotate: false
+  xy: 242, 132
+  size: 74, 78
+  orig: 74, 78
+  offset: 0, 0
+  index: -1
+music_armL
+  rotate: true
+  xy: 241, 13
+  size: 38, 71
+  orig: 38, 71
+  offset: 0, 0
+  index: -1
+music_armR
+  rotate: true
+  xy: 399, 79
+  size: 32, 71
+  orig: 32, 71
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 399, 67
+  size: 67, 10
+  orig: 67, 10
+  offset: 0, 0
+  index: -1
+pants01
+  rotate: true
+  xy: 134, 149
+  size: 103, 57
+  orig: 103, 57
+  offset: 0, 0
+  index: -1
+pants02
+  rotate: false
+  xy: 318, 131
+  size: 110, 88
+  orig: 110, 88
+  offset: 0, 0
+  index: -1
+shirts_music
+  rotate: false
+  xy: 2, 2
+  size: 140, 73
+  orig: 140, 73
+  offset: 0, 0
+  index: -1
+swimsuit
+  rotate: false
+  xy: 363, 221
+  size: 111, 102
+  orig: 111, 102
+  offset: 0, 0
+  index: -1
+tube
+  rotate: false
+  xy: 2, 412
+  size: 214, 98
+  orig: 214, 98
+  offset: 0, 0
+  index: -1
+tube back
+  rotate: true
+  xy: 317, 237
+  size: 185, 44
+  orig: 185, 44
+  offset: 0, 0
+  index: -1
+tube_armL
+  rotate: false
+  xy: 314, 70
+  size: 83, 59
+  orig: 83, 59
+  offset: 0, 0
+  index: -1
+tube_armR
+  rotate: true
+  xy: 241, 53
+  size: 77, 71
+  orig: 77, 71
+  offset: 0, 0
+  index: -1
+ukulele
+  rotate: true
+  xy: 111, 254
+  size: 156, 81
+  orig: 156, 81
+  offset: 0, 0
+  index: -1
+ukulele_behind_armL
+  rotate: true
+  xy: 436, 24
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+ukulele_laugh_armR
+  rotate: false
+  xy: 430, 166
+  size: 80, 53
+  orig: 80, 53
+  offset: 0, 0
+  index: -1

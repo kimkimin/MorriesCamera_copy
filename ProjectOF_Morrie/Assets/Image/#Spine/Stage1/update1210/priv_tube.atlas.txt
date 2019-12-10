@@ -1,0 +1,160 @@
+
+priv_tube.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 15
+  rotate: false
+  xy: 171, 472
+  size: 192, 36
+  orig: 192, 36
+  offset: 0, 0
+  index: -1
+Layer 16
+  rotate: false
+  xy: 279, 423
+  size: 201, 44
+  orig: 201, 44
+  offset: 0, 0
+  index: -1
+Layer 17
+  rotate: false
+  xy: 70, 428
+  size: 207, 42
+  orig: 207, 42
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: true
+  xy: 219, 353
+  size: 68, 89
+  orig: 68, 89
+  offset: 0, 0
+  index: -1
+armL
+  rotate: false
+  xy: 94, 474
+  size: 75, 34
+  orig: 75, 34
+  offset: 0, 0
+  index: -1
+armR
+  rotate: false
+  xy: 215, 276
+  size: 81, 75
+  orig: 81, 75
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 185
+  size: 112, 152
+  orig: 112, 152
+  offset: 0, 0
+  index: -1
+donut
+  rotate: false
+  xy: 2, 299
+  size: 211, 72
+  orig: 211, 72
+  offset: 0, 0
+  index: -1
+earL
+  rotate: true
+  xy: 2, 438
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+earR
+  rotate: true
+  xy: 401, 349
+  size: 72, 77
+  orig: 72, 77
+  offset: 0, 0
+  index: -1
+eye_--
+  rotate: false
+  xy: 26, 500
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: false
+  xy: 2, 503
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+eye_open
+  rotate: true
+  xy: 39, 500
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+handle
+  rotate: false
+  xy: 365, 469
+  size: 143, 39
+  orig: 143, 39
+  offset: 0, 0
+  index: -1
+line
+  rotate: true
+  xy: 310, 352
+  size: 69, 89
+  orig: 69, 89
+  offset: 0, 0
+  index: -1
+mouth_
+  rotate: false
+  xy: 16, 503
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+mouth_laugh
+  rotate: false
+  xy: 66, 490
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+mouth_smile
+  rotate: false
+  xy: 50, 497
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 156, 173
+  size: 90, 212
+  orig: 90, 212
+  offset: 0, 0
+  index: -1
+race
+  rotate: false
+  xy: 2, 373
+  size: 215, 53
+  orig: 215, 53
+  offset: 0, 0
+  index: -1
+tube
+  rotate: false
+  xy: 2, 75
+  size: 215, 96
+  orig: 215, 96
+  offset: 0, 0
+  index: -1
+tube_line
+  rotate: false
+  xy: 298, 265
+  size: 182, 82
+  orig: 182, 82
+  offset: 0, 0
+  index: -1

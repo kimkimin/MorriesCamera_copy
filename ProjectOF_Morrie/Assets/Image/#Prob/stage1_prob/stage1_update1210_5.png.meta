@@ -1,34 +1,34 @@
 fileFormatVersion: 2
-guid: c236e102e7c485049991c181cfd215f3
+guid: a223b523d19b8974eaa696c89aab7a1c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -315125981891059624
-    second: stage1_probSet3_0
+      213: 5963285648637953070
+    second: stage1_update1210_5_0
   - first:
-      213: -7866257276721399192
-    second: stage1_probSet3_1
+      213: -8655381147975400504
+    second: stage1_update1210_5_2
   - first:
-      213: -1127431926823391859
-    second: stage1_probSet3_2
+      213: 744591628399758656
+    second: stage1_update1210_5_3
   - first:
-      213: -5862515904296697747
-    second: stage1_probSet3_3
+      213: 2479600974741497716
+    second: stage1_update1210_5_5
   - first:
-      213: 7229121033748952259
-    second: stage1_probSet3_4
+      213: 606720707228247106
+    second: stage1_update1210_5_6
   - first:
-      213: -682931503796246481
-    second: stage1_probSet3_5
+      213: -5084610695884786697
+    second: stage1_update1210_5_8
   - first:
-      213: 3405158446427482279
-    second: stage1_probSet3_6
+      213: -8446704152453249605
+    second: stage1_update1210_5_9
   - first:
-      213: -19956529571583946
-    second: stage1_probSet3_7
+      213: -8445621309172500015
+    second: stage1_update1210_5_11
   - first:
-      213: -1401681155647696842
-    second: stage1_probSet3_8
+      213: 1714130913362986625
+    second: stage1_update1210_5_1
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -111,7 +111,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: iPhone
-    maxTextureSize: 512
+    maxTextureSize: 1024
     resizeAlgorithm: 0
     textureFormat: 33
     textureCompression: 1
@@ -125,13 +125,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: stage1_probSet3_0
+      name: stage1_update1210_5_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 342
-        width: 170
-        height: 170
+        x: 111
+        y: 803
+        width: 299
+        height: 221
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -139,20 +139,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 95866274721dfe844ab6f76b80811f55
-      internalID: -315125981891059624
+      spriteID: ed16b40955ff23c41976f4c4128737b7
+      internalID: 5963285648637953070
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stage1_probSet3_1
+      name: stage1_update1210_5_2
       rect:
         serializedVersion: 2
-        x: 170
-        y: 342
-        width: 170
-        height: 170
+        x: 521
+        y: 782
+        width: 211
+        height: 196
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,20 +160,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 075b74c6e79448a40874d33ab44de7f9
-      internalID: -7866257276721399192
+      spriteID: 9bde0123886542947939bcfc919f2d64
+      internalID: -8655381147975400504
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stage1_probSet3_2
+      name: stage1_update1210_5_3
       rect:
         serializedVersion: 2
-        x: 340
-        y: 342
-        width: 170
-        height: 170
+        x: 27
+        y: 567
+        width: 476
+        height: 239
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,20 +181,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 045972cb32b78d6479ebf44b37b946bc
-      internalID: -1127431926823391859
+      spriteID: 6ac22d33e0071b648b75fb5cb0b72f48
+      internalID: 744591628399758656
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stage1_probSet3_3
+      name: stage1_update1210_5_5
       rect:
         serializedVersion: 2
-        x: 0
-        y: 172
-        width: 170
-        height: 170
+        x: 739
+        y: 687
+        width: 254
+        height: 337
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -202,20 +202,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 163aac77f472a304da7625581319417c
-      internalID: -5862515904296697747
+      spriteID: 38936c0590b1e234f813cfa02534d520
+      internalID: 2479600974741497716
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stage1_probSet3_4
+      name: stage1_update1210_5_6
       rect:
         serializedVersion: 2
-        x: 170
-        y: 172
-        width: 170
-        height: 170
+        x: 34
+        y: 259
+        width: 426
+        height: 306
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -223,20 +223,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e85d4a4fea04b2947afa98100928dad6
-      internalID: 7229121033748952259
+      spriteID: 29df00b541aee294285f8d7ef5860fe2
+      internalID: 606720707228247106
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stage1_probSet3_5
+      name: stage1_update1210_5_8
       rect:
         serializedVersion: 2
-        x: 340
-        y: 172
-        width: 170
-        height: 170
+        x: 471
+        y: 0
+        width: 277
+        height: 739
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -244,20 +244,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 60295bb9f68872b48aa43e39c7e19d0e
-      internalID: -682931503796246481
+      spriteID: a73de090488c2914b84a8fe9f17fc995
+      internalID: -5084610695884786697
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stage1_probSet3_6
+      name: stage1_update1210_5_9
       rect:
         serializedVersion: 2
-        x: 0
-        y: 2
-        width: 170
-        height: 170
+        x: 27
+        y: 21
+        width: 446
+        height: 235
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -265,20 +265,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b703212fade8d5d4e8d8dee6e6d9e355
-      internalID: 3405158446427482279
+      spriteID: 239c4d24a6e23544abb4bfbbd37fc26b
+      internalID: -8446704152453249605
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stage1_probSet3_7
+      name: stage1_update1210_5_11
       rect:
         serializedVersion: 2
-        x: 170
-        y: 2
-        width: 170
-        height: 170
+        x: 751
+        y: 0
+        width: 272
+        height: 689
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -286,20 +286,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13f6737ee144fd0468356f7e2c23e615
-      internalID: -19956529571583946
+      spriteID: fdcd14db56b10a44ca918bdde006c7a1
+      internalID: -8445621309172500015
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stage1_probSet3_8
+      name: stage1_update1210_5_1
       rect:
         serializedVersion: 2
-        x: 340
-        y: 2
-        width: 170
-        height: 170
+        x: 240
+        y: 0
+        width: 4
+        height: 2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -307,8 +307,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b83907082a756244790f1339c2968b72
-      internalID: -1401681155647696842
+      spriteID: 3a6d7d878ccff804081c65d6438943ed
+      internalID: 1714130913362986625
       vertices: []
       indices: 
       edges: []
@@ -316,7 +316,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 4b1a5bb3dcce3b74f9188ca7464126f6
+    spriteID: f494ed8cdf3738a4baaf84f4fa6636b1
     internalID: 0
     vertices: []
     indices: 

@@ -1,0 +1,104 @@
+
+priv_snorkeling.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 516, 113
+  size: 145, 51
+  orig: 145, 51
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 663, 114
+  size: 156, 50
+  orig: 156, 50
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 247, 96
+  size: 165, 68
+  orig: 165, 68
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 663, 62
+  size: 151, 50
+  orig: 151, 50
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 57
+  size: 107, 134
+  orig: 107, 134
+  offset: 0, 0
+  index: -1
+earL
+  rotate: false
+  xy: 516, 7
+  size: 43, 104
+  orig: 43, 104
+  offset: 0, 0
+  index: -1
+earR
+  rotate: true
+  xy: 414, 107
+  size: 57, 100
+  orig: 57, 100
+  offset: 0, 0
+  index: -1
+goggles
+  rotate: true
+  xy: 414, 2
+  size: 103, 47
+  orig: 103, 47
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 463, 8
+  size: 37, 97
+  orig: 37, 97
+  offset: 0, 0
+  index: -1
+pipe
+  rotate: true
+  xy: 138, 87
+  size: 77, 107
+  orig: 77, 107
+  offset: 0, 0
+  index: -1
+wave1
+  rotate: false
+  xy: 2, 166
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+wave2
+  rotate: false
+  xy: 388, 552
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+wave3
+  rotate: false
+  xy: 388, 166
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+wave4
+  rotate: false
+  xy: 2, 552
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
