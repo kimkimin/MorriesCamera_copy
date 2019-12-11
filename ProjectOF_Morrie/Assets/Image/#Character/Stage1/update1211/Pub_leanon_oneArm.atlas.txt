@@ -1,0 +1,286 @@
+
+Pub_leanon_oneArm.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BookFlip/1
+  rotate: false
+  xy: 142, 361
+  size: 39, 16
+  orig: 39, 16
+  offset: 0, 0
+  index: -1
+BookFlip/2
+  rotate: false
+  xy: 252, 114
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+BookFlip/3
+  rotate: true
+  xy: 220, 111
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+BookFlip/4
+  rotate: true
+  xy: 90, 359
+  size: 18, 33
+  orig: 18, 33
+  offset: 0, 0
+  index: -1
+BookFlip/5
+  rotate: true
+  xy: 197, 232
+  size: 14, 38
+  orig: 14, 38
+  offset: 0, 0
+  index: -1
+BookFlip/6
+  rotate: true
+  xy: 104, 651
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+BookFlip/7
+  rotate: true
+  xy: 183, 109
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+BookFlip/8
+  rotate: true
+  xy: 166, 230
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+L_arm_Raglan
+  rotate: true
+  xy: 163, 497
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1
+L_arm_book
+  rotate: false
+  xy: 165, 415
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+L_arm_book_front
+  rotate: false
+  xy: 149, 832
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+L_arm_drink
+  rotate: true
+  xy: 166, 265
+  size: 94, 80
+  orig: 94, 80
+  offset: 0, 0
+  index: -1
+L_arm_lov
+  rotate: true
+  xy: 201, 509
+  size: 74, 61
+  orig: 74, 61
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 123, 563
+  size: 86, 74
+  orig: 86, 74
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: false
+  xy: 199, 585
+  size: 57, 86
+  orig: 57, 86
+  offset: 0, 0
+  index: -1
+R_ear
+  rotate: false
+  xy: 279, 25
+  size: 63, 87
+  orig: 63, 87
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 2, 105
+  size: 122, 67
+  orig: 122, 67
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 829
+  size: 145, 193
+  orig: 145, 193
+  offset: 0, 0
+  index: -1
+book
+  rotate: true
+  xy: 90, 379
+  size: 108, 73
+  orig: 108, 73
+  offset: 0, 0
+  index: -1
+burp
+  rotate: true
+  xy: 186, 838
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+drink
+  rotate: false
+  xy: 123, 496
+  size: 38, 65
+  orig: 38, 65
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: false
+  xy: 186, 829
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+eye_open
+  rotate: false
+  xy: 200, 829
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+glasses
+  rotate: false
+  xy: 75, 2
+  size: 88, 104
+  orig: 88, 104
+  offset: 0, 0
+  index: -1
+hairband
+  rotate: false
+  xy: 183, 139
+  size: 86, 89
+  orig: 86, 89
+  offset: 0, 0
+  index: -1
+lov_bottom
+  rotate: true
+  xy: 149, 882
+  size: 140, 68
+  orig: 140, 68
+  offset: 0, 0
+  index: -1
+lov_gown
+  rotate: false
+  xy: 2, 229
+  size: 68, 128
+  orig: 68, 128
+  offset: 0, 0
+  index: -1
+mouth_3
+  rotate: true
+  xy: 219, 883
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+mouth_burp01
+  rotate: false
+  xy: 197, 248
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+mouth_burp02
+  rotate: true
+  xy: 125, 360
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+mouth_smile
+  rotate: true
+  xy: 72, 229
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 2, 649
+  size: 100, 178
+  orig: 100, 178
+  offset: 0, 0
+  index: -1
+pants01
+  rotate: true
+  xy: 72, 243
+  size: 114, 92
+  orig: 114, 92
+  offset: 0, 0
+  index: -1
+pants02
+  rotate: true
+  xy: 104, 673
+  size: 154, 114
+  orig: 154, 114
+  offset: 0, 0
+  index: -1
+raglan
+  rotate: true
+  xy: 2, 489
+  size: 158, 119
+  orig: 158, 119
+  offset: 0, 0
+  index: -1
+recipe_wrong
+  rotate: true
+  xy: 2, 359
+  size: 128, 86
+  orig: 128, 86
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: true
+  xy: 71, 108
+  size: 119, 110
+  orig: 119, 110
+  offset: 0, 0
+  index: -1
+skirt_bottom
+  rotate: false
+  xy: 2, 6
+  size: 71, 97
+  orig: 71, 97
+  offset: 0, 0
+  index: -1
+sleeveless
+  rotate: true
+  xy: 219, 894
+  size: 128, 93
+  orig: 128, 93
+  offset: 0, 0
+  index: -1
+trouser
+  rotate: false
+  xy: 165, 11
+  size: 112, 95
+  orig: 112, 95
+  offset: 0, 0
+  index: -1

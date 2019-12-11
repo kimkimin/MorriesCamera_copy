@@ -58,10 +58,11 @@ public class Spine_Touch : MonoBehaviour
     }
 
     /// <summary>
-    /// t1을 한번만 실행한후, 멈춤
+    /// t1을 한번만 실행한후, 멈춤, 추가인터랙션 가능(배열끝이 아니라면)
     /// </summary>
     void E_()
     {if (animNum > 0) return;
+     if (animNum == setAnim.animList.Count) return;
 
         skeleton.loop = false;
         animNum++;
@@ -69,11 +70,11 @@ public class Spine_Touch : MonoBehaviour
     }
 
     /// <summary>
-    /// 터치후 t1을 한번만 실행한후, 멈춤, 추가인터랙션 가능
+    /// 터치후 t1을 반복실행, 추가인터랙션 가능
     /// </summary>
-    void L_()
+    void IN_()
     {
-        skeleton.loop = false;
+        skeleton.loop = true;
         animNum++;
         skeleton.AnimationName = setAnim.animList[animNum];
     }
@@ -82,7 +83,7 @@ public class Spine_Touch : MonoBehaviour
     {
         //이거 그냥 소문자버전도 만들까
         //변경된 유형으로 수정하기
-        string[] types = { "RE", "L", "E", "TG",  "IN", "E1", "RE1", "RE2", "RE3"};
+        string[] types = { "RE", "E", "E1", "E2", "IN", "TG"};
         string myType = Spine_CSVReader.SplitType(animName);
 
         for (int i = 0; i < types.Length; i++)
@@ -99,9 +100,6 @@ public class Spine_Touch : MonoBehaviour
             case (int)AnimType.Return:
                 StartCoroutine(RE_());
                 break;
-            case (int)AnimType.Loop:
-                L_();
-                break;
             case (int)AnimType.End:
                 E_();
                 break;
@@ -114,12 +112,10 @@ public class Spine_Touch : MonoBehaviour
     {
         //이것도 수정해서 다시 어겐엔어겐~
         Return,
-        Loop,
         End,
+        E_Next,
         Toggle,
         Infinite,
-        E_Next,
-        RE_Next,
         Normal
     }
 }
