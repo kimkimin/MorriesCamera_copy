@@ -1,0 +1,55 @@
+
+Ppub_plants.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+plants1_01
+  rotate: false
+  xy: 2, 417
+  size: 202, 91
+  orig: 202, 91
+  offset: 0, 0
+  index: -1
+plants1_02
+  rotate: false
+  xy: 206, 398
+  size: 150, 110
+  orig: 150, 110
+  offset: 0, 0
+  index: -1
+plants1_03
+  rotate: true
+  xy: 320, 298
+  size: 53, 75
+  orig: 53, 75
+  offset: 0, 0
+  index: -1
+plants2_01
+  rotate: true
+  xy: 156, 318
+  size: 78, 162
+  orig: 78, 162
+  offset: 0, 0
+  index: -1
+plants2_02
+  rotate: true
+  xy: 2, 307
+  size: 108, 152
+  orig: 108, 152
+  offset: 0, 0
+  index: -1
+plants2_03
+  rotate: true
+  xy: 358, 353
+  size: 155, 106
+  orig: 155, 106
+  offset: 0, 0
+  index: -1
+plants2_04
+  rotate: true
+  xy: 466, 371
+  size: 137, 42
+  orig: 137, 42
+  offset: 0, 0
+  index: -1

@@ -20,7 +20,11 @@ public class Spine_Touch : MonoBehaviour
     }
     private void OnMouseDown()
     {
-        CheckAnimType(setAnim.animList[animNum+1]);
+        //if (Link_touchCheck.touch.phase == TouchPhase.Moved) return;
+        //드래그 이동시 스칠때 스파인이 움직이나 확임
+
+        print("imTouched");
+        //CheckAnimType(setAnim.animList[animNum+1]);
     }
 
     /// <summary>
@@ -77,6 +81,7 @@ public class Spine_Touch : MonoBehaviour
     void CheckAnimType(string animName)
     {
         //이거 그냥 소문자버전도 만들까
+        //변경된 유형으로 수정하기
         string[] types = { "RE", "L", "E", "TG",  "IN", "E1", "RE1", "RE2", "RE3"};
         string myType = Spine_CSVReader.SplitType(animName);
 
@@ -107,6 +112,7 @@ public class Spine_Touch : MonoBehaviour
 
     public enum AnimType
     {
+        //이것도 수정해서 다시 어겐엔어겐~
         Return,
         Loop,
         End,

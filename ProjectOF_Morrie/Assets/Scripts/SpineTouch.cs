@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using Spine.Unity;
 
+/// <summary>
+/// 이게 기존에 있던거고 Spine_Touch.cs가 완성되면 지워야함
+/// </summary>
 public class SpineTouch : MonoBehaviour
 {
     bool b_isIdle = false;
@@ -39,8 +42,8 @@ public class SpineTouch : MonoBehaviour
     }
 
     private void OnMouseDown()
-    {
-        //if (Play_CheckTouch.SpineCheck) return;
+    {//if (Link_touchCheck.touch.phase == TouchPhase.Moved) return;
+
         OnPlayME();
     }
 
