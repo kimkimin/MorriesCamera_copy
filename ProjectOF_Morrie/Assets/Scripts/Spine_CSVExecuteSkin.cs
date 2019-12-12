@@ -40,7 +40,6 @@ public class Spine_CSVExecuteSkin : MonoBehaviour
     public void CheckSkin(SkeletonAnimation skelton_)
     {
         skin = Spine_CSVReader.SplitSkin(voka, skelton_.initialSkinName);
-        print(skin[0][1]);
         SetAnim(skin, skelton_);
     }
 

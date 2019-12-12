@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
   m_Name: priv_sandCastle_Atlas
   m_EditorClassIdentifier: 
-  atlasFile: {fileID: 4900000, guid: 4cf6a08452cca4542817e4346992af8b, type: 3}
+  atlasFile: {fileID: 4900000, guid: c66d2fb531d439e4c91abea25141db0e, type: 3}
   materials:
-  - {fileID: 2100000, guid: 2eb7b1e579676ce41827aa67afed96ac, type: 2}
+  - {fileID: 2100000, guid: a0aecd1c69fdedf45aa1e1f9d418ebb6, type: 2}

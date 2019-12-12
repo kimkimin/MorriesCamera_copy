@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: priv_sandCastle_SkeletonData
   m_EditorClassIdentifier: 
   atlasAssets:
-  - {fileID: 11400000, guid: 809b452ebecff3a46ac8b9ea5ddc53d4, type: 2}
+  - {fileID: 11400000, guid: be1eecc3c9d1e3c4ebb910db6eeadf41, type: 2}
   scale: 1
-  skeletonJSON: {fileID: 4900000, guid: c7b6fa6e076d4894c86e6ca8c1c57891, type: 3}
+  skeletonJSON: {fileID: 4900000, guid: 3e3c6337ec2d6a841a64d906039f8d3c, type: 3}
   skeletonDataModifiers: []
   fromAnimation: []
   toAnimation: []
