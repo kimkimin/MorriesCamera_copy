@@ -1,6 +1,6 @@
 {
 "skeleton": {
-	"hash": "dVW+QdpXnNYs3rs6BTxqL6hq4Rw",
+	"hash": "aO9lenGKYXJ90iu42/Nn8wnXm34",
 	"spine": "3.8.78",
 	"x": -378.15,
 	"y": -16.26,
@@ -110,6 +110,36 @@
 	}
 ],
 "animations": {
+	"S1_campingcar_idle": {
+		"slots": {
+			"book_close": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"campingcar_open": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		},
+		"deform": {
+			"S1_campingcar": {
+				"campingcar_close": {
+					"campingcar_close": [
+						{}
+					]
+				}
+			},
+			"S1_icecreamtruck1": {
+				"book_close": {
+					"book_close": [
+						{}
+					]
+				}
+			}
+		}
+	},
 	"S1_campingcar_t1_E": {
 		"slots": {
 			"campingcar_close": {
@@ -167,6 +197,25 @@
 						{}
 					]
 				}
+			}
+		}
+	},
+	"S1_icecreamtruck1_idle": {
+		"slots": {
+			"book_close": {
+				"attachment": [
+					{ "name": "book_close" }
+				]
+			},
+			"book_open": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"icecream_truck_open": {
+				"attachment": [
+					{ "name": null }
+				]
 			}
 		}
 	},

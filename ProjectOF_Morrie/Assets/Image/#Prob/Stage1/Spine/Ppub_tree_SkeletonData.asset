@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
-  m_Name: Ppub_parasol_SkeletonData
+  m_Name: Ppub_tree_SkeletonData
   m_EditorClassIdentifier: 
   atlasAssets:
-  - {fileID: 11400000, guid: e382f73fdc120624b80d3d120fce8423, type: 2}
+  - {fileID: 11400000, guid: 178af04a9fbe7ce44afc2a544ba717c7, type: 2}
   scale: 1
-  skeletonJSON: {fileID: 4900000, guid: d95ac1944687e1046ba581dd6b0f7e7c, type: 3}
+  skeletonJSON: {fileID: 4900000, guid: 343e665dfc001cc4bb61d321f171d9e9, type: 3}
   skeletonDataModifiers: []
   fromAnimation: []
   toAnimation: []

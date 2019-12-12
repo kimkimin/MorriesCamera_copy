@@ -1,0 +1,139 @@
+
+Ppub_tree.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coconut
+  rotate: false
+  xy: 169, 931
+  size: 68, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+grass
+  rotate: false
+  xy: 2, 788
+  size: 244, 127
+  orig: 244, 127
+  offset: 0, 0
+  index: -1
+leaf_01
+  rotate: true
+  xy: 239, 917
+  size: 74, 204
+  orig: 74, 204
+  offset: 0, 0
+  index: -1
+leaf_02
+  rotate: true
+  xy: 2, 483
+  size: 160, 259
+  orig: 160, 259
+  offset: 0, 0
+  index: -1
+leaf_03
+  rotate: false
+  xy: 263, 469
+  size: 234, 167
+  orig: 234, 167
+  offset: 0, 0
+  index: -1
+leaf_03_2
+  rotate: true
+  xy: 736, 335
+  size: 229, 236
+  orig: 229, 236
+  offset: 0, 0
+  index: -1
+leaf_04
+  rotate: false
+  xy: 445, 873
+  size: 242, 118
+  orig: 242, 118
+  offset: 0, 0
+  index: -1
+leaf_04_2
+  rotate: false
+  xy: 264, 638
+  size: 282, 142
+  orig: 282, 142
+  offset: 0, 0
+  index: -1
+leaf_05
+  rotate: false
+  xy: 829, 566
+  size: 162, 214
+  orig: 162, 214
+  offset: 0, 0
+  index: -1
+leaf_06
+  rotate: true
+  xy: 689, 873
+  size: 118, 186
+  orig: 118, 186
+  offset: 0, 0
+  index: -1
+leaf_07
+  rotate: false
+  xy: 2, 645
+  size: 260, 135
+  orig: 260, 135
+  offset: 0, 0
+  index: -1
+leaf_08
+  rotate: true
+  xy: 499, 450
+  size: 173, 235
+  orig: 173, 235
+  offset: 0, 0
+  index: -1
+leaf_09
+  rotate: false
+  xy: 548, 625
+  size: 279, 155
+  orig: 279, 155
+  offset: 0, 0
+  index: -1
+small_leaf_01
+  rotate: false
+  xy: 52, 963
+  size: 55, 28
+  orig: 55, 28
+  offset: 0, 0
+  index: -1
+small_leaf_02
+  rotate: false
+  xy: 2, 966
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+small_leaf_03
+  rotate: false
+  xy: 109, 947
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+trunk_01
+  rotate: true
+  xy: 248, 782
+  size: 89, 732
+  orig: 89, 732
+  offset: 0, 0
+  index: -1
+trunk_02
+  rotate: true
+  xy: 2, 32
+  size: 156, 762
+  orig: 156, 762
+  offset: 0, 0
+  index: -1
+trunk_03
+  rotate: true
+  xy: 2, 190
+  size: 258, 727
+  orig: 258, 727
+  offset: 0, 0
+  index: -1
