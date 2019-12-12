@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
   m_Name: Pub_lie_backview01_Atlas
   m_EditorClassIdentifier: 
-  atlasFile: {fileID: 4900000, guid: fadd28b2a24369142875885caeda43d1, type: 3}
+  atlasFile: {fileID: 4900000, guid: b0534a4dac9a61641b45682af2049ce7, type: 3}
   materials:
-  - {fileID: 2100000, guid: 3d0914eef12c22646a4cd87cfbb87bc6, type: 2}
+  - {fileID: 2100000, guid: 4941a6a633f3bd244add0a207b3f51fd, type: 2}

@@ -1,0 +1,167 @@
+
+pub_sitting.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armL_cup
+  rotate: true
+  xy: 944, 920
+  size: 101, 77
+  orig: 101, 77
+  offset: 0, 0
+  index: -1
+armL_fishing
+  rotate: false
+  xy: 88, 910
+  size: 110, 83
+  orig: 110, 83
+  offset: 0, 0
+  index: -1
+armR_cup
+  rotate: true
+  xy: 130, 995
+  size: 26, 95
+  orig: 26, 95
+  offset: 0, 0
+  index: -1
+armR_fishing
+  rotate: true
+  xy: 266, 993
+  size: 28, 98
+  orig: 28, 98
+  offset: 0, 0
+  index: -1
+boat
+  rotate: false
+  xy: 474, 441
+  size: 463, 229
+  orig: 463, 229
+  offset: 0, 0
+  index: -1
+boat 1
+  rotate: false
+  xy: 2, 699
+  size: 394, 176
+  orig: 394, 176
+  offset: 0, 0
+  index: -1
+boat 2
+  rotate: false
+  xy: 398, 672
+  size: 429, 194
+  orig: 429, 194
+  offset: 0, 0
+  index: -1
+boat 3
+  rotate: false
+  xy: 2, 471
+  size: 470, 199
+  orig: 470, 199
+  offset: 0, 0
+  index: -1
+boat 4
+  rotate: false
+  xy: 378, 173
+  size: 500, 266
+  orig: 500, 266
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 310, 877
+  size: 104, 190
+  orig: 104, 190
+  offset: 0, 0
+  index: -1
+cup
+  rotate: true
+  xy: 227, 994
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+earL
+  rotate: true
+  xy: 866, 970
+  size: 51, 76
+  orig: 51, 76
+  offset: 0, 0
+  index: -1
+earR
+  rotate: true
+  xy: 795, 973
+  size: 48, 69
+  orig: 48, 69
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: false
+  xy: 2, 1010
+  size: 62, 11
+  orig: 62, 11
+  offset: 0, 0
+  index: -1
+eye_open
+  rotate: false
+  xy: 66, 1009
+  size: 62, 12
+  orig: 62, 12
+  offset: 0, 0
+  index: -1
+fishing_rod
+  rotate: true
+  xy: 2, 221
+  size: 248, 374
+  orig: 248, 374
+  offset: 0, 0
+  index: -1
+legL_bend
+  rotate: true
+  xy: 443, 983
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+legL_spread
+  rotate: true
+  xy: 2, 938
+  size: 69, 84
+  orig: 69, 84
+  offset: 0, 0
+  index: -1
+legR_bend
+  rotate: true
+  xy: 366, 988
+  size: 33, 75
+  orig: 33, 75
+  offset: 0, 0
+  index: -1
+legR_spread
+  rotate: false
+  xy: 523, 983
+  size: 113, 38
+  orig: 113, 38
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 638, 983
+  size: 38, 155
+  orig: 38, 155
+  offset: 0, 0
+  index: -1
+onepiece
+  rotate: false
+  xy: 502, 868
+  size: 156, 113
+  orig: 156, 113
+  offset: 0, 0
+  index: -1
+pants
+  rotate: false
+  xy: 200, 908
+  size: 108, 83
+  orig: 108, 83
+  offset: 0, 0
+  index: -1

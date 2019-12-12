@@ -1,0 +1,314 @@
+
+pub_sitting_90.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 250, 13
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 405, 40
+  size: 41, 25
+  orig: 41, 25
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 267, 183
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+Jean
+  rotate: false
+  xy: 2, 49
+  size: 98, 59
+  orig: 98, 59
+  offset: 0, 0
+  index: -1
+L_arm_drink
+  rotate: true
+  xy: 199, 139
+  size: 119, 66
+  orig: 119, 66
+  offset: 0, 0
+  index: -1
+L_arm_poke_Bowl
+  rotate: true
+  xy: 72, 110
+  size: 85, 49
+  orig: 85, 49
+  offset: 0, 0
+  index: -1
+L_arm_popcorn
+  rotate: false
+  xy: 413, 343
+  size: 94, 58
+  orig: 94, 58
+  offset: 0, 0
+  index: -1
+L_arm_skewer_normal
+  rotate: true
+  xy: 126, 126
+  size: 132, 71
+  orig: 132, 71
+  offset: 0, 0
+  index: -1
+L_arm_skewer_normal lov
+  rotate: false
+  xy: 274, 327
+  size: 137, 74
+  orig: 137, 74
+  offset: 0, 0
+  index: -1
+L_ear
+  rotate: false
+  xy: 2, 110
+  size: 68, 85
+  orig: 68, 85
+  offset: 0, 0
+  index: -1
+L_girl_shoe
+  rotate: true
+  xy: 289, 3
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+L_jean
+  rotate: false
+  xy: 462, 403
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 199, 55
+  size: 64, 82
+  orig: 64, 82
+  offset: 0, 0
+  index: -1
+L_slipper_bottom
+  rotate: false
+  xy: 372, 73
+  size: 51, 32
+  orig: 51, 32
+  offset: 0, 0
+  index: -1
+L_slipper_top_string
+  rotate: true
+  xy: 448, 31
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+R_arm_normal
+  rotate: false
+  xy: 265, 41
+  size: 49, 73
+  orig: 49, 73
+  offset: 0, 0
+  index: -1
+R_arm_popcorn_back
+  rotate: true
+  xy: 267, 209
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+R_arm_popcorn_front
+  rotate: false
+  xy: 316, 43
+  size: 54, 71
+  orig: 54, 71
+  offset: 0, 0
+  index: -1
+R_arm_spoon_armf
+  rotate: true
+  xy: 88, 8
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+R_arm_spoon_back
+  rotate: false
+  xy: 122, 4
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+R_arm_spoon_hand
+  rotate: false
+  xy: 316, 21
+  size: 51, 20
+  orig: 51, 20
+  offset: 0, 0
+  index: -1
+R_ear
+  rotate: false
+  xy: 373, 107
+  size: 59, 74
+  orig: 59, 74
+  offset: 0, 0
+  index: -1
+R_girl_shoe
+  rotate: false
+  xy: 186, 17
+  size: 62, 36
+  orig: 62, 36
+  offset: 0, 0
+  index: -1
+R_jean
+  rotate: false
+  xy: 462, 455
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 123, 41
+  size: 61, 83
+  orig: 61, 83
+  offset: 0, 0
+  index: -1
+R_slipper_bottom
+  rotate: true
+  xy: 372, 20
+  size: 51, 31
+  orig: 51, 31
+  offset: 0, 0
+  index: -1
+R_slipper_top_string
+  rotate: false
+  xy: 405, 18
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+T_shirt
+  rotate: false
+  xy: 267, 116
+  size: 104, 65
+  orig: 104, 65
+  offset: 0, 0
+  index: -1
+T_shirt_arm
+  rotate: true
+  xy: 425, 67
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 274, 403
+  size: 105, 186
+  orig: 105, 186
+  offset: 0, 0
+  index: -1
+close_mouth
+  rotate: false
+  xy: 225, 325
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+eating_mouth1
+  rotate: false
+  xy: 173, 321
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+eating_mouth2
+  rotate: false
+  xy: 194, 321
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: false
+  xy: 241, 325
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+eye_open
+  rotate: true
+  xy: 215, 324
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+flower_hair_pin
+  rotate: false
+  xy: 2, 9
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+flower_onepiece
+  rotate: true
+  xy: 2, 197
+  size: 114, 122
+  orig: 114, 122
+  offset: 0, 0
+  index: -1
+gown
+  rotate: false
+  xy: 2, 313
+  size: 153, 195
+  orig: 153, 195
+  offset: 0, 0
+  index: -1
+lov
+  rotate: false
+  xy: 157, 396
+  size: 115, 112
+  orig: 115, 112
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 126, 260
+  size: 51, 188
+  orig: 51, 188
+  offset: 0, 0
+  index: -1
+onepiece_swimwear front
+  rotate: false
+  xy: 46, 9
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+onepiece_swimwear_back
+  rotate: false
+  xy: 316, 183
+  size: 103, 142
+  orig: 103, 142
+  offset: 0, 0
+  index: -1
+open_mouth
+  rotate: false
+  xy: 157, 318
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+shorts
+  rotate: false
+  xy: 157, 333
+  size: 114, 61
+  orig: 114, 61
+  offset: 0, 0
+  index: -1

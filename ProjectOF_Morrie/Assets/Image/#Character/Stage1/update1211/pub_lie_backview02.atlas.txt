@@ -1,0 +1,146 @@
+
+pub_lie_backview02.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+000
+  rotate: false
+  xy: 2, 487
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+001
+  rotate: false
+  xy: 16, 482
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 39, 476
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+003
+  rotate: false
+  xy: 65, 472
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+004
+  rotate: false
+  xy: 187, 467
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+005
+  rotate: true
+  xy: 218, 466
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+006
+  rotate: true
+  xy: 252, 465
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+007
+  rotate: true
+  xy: 288, 458
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+008
+  rotate: true
+  xy: 386, 450
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+009
+  rotate: false
+  xy: 438, 438
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: false
+  xy: 93, 471
+  size: 92, 25
+  orig: 92, 25
+  offset: 0, 0
+  index: -1
+L_ear
+  rotate: true
+  xy: 98, 409
+  size: 60, 68
+  orig: 60, 68
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 355, 359
+  size: 119, 77
+  orig: 119, 77
+  offset: 0, 0
+  index: -1
+R_ear
+  rotate: false
+  xy: 331, 451
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 262, 375
+  size: 91, 74
+  orig: 91, 74
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 93, 246
+  size: 175, 127
+  orig: 175, 127
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 168, 397
+  size: 92, 66
+  orig: 92, 66
+  offset: 0, 0
+  index: -1
+swimwear_bottom
+  rotate: true
+  xy: 2, 329
+  size: 85, 89
+  orig: 85, 89
+  offset: 0, 0
+  index: -1
+towel_behind
+  rotate: false
+  xy: 2, 416
+  size: 94, 53
+  orig: 94, 53
+  offset: 0, 0
+  index: -1
+towel_front
+  rotate: false
+  xy: 270, 217
+  size: 177, 140
+  orig: 177, 140
+  offset: 0, 0
+  index: -1

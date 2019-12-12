@@ -1,0 +1,83 @@
+
+Pub_squat01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_left
+  rotate: true
+  xy: 410, 256
+  size: 44, 97
+  orig: 44, 97
+  offset: 0, 0
+  index: -1
+arm_right
+  rotate: false
+  xy: 330, 289
+  size: 78, 98
+  orig: 78, 98
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 219, 389
+  size: 121, 201
+  orig: 121, 201
+  offset: 0, 0
+  index: -1
+ear_left
+  rotate: true
+  xy: 422, 357
+  size: 62, 82
+  orig: 62, 82
+  offset: 0, 0
+  index: -1
+ear_right
+  rotate: false
+  xy: 422, 421
+  size: 88, 89
+  orig: 88, 89
+  offset: 0, 0
+  index: -1
+flower
+  rotate: false
+  xy: 109, 331
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 2, 419
+  size: 215, 91
+  orig: 215, 91
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 2, 377
+  size: 40, 179
+  orig: 40, 179
+  offset: 0, 0
+  index: -1
+onepiece
+  rotate: false
+  xy: 183, 307
+  size: 145, 80
+  orig: 145, 80
+  offset: 0, 0
+  index: -1
+pants
+  rotate: false
+  xy: 410, 302
+  size: 97, 53
+  orig: 97, 53
+  offset: 0, 0
+  index: -1
+swinsuit
+  rotate: false
+  xy: 2, 305
+  size: 105, 70
+  orig: 105, 70
+  offset: 0, 0
+  index: -1
