@@ -1,21 +1,22 @@
-﻿using System.Collections.Generic;
+﻿
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
-using System.IO;
 using Spine.Unity;
 
 /// <summary>
-/// Spine의 목록을 가져오고 CSV를 읽어서 애니메이션을 매칭해줌
+/// 스킨제어할 Spine의 목록을 가져오고 CSV를 읽어서 스킨을 매칭해줌 
 /// </summary>
-public class Spine_CSVExecute : MonoBehaviour
+public class Spine_CSVExecuteSkin : MonoBehaviour
 {
     List<string[]> voka = new List<string[]>();
-    List<string> anim = new List<string>();
+    List<string> skin = new List<string>();
     public SkeletonAnimation[] skeletons;
-    
+
     // Start is called before the first frame update
     void Start()
     {
-        GetVoka("Morries_SpineAnimation_CSV");
+        GetVoka("Morries_SpineAnimation_stage1_Skins");
     }
 
     void GetVoka(string csv)
@@ -28,7 +29,6 @@ public class Spine_CSVExecute : MonoBehaviour
 
         MatchIdle();
     }
-
     public void MatchIdle()
     {
         for (int i = 0; i < skeletons.Length; i++)
@@ -39,14 +39,14 @@ public class Spine_CSVExecute : MonoBehaviour
 
     public void CheckSkin(SkeletonAnimation skelton_)
     {
-        anim = Spine_CSVReader.SplitAnim(voka, skelton_.initialSkinName);
-        SetAnim(anim, skelton_);
+        skin = Spine_CSVReader.SplitSkin(voka, skelton_.initialSkinName);
+        print(skin[0][1]);
+        SetAnim(skin, skelton_);
     }
 
-    void SetAnim(List<string> anim_, SkeletonAnimation skeleton_)
+    void SetAnim(List<string> skin_, SkeletonAnimation skeleton_)
     {
-        //print("내스킨 : " + skeleton_.initialSkinName + ", 내아이들 : " + anim_[0]);
-        skeleton_.AnimationName = anim_[0];
-        skeleton_.gameObject.GetComponent<Spine_SetAnimList>().SetAnim(anim);
+        skeleton_.gameObject.GetComponent<Spine_TouchSkin>().skins = skin_;
     }
+    
 }

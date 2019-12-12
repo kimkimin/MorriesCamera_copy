@@ -31,7 +31,7 @@ public class Spine_CSVReader : MonoBehaviour
     /// <summary>
     /// 단어배열을 받아서 스킨 비교하여 애니메이션 배열을 반환(할당)합니다.
     /// </summary>
-    public static List<string> SplitSkin(List<string[]> voka, string skin)
+    public static List<string> SplitAnim(List<string[]> voka, string skin)
     {
         List<string> anim = new List<string>();
         for (int i = 0; i < voka.Count; i++)
@@ -48,6 +48,26 @@ public class Spine_CSVReader : MonoBehaviour
             }
         }
         //print("Return null");
+        return null;
+    }
+    
+    /// <summary>
+    /// 단어배열을 받아서 스킨 비교하여 스킨배열을 반환합니다.
+    /// </summary>
+    public static List<string> SplitSkin(List<string[]> voka, string defaultSkin)
+    {
+        List<string> skin = new List<string>();
+        for (int i = 0; i < voka.Count; i++)
+        {
+            if(defaultSkin == voka[i][(int)SpineCategory.Skin])
+            {
+                for (int j = (int)SpineCategory.Skin; j < voka[i].Length; j++)
+                {
+                    skin.Add(voka[i][j]);
+                }
+                return skin;
+            }
+        }
         return null;
     }
 
