@@ -1,0 +1,181 @@
+
+Pub_lieFaceUp01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm_book
+  rotate: false
+  xy: 460, 350
+  size: 41, 96
+  orig: 41, 96
+  offset: 0, 0
+  index: -1
+L_foot
+  rotate: false
+  xy: 101, 98
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: true
+  xy: 490, 138
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+L_leg_up
+  rotate: false
+  xy: 222, 214
+  size: 73, 83
+  orig: 73, 83
+  offset: 0, 0
+  index: -1
+R_arm_behind
+  rotate: false
+  xy: 188, 10
+  size: 64, 41
+  orig: 64, 41
+  offset: 0, 0
+  index: -1
+R_arm_front
+  rotate: false
+  xy: 2, 64
+  size: 97, 58
+  orig: 97, 58
+  offset: 0, 0
+  index: -1
+R_ear
+  rotate: false
+  xy: 101, 19
+  size: 85, 58
+  orig: 85, 58
+  offset: 0, 0
+  index: -1
+R_foot
+  rotate: false
+  xy: 2, 33
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+R_leg_up
+  rotate: true
+  xy: 128, 79
+  size: 119, 75
+  orig: 119, 75
+  offset: 0, 0
+  index: -1
+bikiniTop
+  rotate: false
+  xy: 128, 200
+  size: 92, 97
+  orig: 92, 97
+  offset: 0, 0
+  index: -1
+bikiniTop02
+  rotate: true
+  xy: 397, 69
+  size: 104, 91
+  orig: 104, 91
+  offset: 0, 0
+  index: -1
+bikini_bottom
+  rotate: true
+  xy: 460, 448
+  size: 62, 44
+  orig: 62, 44
+  offset: 0, 0
+  index: -1
+bikini_bottom02
+  rotate: true
+  xy: 205, 53
+  size: 68, 70
+  orig: 68, 70
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 297, 343
+  size: 167, 161
+  orig: 167, 161
+  offset: 0, 0
+  index: -1
+book
+  rotate: false
+  xy: 277, 5
+  size: 134, 62
+  orig: 134, 62
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: false
+  xy: 222, 204
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+eye_open
+  rotate: true
+  xy: 503, 438
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+footWater
+  rotate: false
+  xy: 413, 13
+  size: 96, 54
+  orig: 96, 54
+  offset: 0, 0
+  index: -1
+icon_01
+  rotate: true
+  xy: 490, 101
+  size: 35, 14
+  orig: 35, 14
+  offset: 0, 0
+  index: -1
+icon_02
+  rotate: false
+  xy: 397, 177
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+nose_book
+  rotate: true
+  xy: 297, 202
+  size: 139, 138
+  orig: 139, 138
+  offset: 0, 0
+  index: -1
+nose_normal
+  rotate: true
+  xy: 2, 124
+  size: 173, 124
+  orig: 173, 124
+  offset: 0, 0
+  index: -1
+recipe_wrong
+  rotate: false
+  xy: 222, 123
+  size: 173, 77
+  orig: 173, 77
+  offset: 0, 0
+  index: -1
+tube
+  rotate: false
+  xy: 2, 299
+  size: 293, 211
+  orig: 293, 211
+  offset: 0, 0
+  index: -1
+water_tube
+  rotate: true
+  xy: 437, 175
+  size: 166, 67
+  orig: 166, 67
+  offset: 0, 0
+  index: -1

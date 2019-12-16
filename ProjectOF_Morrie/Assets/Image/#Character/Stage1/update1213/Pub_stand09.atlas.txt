@@ -1,0 +1,139 @@
+
+Pub_stand09.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 317
+  size: 108, 193
+  orig: 108, 193
+  offset: 0, 0
+  index: -1
+close
+  rotate: false
+  xy: 30, 14
+  size: 68, 6
+  orig: 68, 6
+  offset: 0, 0
+  index: -1
+earL_01
+  rotate: false
+  xy: 112, 2
+  size: 96, 48
+  orig: 96, 48
+  offset: 0, 0
+  index: -1
+earR_01
+  rotate: true
+  xy: 112, 409
+  size: 101, 56
+  orig: 101, 56
+  offset: 0, 0
+  index: -1
+hammer_dance_armL_S1
+  rotate: true
+  xy: 199, 335
+  size: 75, 49
+  orig: 75, 49
+  offset: 0, 0
+  index: -1
+hammer_dance_armR_S1
+  rotate: true
+  xy: 210, 3
+  size: 68, 71
+  orig: 68, 71
+  offset: 0, 0
+  index: -1
+hawaii_dance_armL_S1
+  rotate: false
+  xy: 41, 164
+  size: 118, 23
+  orig: 118, 23
+  offset: 0, 0
+  index: -1
+hawaii_dance_armR_S1
+  rotate: true
+  xy: 2, 13
+  size: 143, 26
+  orig: 143, 26
+  offset: 0, 0
+  index: -1
+leafskirt_S1
+  rotate: true
+  xy: 30, 22
+  size: 134, 80
+  orig: 134, 80
+  offset: 0, 0
+  index: -1
+legL_S1
+  rotate: false
+  xy: 170, 412
+  size: 41, 98
+  orig: 41, 98
+  offset: 0, 0
+  index: -1
+legL_dance_S1
+  rotate: false
+  xy: 213, 416
+  size: 42, 94
+  orig: 42, 94
+  offset: 0, 0
+  index: -1
+legR_S1
+  rotate: false
+  xy: 163, 219
+  size: 40, 98
+  orig: 40, 98
+  offset: 0, 0
+  index: -1
+legR_dance_S1
+  rotate: false
+  xy: 112, 319
+  size: 85, 88
+  orig: 85, 88
+  offset: 0, 0
+  index: -1
+nose_S1
+  rotate: false
+  xy: 2, 158
+  size: 37, 157
+  orig: 37, 157
+  offset: 0, 0
+  index: -1
+onepiece01_S1
+  rotate: false
+  xy: 41, 189
+  size: 120, 126
+  orig: 120, 126
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 2, 3
+  size: 66, 8
+  orig: 66, 8
+  offset: 0, 0
+  index: -1
+pants01_L_S1
+  rotate: true
+  xy: 208, 73
+  size: 92, 60
+  orig: 92, 60
+  offset: 0, 0
+  index: -1
+pants01_R_S1
+  rotate: false
+  xy: 163, 167
+  size: 93, 50
+  orig: 93, 50
+  offset: 0, 0
+  index: -1
+sleeveless_S1
+  rotate: true
+  xy: 112, 52
+  size: 110, 94
+  orig: 110, 94
+  offset: 0, 0
+  index: -1
