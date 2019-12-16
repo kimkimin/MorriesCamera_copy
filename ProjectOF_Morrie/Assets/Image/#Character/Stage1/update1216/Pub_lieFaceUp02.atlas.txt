@@ -1,0 +1,202 @@
+
+Pub_lieFaceUp02.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm_book
+  rotate: false
+  xy: 616, 605
+  size: 41, 96
+  orig: 41, 96
+  offset: 0, 0
+  index: -1
+L_arm_pillow
+  rotate: false
+  xy: 478, 557
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+L_foot_cross
+  rotate: true
+  xy: 542, 580
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: true
+  xy: 594, 575
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+L_leg_cross
+  rotate: false
+  xy: 412, 667
+  size: 71, 86
+  orig: 71, 86
+  offset: 0, 0
+  index: -1
+R_arm_behind
+  rotate: true
+  xy: 230, 577
+  size: 64, 41
+  orig: 64, 41
+  offset: 0, 0
+  index: -1
+R_arm_front
+  rotate: false
+  xy: 836, 658
+  size: 97, 58
+  orig: 97, 58
+  offset: 0, 0
+  index: -1
+R_ear
+  rotate: false
+  xy: 143, 583
+  size: 85, 58
+  orig: 85, 58
+  offset: 0, 0
+  index: -1
+R_leg_cross
+  rotate: false
+  xy: 143, 643
+  size: 130, 46
+  orig: 130, 46
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 667, 666
+  size: 167, 161
+  orig: 167, 161
+  offset: 0, 0
+  index: -1
+book
+  rotate: false
+  xy: 143, 691
+  size: 134, 62
+  orig: 134, 62
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: false
+  xy: 399, 634
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+eye_open
+  rotate: false
+  xy: 399, 625
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+hammock
+  rotate: false
+  xy: 492, 829
+  size: 449, 193
+  orig: 449, 193
+  offset: 0, 0
+  index: -1
+hammock_line
+  rotate: false
+  xy: 2, 755
+  size: 488, 267
+  orig: 488, 267
+  offset: 0, 0
+  index: -1
+hat_onFace
+  rotate: false
+  xy: 279, 644
+  size: 131, 109
+  orig: 131, 109
+  offset: 0, 0
+  index: -1
+hat_onTheGround
+  rotate: false
+  xy: 485, 612
+  size: 129, 89
+  orig: 129, 89
+  offset: 0, 0
+  index: -1
+icon_01
+  rotate: false
+  xy: 439, 563
+  size: 35, 14
+  orig: 35, 14
+  offset: 0, 0
+  index: -1
+icon_02
+  rotate: false
+  xy: 399, 554
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+nose_book
+  rotate: false
+  xy: 2, 615
+  size: 139, 138
+  orig: 139, 138
+  offset: 0, 0
+  index: -1
+nose_normal
+  rotate: false
+  xy: 492, 703
+  size: 173, 124
+  orig: 173, 124
+  offset: 0, 0
+  index: -1
+pants01
+  rotate: true
+  xy: 836, 718
+  size: 109, 98
+  orig: 109, 98
+  offset: 0, 0
+  index: -1
+recipe_wrong
+  rotate: true
+  xy: 943, 849
+  size: 173, 77
+  orig: 173, 77
+  offset: 0, 0
+  index: -1
+shirt_back
+  rotate: false
+  xy: 275, 554
+  size: 122, 88
+  orig: 122, 88
+  offset: 0, 0
+  index: -1
+shirt_front
+  rotate: true
+  xy: 936, 646
+  size: 107, 86
+  orig: 107, 86
+  offset: 0, 0
+  index: -1
+t_shirt
+  rotate: true
+  xy: 412, 579
+  size: 86, 64
+  orig: 86, 64
+  offset: 0, 0
+  index: -1
+t_sleeve
+  rotate: false
+  xy: 542, 544
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+trouser
+  rotate: false
+  xy: 943, 755
+  size: 74, 92
+  orig: 74, 92
+  offset: 0, 0
+  index: -1

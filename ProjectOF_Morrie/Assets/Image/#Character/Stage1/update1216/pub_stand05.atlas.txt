@@ -1,0 +1,349 @@
+
+pub_stand05.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 725
+  size: 107, 192
+  orig: 107, 192
+  offset: 0, 0
+  index: -1
+Layer 10
+  rotate: true
+  xy: 507, 705
+  size: 74, 83
+  orig: 74, 83
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: true
+  xy: 592, 720
+  size: 47, 83
+  orig: 47, 83
+  offset: 0, 0
+  index: -1
+LegL_bodysuit
+  rotate: true
+  xy: 677, 720
+  size: 47, 83
+  orig: 47, 83
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: true
+  xy: 407, 814
+  size: 51, 98
+  orig: 51, 98
+  offset: 0, 0
+  index: -1
+LegR_badmood
+  rotate: true
+  xy: 507, 781
+  size: 51, 98
+  orig: 51, 98
+  offset: 0, 0
+  index: -1
+LegR_bodysuit
+  rotate: true
+  xy: 407, 761
+  size: 51, 98
+  orig: 51, 98
+  offset: 0, 0
+  index: -1
+apron
+  rotate: false
+  xy: 799, 814
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+apron_poket
+  rotate: false
+  xy: 837, 628
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+bad_eye
+  rotate: false
+  xy: 762, 678
+  size: 82, 54
+  orig: 82, 54
+  offset: 0, 0
+  index: -1
+badmood_armR
+  rotate: false
+  xy: 529, 834
+  size: 113, 51
+  orig: 113, 51
+  offset: 0, 0
+  index: -1
+barbeque
+  rotate: false
+  xy: 309, 867
+  size: 218, 154
+  orig: 218, 154
+  offset: 0, 0
+  index: -1
+bartender_armL_behind
+  rotate: false
+  xy: 979, 619
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+bartender_armL_front
+  rotate: false
+  xy: 592, 653
+  size: 75, 65
+  orig: 75, 65
+  offset: 0, 0
+  index: -1
+bartender_ice_armR
+  rotate: false
+  xy: 743, 632
+  size: 59, 44
+  orig: 59, 44
+  offset: 0, 0
+  index: -1
+bikini01
+  rotate: false
+  xy: 917, 947
+  size: 104, 74
+  orig: 104, 74
+  offset: 0, 0
+  index: -1
+bikini02
+  rotate: false
+  xy: 781, 734
+  size: 103, 78
+  orig: 103, 78
+  offset: 0, 0
+  index: -1
+bikini03
+  rotate: false
+  xy: 799, 929
+  size: 116, 92
+  orig: 116, 92
+  offset: 0, 0
+  index: -1
+board
+  rotate: false
+  xy: 2, 922
+  size: 305, 99
+  orig: 305, 99
+  offset: 0, 0
+  index: -1
+bodysuit
+  rotate: false
+  xy: 915, 787
+  size: 103, 92
+  orig: 103, 92
+  offset: 0, 0
+  index: -1
+cap
+  rotate: false
+  xy: 668, 858
+  size: 113, 54
+  orig: 113, 54
+  offset: 0, 0
+  index: -1
+close_eye
+  rotate: false
+  xy: 783, 879
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+cooking_ArmL_front
+  rotate: false
+  xy: 935, 619
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+cooking_Stick
+  rotate: false
+  xy: 607, 769
+  size: 35, 63
+  orig: 35, 63
+  offset: 0, 0
+  index: -1
+cooking_arm
+  rotate: false
+  xy: 669, 671
+  size: 72, 47
+  orig: 72, 47
+  offset: 0, 0
+  index: -1
+cooking_marshmallow
+  rotate: true
+  xy: 804, 629
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+cooking_marshmallow2
+  rotate: false
+  xy: 669, 638
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+cooking_marshmallow3
+  rotate: false
+  xy: 886, 618
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+cup_arm
+  rotate: false
+  xy: 307, 807
+  size: 98, 58
+  orig: 98, 58
+  offset: 0, 0
+  index: -1
+cup_arm_2
+  rotate: true
+  xy: 886, 651
+  size: 91, 100
+  orig: 91, 100
+  offset: 0, 0
+  index: -1
+ear01
+  rotate: true
+  xy: 196, 728
+  size: 74, 83
+  orig: 74, 83
+  offset: 0, 0
+  index: -1
+ice_armL
+  rotate: false
+  xy: 846, 672
+  size: 35, 60
+  orig: 35, 60
+  offset: 0, 0
+  index: -1
+ice_clothes
+  rotate: false
+  xy: 201, 804
+  size: 104, 116
+  orig: 104, 116
+  offset: 0, 0
+  index: -1
+icecream
+  rotate: false
+  xy: 988, 650
+  size: 33, 92
+  orig: 33, 92
+  offset: 0, 0
+  index: -1
+justArmL
+  rotate: false
+  xy: 644, 800
+  size: 21, 85
+  orig: 21, 85
+  offset: 0, 0
+  index: -1
+laugh01
+  rotate: true
+  xy: 886, 764
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+laugh02
+  rotate: false
+  xy: 886, 795
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+nose01
+  rotate: true
+  xy: 2, 834
+  size: 86, 197
+  orig: 86, 197
+  offset: 0, 0
+  index: -1
+nose02
+  rotate: true
+  xy: 529, 887
+  size: 134, 137
+  orig: 134, 137
+  offset: 0, 0
+  index: -1
+open_eye
+  rotate: true
+  xy: 783, 870
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+pants
+  rotate: false
+  xy: 917, 881
+  size: 104, 64
+  orig: 104, 64
+  offset: 0, 0
+  index: -1
+panty
+  rotate: false
+  xy: 307, 761
+  size: 98, 44
+  orig: 98, 44
+  offset: 0, 0
+  index: -1
+point_down_arm
+  rotate: false
+  xy: 668, 914
+  size: 129, 107
+  orig: 129, 107
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: true
+  xy: 781, 836
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+smile
+  rotate: true
+  xy: 783, 897
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+smile_eye
+  rotate: false
+  xy: 783, 887
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+sunglasses
+  rotate: false
+  xy: 667, 812
+  size: 112, 44
+  orig: 112, 44
+  offset: 0, 0
+  index: -1
+surf_arm
+  rotate: true
+  xy: 667, 769
+  size: 41, 103
+  orig: 41, 103
+  offset: 0, 0
+  index: -1
+surf_arm_bodysuit
+  rotate: true
+  xy: 908, 744
+  size: 41, 103
+  orig: 41, 103
+  offset: 0, 0
+  index: -1

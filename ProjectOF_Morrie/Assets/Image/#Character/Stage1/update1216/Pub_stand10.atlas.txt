@@ -1,0 +1,104 @@
+
+Pub_stand10.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armL_net
+  rotate: true
+  xy: 150, 367
+  size: 137, 45
+  orig: 137, 45
+  offset: 0, 0
+  index: -1
+armR_net
+  rotate: true
+  xy: 149, 30
+  size: 90, 45
+  orig: 90, 45
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 310
+  size: 108, 194
+  orig: 108, 194
+  offset: 0, 0
+  index: -1
+earL
+  rotate: false
+  xy: 197, 435
+  size: 65, 69
+  orig: 65, 69
+  offset: 0, 0
+  index: -1
+earR
+  rotate: true
+  xy: 150, 318
+  size: 47, 78
+  orig: 47, 78
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: false
+  xy: 70, 3
+  size: 70, 8
+  orig: 70, 8
+  offset: 0, 0
+  index: -1
+eye_open
+  rotate: false
+  xy: 2, 2
+  size: 66, 9
+  orig: 66, 9
+  offset: 0, 0
+  index: -1
+legL_net
+  rotate: false
+  xy: 76, 22
+  size: 34, 98
+  orig: 34, 98
+  offset: 0, 0
+  index: -1
+legR_net
+  rotate: false
+  xy: 112, 26
+  size: 35, 94
+  orig: 35, 94
+  offset: 0, 0
+  index: -1
+net
+  rotate: false
+  xy: 2, 122
+  size: 153, 186
+  orig: 153, 186
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 112, 336
+  size: 36, 168
+  orig: 36, 168
+  offset: 0, 0
+  index: -1
+pantsL_net
+  rotate: false
+  xy: 157, 280
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+pantsR_net
+  rotate: false
+  xy: 197, 394
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+top_net
+  rotate: true
+  xy: 2, 13
+  size: 107, 72
+  orig: 107, 72
+  offset: 0, 0
+  index: -1
