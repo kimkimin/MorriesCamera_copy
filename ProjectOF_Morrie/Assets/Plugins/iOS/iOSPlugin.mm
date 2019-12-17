@@ -20,10 +20,7 @@
 
 +(void) HapticFeedback:(NSString*)typeName{
     //num += 1;
-    if([typeName isEqualToString:@"Soft"]){
-        UIImpactFeedbackGenerator * gen = [[UIImpactFeedbackGenerator alloc]initWithStyle:(UIImpactFeedbackStyleLight)];
-        [gen impactOccurred];
-    }else if ([typeName isEqualToString:@"Heavy"]){
+    if ([typeName isEqualToString:@"Heavy"]){
         UIImpactFeedbackGenerator * gen = [[UIImpactFeedbackGenerator alloc]initWithStyle:(UIImpactFeedbackStyleHeavy)];
         [gen impactOccurred];
     }else if ([typeName isEqualToString:@"Light"]){
@@ -35,6 +32,15 @@
     }else if ([typeName isEqualToString:@"Rigid"]){
         UIImpactFeedbackGenerator * gen = [[UIImpactFeedbackGenerator alloc]initWithStyle:(UIImpactFeedbackStyleLight)];
         [gen impactOccurred];
+    }else if([typeName isEqualToString:@"Success"]{
+        UINotificationFeedbackGenerator * gen = [[UINotificationFeedbackGenerator alloc]init];
+        [gen notificationOccurred:(UINotificationFeedbackTypeSuccess)];
+    }else if([typeName isEqualToString:@"Warning"]{
+        UINotificationFeedbackGenerator * gen = [[UINotificationFeedbackGenerator alloc]init];
+        [gen notificationOccurred:(UINotificationFeedbackTypeWarning)];
+    }else if([typeName isEqualToString:@"Error"]{
+        UINotificationFeedbackGenerator * gen = [[UINotificationFeedbackGenerator alloc]init];
+        [gen notificationOccurred:(UINotificationFeedbackTypeError)];
     }
 }
 
