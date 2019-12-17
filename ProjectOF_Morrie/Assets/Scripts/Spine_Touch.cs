@@ -27,6 +27,7 @@ public class Spine_Touch : MonoBehaviour
         //드래그 이동시 스칠때 스파인이 움직이나 확임
 
         print("imTouched");
+        binding.LigthHaptic();
         CheckAnimType(setAnim.animList[animNum+1]);
     }
 
