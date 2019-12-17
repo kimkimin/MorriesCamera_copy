@@ -90,7 +90,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: iPhone
-    maxTextureSize: 1024
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: 33
     textureCompression: 1
@@ -98,6 +98,18 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -108,9 +120,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 512
-        height: 1024
+        y: 583
+        width: 1024
+        height: 439
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,7 +130,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a876e3f66bf3144088d87f1ab8035c9
+      spriteID: 4f149e06d0bbd5549a760f46a057cffe
       internalID: 958205207942284743
       vertices: []
       indices: 
@@ -128,10 +140,10 @@ TextureImporter:
       name: stage1_update1210_2_1
       rect:
         serializedVersion: 2
-        x: 512
+        x: 0
         y: 0
-        width: 512
-        height: 1024
+        width: 1024
+        height: 583
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -139,7 +151,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9de86f9a23d51964886922dba50c6c35
+      spriteID: c85ac6cc801aa784dac79e472b57e800
       internalID: 1586758793153337710
       vertices: []
       indices: 
@@ -148,7 +160,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 260fd1d490376f448a7619966021bf87
+    spriteID: 85ba7ed0494291e43892a90dd0a0c3c7
     internalID: 0
     vertices: []
     indices: 

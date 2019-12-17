@@ -1,0 +1,62 @@
+
+Ppub_tube.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tube_guide01
+  rotate: true
+  xy: 1472, 1364
+  size: 637, 279
+  orig: 637, 279
+  offset: 0, 0
+  index: -1
+tube_guide02
+  rotate: false
+  xy: 2, 1397
+  size: 652, 275
+  orig: 652, 275
+  offset: 0, 0
+  index: -1
+tube_guide03
+  rotate: false
+  xy: 761, 1657
+  size: 709, 344
+  orig: 709, 344
+  offset: 0, 0
+  index: -1
+tube_guide04
+  rotate: false
+  xy: 2, 1674
+  size: 757, 327
+  orig: 757, 327
+  offset: 0, 0
+  index: -1
+wave_guide01
+  rotate: false
+  xy: 1753, 1696
+  size: 234, 132
+  orig: 234, 132
+  offset: 0, 0
+  index: -1
+wave_guide02
+  rotate: false
+  xy: 1753, 1387
+  size: 224, 146
+  orig: 224, 146
+  offset: 0, 0
+  index: -1
+wave_guide03
+  rotate: false
+  xy: 1753, 1535
+  size: 229, 159
+  orig: 229, 159
+  offset: 0, 0
+  index: -1
+wave_guide04
+  rotate: false
+  xy: 1753, 1830
+  size: 248, 171
+  orig: 248, 171
+  offset: 0, 0
+  index: -1
