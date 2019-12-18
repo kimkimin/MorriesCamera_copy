@@ -22,10 +22,10 @@ public class Spine_CSVReader : MonoBehaviour
         List<string[]> splitVoka = new List<string[]>();
         for (int i = 1; i < splitLine.Length; i++)
         {
-            var voka = Regex.Split(splitLine[i], SPLIT_COMMA);
+            var voka = Regex.Split(splitLine[i], SPLIT_COMMA);//라인별로 콤마로 나눈 배열뭉탱이
             splitVoka.Add(voka);
         }
-        return splitVoka;
+        return splitVoka;//콤마로 나는 배열의 리스트
     }
 
     /// <summary>
@@ -39,15 +39,19 @@ public class Spine_CSVReader : MonoBehaviour
             //print("matched with " + voka[i][(int)SpineCategory.Skin] + "?");
             if (skin == voka[i][(int)SpineCategory.Skin])
             {
-                //print("matched");
+                print("matched : " + voka[i][(int)SpineCategory.Skin]);
                 for (int j = (int)SpineCategory.Idle; j < voka[i].Length; j++)
                 {
                     anim.Add(voka[i][j]);
                 }
                 return anim;
             }
+            else
+            {
+                print("NOTmatched : " + voka[i][(int)SpineCategory.Skin] + ", 내스킨은 " + skin);
+
+            }
         }
-        //print("Return null");
         return null;
     }
     
