@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
-  m_Name: Ppub_toilet_Atlas
+  m_Name: Ppriv_toilet_Atlas
   m_EditorClassIdentifier: 
-  atlasFile: {fileID: 4900000, guid: bab62a438e5ef0b479c76836ac1afaae, type: 3}
+  atlasFile: {fileID: 4900000, guid: 535b9869f27072b42a34e4c69ca067a0, type: 3}
   materials:
-  - {fileID: 2100000, guid: 47ce88c4e5d3fef4898a13d02e87e388, type: 2}
+  - {fileID: 2100000, guid: c3b11e1d2f82d1e409f3a0098a98adda, type: 2}

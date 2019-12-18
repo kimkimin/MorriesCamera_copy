@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
-  m_Name: priv_stand01_SkeletonData
+  m_Name: Ppriv_toilet_SkeletonData
   m_EditorClassIdentifier: 
   atlasAssets:
-  - {fileID: 11400000, guid: 5b063215ce1228f468a56c8d9128fdfc, type: 2}
-  scale: 0.75
-  skeletonJSON: {fileID: 4900000, guid: 72fbf3f8ed7f91e44917cf37288a740f, type: 3}
+  - {fileID: 11400000, guid: 75340047df221db44aaf47054acecf1f, type: 2}
+  scale: 1
+  skeletonJSON: {fileID: 4900000, guid: c967a7832433ad64fa610a935e9c7919, type: 3}
   skeletonDataModifiers: []
   fromAnimation: []
   toAnimation: []

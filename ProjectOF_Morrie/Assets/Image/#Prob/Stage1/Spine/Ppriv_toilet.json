@@ -1,7 +1,7 @@
 {
 "skeleton": {
-	"hash": "lLbwD4xb4u4hnqJeZUtuEVTWF3A",
-	"spine": "3.8.78",
+	"hash": "8WZo4l9I3v1KDDr7f72Tt3r61z0",
+	"spine": "3.8.79",
 	"x": -221.67,
 	"y": -40.47,
 	"width": 496,
@@ -91,11 +91,30 @@
 	}
 ],
 "animations": {
+	"S1_toilet_idle": {
+		"slots": {
+			"effect": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"toilet": {
+				"attachment": [
+					{ "name": "toilet" }
+				]
+			},
+			"window": {
+				"attachment": [
+					{ "name": "window_close_1" }
+				]
+			}
+		}
+	},
 	"S1_toilet_t1_RE": {
 		"slots": {
 			"effect": {
 				"attachment": [
-					{ "name": null },
+					{ "name": "effect" },
 					{ "time": 0.1667, "name": null },
 					{ "time": 0.8333, "name": null },
 					{ "time": 1, "name": null },
