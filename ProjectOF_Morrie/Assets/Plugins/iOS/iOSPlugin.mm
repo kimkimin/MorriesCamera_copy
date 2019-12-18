@@ -32,13 +32,13 @@
     }else if ([typeName isEqualToString:@"Rigid"]){
         UIImpactFeedbackGenerator * gen = [[UIImpactFeedbackGenerator alloc]initWithStyle:(UIImpactFeedbackStyleLight)];
         [gen impactOccurred];
-    }else if([typeName isEqualToString:@"Success"]{
+    }else if([typeName isEqualToString:@"Success"]){
         UINotificationFeedbackGenerator * gen = [[UINotificationFeedbackGenerator alloc]init];
         [gen notificationOccurred:(UINotificationFeedbackTypeSuccess)];
-    }else if([typeName isEqualToString:@"Warning"]{
+    }else if([typeName isEqualToString:@"Warning"]){
         UINotificationFeedbackGenerator * gen = [[UINotificationFeedbackGenerator alloc]init];
         [gen notificationOccurred:(UINotificationFeedbackTypeWarning)];
-    }else if([typeName isEqualToString:@"Error"]{
+    }else if([typeName isEqualToString:@"Error"]){
         UINotificationFeedbackGenerator * gen = [[UINotificationFeedbackGenerator alloc]init];
         [gen notificationOccurred:(UINotificationFeedbackTypeError)];
     }
