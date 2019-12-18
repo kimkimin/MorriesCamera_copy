@@ -1,208 +1,243 @@
 
-pub_lieFront.png
+Pub_lieFront.png
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 Layer 17
   rotate: false
-  xy: 2, 14
+  xy: 2, 17
   size: 110, 50
   orig: 110, 50
   offset: 0, 0
   index: -1
 Layer 18
   rotate: false
-  xy: 422, 111
+  xy: 422, 114
   size: 323, 122
   orig: 323, 122
   offset: 0, 0
   index: -1
 armL_cupMorisChin
-  rotate: false
-  xy: 811, 23
+  rotate: true
+  xy: 598, 8
   size: 29, 42
   orig: 29, 42
   offset: 0, 0
   index: -1
 armL_surf
   rotate: false
-  xy: 114, 5
+  xy: 114, 8
   size: 82, 59
   orig: 82, 59
   offset: 0, 0
   index: -1
 armR_cupMorisChin
   rotate: false
-  xy: 575, 26
+  xy: 929, 16
   size: 44, 54
   orig: 44, 54
   offset: 0, 0
   index: -1
 armR_surf
   rotate: false
-  xy: 422, 73
+  xy: 422, 76
   size: 103, 36
   orig: 103, 36
   offset: 0, 0
   index: -1
 bikini
   rotate: false
-  xy: 621, 4
+  xy: 685, 7
   size: 95, 105
   orig: 95, 105
   offset: 0, 0
   index: -1
 body
   rotate: false
-  xy: 747, 117
+  xy: 747, 120
   size: 179, 116
   orig: 179, 116
   offset: 0, 0
   index: -1
+cap_S2
+  rotate: true
+  xy: 549, 3
+  size: 80, 47
+  orig: 80, 47
+  offset: 0, 0
+  index: -1
 earL_surf
   rotate: true
-  xy: 520, 13
+  xy: 929, 72
   size: 58, 53
   orig: 58, 53
   offset: 0, 0
   index: -1
 earR_cupMorisChin
   rotate: true
-  xy: 811, 67
+  xy: 975, 22
   size: 48, 47
   orig: 48, 47
   offset: 0, 0
   index: -1
 earR_surf
   rotate: false
-  xy: 198, 12
+  xy: 272, 15
   size: 83, 52
   orig: 83, 52
   offset: 0, 0
   index: -1
 eye01_close
   rotate: true
-  xy: 21, 2
+  xy: 21, 5
   size: 10, 6
   orig: 10, 6
   offset: 0, 0
   index: -1
 eye01_open
   rotate: false
-  xy: 2, 4
+  xy: 2, 7
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
 eye01_smile
   rotate: true
-  xy: 12, 3
+  xy: 12, 6
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
 eye02_close
   rotate: true
-  xy: 38, 3
+  xy: 38, 6
   size: 9, 6
   orig: 9, 6
   offset: 0, 0
   index: -1
 eye02_open
   rotate: true
-  xy: 29, 4
+  xy: 29, 7
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
 legL_cupMorisChin
-  rotate: false
-  xy: 359, 11
+  rotate: true
+  xy: 494, 2
   size: 72, 53
   orig: 72, 53
   offset: 0, 0
   index: -1
+legL_cupMorisChin_scout_S2
+  rotate: true
+  xy: 433, 4
+  size: 70, 59
+  orig: 70, 59
+  offset: 0, 0
+  index: -1
 legL_surf
   rotate: false
-  xy: 527, 82
+  xy: 527, 85
   size: 78, 27
   orig: 78, 27
   offset: 0, 0
   index: -1
 legR_cupMorisChin
   rotate: false
-  xy: 283, 6
+  xy: 357, 9
   size: 74, 58
   orig: 74, 58
   offset: 0, 0
   index: -1
+legR_cupMorisChin_scout_S2
+  rotate: false
+  xy: 198, 6
+  size: 72, 61
+  orig: 72, 61
+  offset: 0, 0
+  index: -1
 legR_surf
   rotate: false
-  xy: 433, 27
+  xy: 598, 39
   size: 85, 44
   orig: 85, 44
   offset: 0, 0
   index: -1
 mouth
   rotate: true
-  xy: 433, 5
+  xy: 607, 92
   size: 20, 15
   orig: 20, 15
   offset: 0, 0
   index: -1
 nose
   rotate: true
-  xy: 1064, 52
+  xy: 1234, 55
   size: 181, 143
   orig: 181, 143
   offset: 0, 0
   index: -1
 pants01
   rotate: true
-  xy: 718, 5
+  xy: 928, 132
   size: 104, 91
   orig: 104, 91
   offset: 0, 0
   index: -1
+scout_uniform_S2
+  rotate: false
+  xy: 782, 2
+  size: 145, 116
+  orig: 145, 116
+  offset: 0, 0
+  index: -1
 shark
-  rotate: true
-  xy: 928, 22
+  rotate: false
+  xy: 1021, 102
   size: 211, 134
   orig: 211, 134
   offset: 0, 0
   index: -1
+sleeve_scout_S2
+  rotate: false
+  xy: 642, 5
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
 surfingBoard
   rotate: false
-  xy: 2, 66
+  xy: 2, 69
   size: 418, 167
   orig: 418, 167
   offset: 0, 0
   index: -1
 wave1
   rotate: false
-  xy: 2, 235
+  xy: 2, 1143
   size: 903, 903
   orig: 903, 903
   offset: 0, 0
   index: -1
 wave2
   rotate: false
-  xy: 907, 1140
+  xy: 2, 238
   size: 903, 903
   orig: 903, 903
   offset: 0, 0
   index: -1
 wave3
   rotate: false
-  xy: 907, 235
+  xy: 907, 1143
   size: 903, 903
   orig: 903, 903
   offset: 0, 0
   index: -1
 wave4
   rotate: false
-  xy: 2, 1140
+  xy: 907, 238
   size: 903, 903
   orig: 903, 903
   offset: 0, 0
