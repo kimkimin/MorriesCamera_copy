@@ -60237,12 +60237,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc978fde86c4d6a49a3b683d45bb9f63, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletons:
-  - {fileID: 297258178}
-  - {fileID: 105079577}
-  - {fileID: 481376621}
-  - {fileID: 17424830}
-  - {fileID: 221600038}
+  skeletons: []
 --- !u!4 &2117239352
 Transform:
   m_ObjectHideFlags: 0
