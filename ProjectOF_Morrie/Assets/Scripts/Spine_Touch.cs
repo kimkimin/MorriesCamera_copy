@@ -31,6 +31,7 @@ public class Spine_Touch : MonoBehaviour
         CheckAnimType(setAnim.animList[animNum+1]);
     }
 
+    //플레이중에는 다시 플레이되지않게 수정해야함
     /// <summary>
     /// 애님 유형나누고 그에따라 실행
     /// </summary>

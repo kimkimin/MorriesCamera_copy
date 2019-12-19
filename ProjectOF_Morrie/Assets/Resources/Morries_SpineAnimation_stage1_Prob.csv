@@ -1,0 +1,19 @@
+SpineName,Skin,idle or verb,Touch1,Touch2,Touch3
+Ppub_parasol,S1_parasol1,S1_parasol1_idle,S1_parasol1_t1_RE,S1_parasol1_t2_E,S1_parasol1_t3_RE
+Ppub_parasol,S1_parasol2,S1_parasol2_idle,S1_parasol2_t1_RE,S1_parasol2_t2_E,S1_parasol2_t3_RE
+Ppub_toilet,S1_toilet,S1_toilet_idle,S1_toilet_t1_RE,,
+Ppub_car,S1_campingcar,S1_campingcar_idle,S1_campingcar_t1_E,S1_campingcar_t2_RE,
+Ppub_car,S1_icecreamtruck1,S1_icecreamtruck1_idle,S1_icecreamtruck1_t1_E,S1_icecreamtruck1_t2_RE,
+Ppub_plants,S1_plants1,S1_plants1_idle,S1_plants1_t1_RE,,
+Ppub_plants,S1_plants2,S1_plants2_idle,S1_plants2_t1_RE,,
+Ppub_radio,S1_radio1,S1_radio1_idle,S1_radio1_t1_RE,,
+Ppub_radio,S1_radio2,S1_radio2_idle,S1_radio2_t1_RE,,
+Ppub_radio,S1_radio3,S1_radio3_idle,S1_radio3_t1_RE,,
+Ppub_tube,S1_tube1,S1_tube1_idle,,,
+Ppub_tube,S1_tube2,S1_tube2_idle,,,
+Ppub_tree,S1_tree1,S1_tree1_idle,S1_tree1_t1_RE,S1_tree1_t2_E1,S1_tree1_t2_E2
+Ppub_tree,S1_tree2,S1_tree2_idle,S1_tree2_t1_RE,S1_tree2_t2_E1,S1_tree2_t2_E2
+Ppub_tree,S1_tree3,S1_tree3_idle,S1_tree3_t1_RE,S1_tree3_t2_E1,S1_tree3_t2_E2
+Ppub_tree,S1_tree4,S1_tree4_idle,S1_tree4_t1_RE,S1_tree4_t2_E1,S1_tree4_t2_E2
+Ppub_tree,S1_tree5,S1_tree5_idle,S1_tree5_t1_RE,S1_tree5_t2_E1,S1_tree5_t2_E2
+Ppub_tree,S1_tree6,S1_tree6_idle,S1_tree6_t1_RE,S1_tree6_t2_E1,S1_tree6_t2_E2

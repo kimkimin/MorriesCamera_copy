@@ -9,6 +9,7 @@ using System.IO;
 /// </summary>
 public class PictureSave : MonoBehaviour
 {
+    public RectTransform renderViewSize;
     // Start is called before the first frame update
     void Start()
     {
@@ -26,7 +27,8 @@ public class PictureSave : MonoBehaviour
         //한프레임 대기
         
         Texture2D screenShot = new Texture2D(600, 600, TextureFormat.RGB24, false);
-        screenShot.ReadPixels(new Rect(Screen.width/2 - 300, Screen.height/2 - 197, screenShot.width, screenShot.height), 0, 0);
+       //screenShot.ReadPixels(new Rect(Screen.width/2 - 300, Screen.height/2 - 197, screenShot.width, screenShot.height), 0, 0);
+        screenShot.ReadPixels(new Rect(Screen.width/2 - screenShot.width/2, Screen.height/2 - screenShot.height/2, screenShot.width, screenShot.height), 0, 0);
         screenShot.Apply();
 
         if (SystemInfo.deviceType == DeviceType.Handheld)

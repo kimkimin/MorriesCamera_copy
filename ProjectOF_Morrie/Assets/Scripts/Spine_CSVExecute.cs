@@ -11,11 +11,12 @@ public class Spine_CSVExecute : MonoBehaviour
     List<string[]> voka = new List<string[]>();
     List<string> anim = new List<string>();
     public SkeletonAnimation[] skeletons;
+    public string CSVname;
     
     // Start is called before the first frame update
     void Start()
     {
-        GetVoka("Morries_SpineAnimation_stage1_Character7");
+        GetVoka(CSVname);
     }
 
     /// <summary>

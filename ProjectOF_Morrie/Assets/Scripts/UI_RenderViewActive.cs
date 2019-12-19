@@ -57,6 +57,7 @@ public class UI_RenderViewActive : MonoBehaviour
         }
         else
         {
+            insPictureSave.SavePhoto();
             insPhotoDupl.DuplicatePrefab();
         }
         //애니메이션에서 사진저장을 실행함
