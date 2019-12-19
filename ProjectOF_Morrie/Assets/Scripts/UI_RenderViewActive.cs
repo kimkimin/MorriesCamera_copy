@@ -18,7 +18,7 @@ public class UI_RenderViewActive : MonoBehaviour
     private void OnEnable()
     {
         Play_DragCameraZoom.b_IsTouch2 = !Play_DragCameraZoom.b_IsTouch2;
-        print(Play_DragCameraZoom.b_IsTouch2);
+        //print(Play_DragCameraZoom.b_IsTouch2);
     }
     private void OnDisable()
     {
