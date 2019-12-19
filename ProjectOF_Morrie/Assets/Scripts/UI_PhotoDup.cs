@@ -13,7 +13,11 @@ public class UI_PhotoDup : MonoBehaviour
     /// </summary>
     public void DuplicatePrefab()
     {
-        GameObject clone = Instantiate(photoPrefab, Vector3.zero, Quaternion.identity);
+        GameObject clone = Instantiate(photoPrefab, photoPrefab.transform.position, Quaternion.identity);
         clone.transform.SetParent(photoParent);
+        clone.GetComponent<RectTransform>().localScale = Vector3.one;
+        clone.GetComponent<PictureLoad>();
+        //픽쳐 로드가 있는지 확인해야하고
+        //사진저장후 로드도 바로되는지 확인해야함
     }
 }

@@ -12,6 +12,8 @@ public class UI_RenderViewActive : MonoBehaviour
     public UI_RenderViewMaskResetting insRenderMask;
     public PictureSave insPictureSave;
     public PictureLoad insPictureLoad;
+    public UI_PhotoDup insPhotoDupl;
+    bool photoStart = false;//최초사진저장체크
 
     private void OnEnable()
     {
@@ -48,6 +50,16 @@ public class UI_RenderViewActive : MonoBehaviour
     /// </summary>
     public void SavePhotoFromPictureSave()
     {
-        insPictureSave.SavePhoto();
+        if (!photoStart)
+        {
+            insPictureSave.SavePhoto();
+            photoStart = true;
+        }
+        else
+        {
+            insPhotoDupl.DuplicatePrefab();
+        }
+        //애니메이션에서 사진저장을 실행함
+        //여기서 프리팹생성및 해당포토에 로드하기
     }
 }
