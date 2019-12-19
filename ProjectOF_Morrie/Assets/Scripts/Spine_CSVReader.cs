@@ -39,18 +39,18 @@ public class Spine_CSVReader : MonoBehaviour
             //print("matched with " + voka[i][(int)SpineCategory.Skin] + "?");
             if (skin == voka[i][(int)SpineCategory.Skin])
             {
-                print("matched : " + voka[i][(int)SpineCategory.Skin]);
+                //print("matched : " + voka[i][(int)SpineCategory.Skin]);
                 for (int j = (int)SpineCategory.Idle; j < voka[i].Length; j++)
                 {
                     anim.Add(voka[i][j]);
                 }
                 return anim;
             }
-            else
+            /*else
             {
                 print("NOTmatched : " + voka[i][(int)SpineCategory.Skin] + ", 내스킨은 " + skin);
 
-            }
+            }*/
         }
         return null;
     }

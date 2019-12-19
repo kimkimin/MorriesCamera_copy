@@ -82,7 +82,7 @@ public class Spine_Touch : MonoBehaviour
         {
             yield return new WaitForEndOfFrame();
         }
-        animNum--;
+        animNum = 0;
         skeleton.loop = true;
         skeleton.AnimationName = setAnim.animList[animNum];
     }
@@ -92,7 +92,7 @@ public class Spine_Touch : MonoBehaviour
     /// </summary>
     void E_()
     {if (animNum > 0) return;
-     if (animNum == setAnim.animList.Count) return;
+     if (animNum >= setAnim.animList.Count) return;
 
         skeleton.loop = false;
         animNum++;
@@ -104,6 +104,8 @@ public class Spine_Touch : MonoBehaviour
     /// </summary>
     IEnumerator E_Next_()
     {//NOT_TESTED
+        if(animNum >= setAnim.animList.Count) yield return null;
+
         skeleton.loop = false;
         animNum++;
         skeleton.AnimationName = setAnim.animList[animNum];
@@ -133,6 +135,8 @@ public class Spine_Touch : MonoBehaviour
     /// </summary>
     void IN_()
     {//NOT_TESTED
+        if (animNum >= setAnim.animList.Count) return;
+
         skeleton.loop = true;
         animNum++;
         skeleton.AnimationName = setAnim.animList[animNum];

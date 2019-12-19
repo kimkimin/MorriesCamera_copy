@@ -15,7 +15,7 @@ public class Spine_CSVExecute : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        GetVoka("Morries_SpineAnimation_stage1_Character5");
+        GetVoka("Morries_SpineAnimation_stage1_Character7");
     }
 
     /// <summary>
@@ -51,7 +51,7 @@ public class Spine_CSVExecute : MonoBehaviour
 
     void SetAnim(List<string> anim_, SkeletonAnimation skeleton_)
     {
-        print("내스킨 : " + skeleton_.initialSkinName + ", 내아이들 : " + anim_[0]);
+        //print("내스킨 : " + skeleton_.initialSkinName + ", 내아이들 : " + anim_[0]);
         skeleton_.AnimationName = anim_[0];
         skeleton_.gameObject.GetComponent<Spine_SetAnimList>().SetAnim(anim);
     }
