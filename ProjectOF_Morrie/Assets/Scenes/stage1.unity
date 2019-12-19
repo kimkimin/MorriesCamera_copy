@@ -2148,8 +2148,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 0}
-  initialSkinName: S1_surfing_wave01
+  skeletonDataAsset: {fileID: 11400000, guid: 357b9b1a882c6d6428369666065038cf, type: 2}
+  initialSkinName: S1_surfing_wave
   initialFlipX: 0
   initialFlipY: 0
   separatorSlotNames: []
@@ -2189,7 +2189,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 0}
+  - {fileID: 2100000, guid: e6486c7e3caf9ef4eb93963a98db3c6f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -9930,7 +9930,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 0}
+  skeletonDataAsset: {fileID: 11400000, guid: 357b9b1a882c6d6428369666065038cf, type: 2}
   initialSkinName: S1_surfing_pants
   initialFlipX: 0
   initialFlipY: 0
@@ -9971,7 +9971,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a34fade8f17593a47b84125b1ddda1bf, type: 2}
+  - {fileID: 2100000, guid: e6486c7e3caf9ef4eb93963a98db3c6f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -44404,7 +44404,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 0}
+  skeletonDataAsset: {fileID: 11400000, guid: 357b9b1a882c6d6428369666065038cf, type: 2}
   initialSkinName: S1_makeSkert_seaweed
   initialFlipX: 0
   initialFlipY: 0
@@ -44445,7 +44445,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a34fade8f17593a47b84125b1ddda1bf, type: 2}
+  - {fileID: 2100000, guid: e6486c7e3caf9ef4eb93963a98db3c6f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -60815,6 +60815,11 @@ MonoBehaviour:
   - {fileID: 2097367892}
   - {fileID: 843992502}
   - {fileID: 1358655461}
+  - {fileID: 1015803686}
+  - {fileID: 457224847}
+  - {fileID: 1757554725}
+  - {fileID: 1727214156}
+  - {fileID: 654897846}
 --- !u!4 &2117239352
 Transform:
   m_ObjectHideFlags: 0
