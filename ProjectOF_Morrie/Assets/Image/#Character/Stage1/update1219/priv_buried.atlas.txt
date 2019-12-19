@@ -1,5 +1,5 @@
 
-priv_buried_S1.png
+priv_buried.png
 size: 512,512
 format: RGBA8888
 filter: Linear,Linear

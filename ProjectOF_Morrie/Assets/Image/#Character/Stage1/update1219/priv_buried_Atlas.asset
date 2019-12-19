@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
-  m_Name: priv_buried_S1_Atlas
+  m_Name: priv_buried_Atlas
   m_EditorClassIdentifier: 
-  atlasFile: {fileID: 4900000, guid: 2f23b2b0a2cb4604d9cabc454e4f5b4f, type: 3}
+  atlasFile: {fileID: 4900000, guid: 08efe8f6a9cfeee4db470a9171bf1e6f, type: 3}
   materials:
-  - {fileID: 2100000, guid: 22dae08bc32bfdf47be6c45382218c0f, type: 2}
+  - {fileID: 2100000, guid: c86358cfa3cebad4cb10f226116bce4f, type: 2}

@@ -15,7 +15,7 @@ public class Spine_CSVExecute : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        GetVoka("Morries_SpineAnimation_stage1_Character1");
+        GetVoka("Morries_SpineAnimation_stage1_Character4");
     }
 
     /// <summary>
