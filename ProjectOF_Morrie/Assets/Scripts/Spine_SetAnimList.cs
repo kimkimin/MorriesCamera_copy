@@ -24,5 +24,8 @@ public class Spine_SetAnimList : MonoBehaviour
             }
         }
         animList =  anim;
+
+        if (animList.Count <= 1)
+            GetComponent<BoxCollider2D>().enabled = false;
     }
 }
