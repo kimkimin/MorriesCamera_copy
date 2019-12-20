@@ -40,7 +40,7 @@ public class GridRotate : MonoBehaviour
             {
                 print("?");
 #if UNITY_IOS
-                binding.ErrorHaptic();
+                //binding.ErrorHaptic();
 #endif
                 LayDown?.Invoke();
                 cameraActive.SetActive(true);
@@ -64,7 +64,7 @@ public class GridRotate : MonoBehaviour
             {
                 print("!");
 #if UNITY_IOS
-                binding.ErrorHaptic();
+                //binding.ErrorHaptic();
 #endif
                 StandUp?.Invoke();
                 cameraActive.SetActive(false);

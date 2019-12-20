@@ -13,6 +13,7 @@ public class Spine_Touch : MonoBehaviour
     int animCount;
     public int animNum = 0;
     int myTypeNum;
+    bool isPlaying = false;
 
     private void Start()
     {
@@ -29,10 +30,11 @@ public class Spine_Touch : MonoBehaviour
 
         print("imTouched");
 #if UNITY_IOS
-        binding.LigthHaptic();
+        //binding.LigthHaptic();
 #endif
         int checkNext = animNum + 1;
         if (checkNext >= setAnim.animList.Count) return;
+        if (isPlaying) return;
 
         CheckAnimType(setAnim.animList[checkNext]);
     }
@@ -89,11 +91,14 @@ public class Spine_Touch : MonoBehaviour
         skeleton.loop = false;
         animNum++;
         skeleton.AnimationName = setAnim.animList[animNum].Trim();
+        isPlaying = true;
         while (!skeleton.state.GetCurrent(0).IsComplete)
         {
             yield return new WaitForEndOfFrame();
         }
-        if(animNum == setAnim.animList.Count - 1)
+
+        isPlaying = false;
+        if (animNum == setAnim.animList.Count - 1)
         {
             animNum = 0;
             skeleton.loop = true;
@@ -128,6 +133,7 @@ public class Spine_Touch : MonoBehaviour
         skeleton.loop = false;
         animNum++;
         skeleton.AnimationName = setAnim.animList[animNum].Trim();
+        isPlaying = true;
         while (!skeleton.state.GetCurrent(0).IsComplete)
         {
             yield return new WaitForEndOfFrame();
@@ -135,6 +141,11 @@ public class Spine_Touch : MonoBehaviour
         skeleton.loop = true;
         animNum++;
         skeleton.AnimationName = setAnim.animList[animNum].Trim();
+        while (!skeleton.state.GetCurrent(0).IsComplete)
+        {
+            yield return new WaitForEndOfFrame();
+        }
+        isPlaying = false;
         print(animNum + ", " + skeleton.AnimationName);
     }
 

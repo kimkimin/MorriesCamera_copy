@@ -13,15 +13,32 @@ public class Play_AnswerGetList : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        rightPos = new Vector3[rightAnswer.Length];
-        GetAnswerPosition();
+        //rightPos = new Vector3[rightAnswer.Length];
+        //GetAnswerPosition();
+    }
+
+    private void Update()
+    {
+        for (int i = 0; i < rightAnswer.Length; i++)
+        {
+            // 정답의 Spine_Touch유형에 맞게 경우들을 만들어 줘야함 지금은 stage1(스킨인터랙션)에 맞게만 되어있음
+            if (rightAnswer[i].GetComponent<Spine_TouchSkin>() != null)//스킨 애님이 끝까지 실행됐을때 정답위치설정
+            {
+                Spine_TouchSkin AnswerAnimList = rightAnswer[i].GetComponent<Spine_TouchSkin>();
+                if (AnswerAnimList.skinNum >= AnswerAnimList.skins.Count - 1)
+                {
+                    rightPos = new Vector3[rightAnswer.Length];
+                    GetAnswerPosition();// 이게 실질적 영향이 있는지는 확인해봐야합니다.
+                }
+            }
+        }
     }
 
     /// <summary>
     /// rightAnswer의 위치정보 저장후 전달
     /// </summary>
     public Vector3[] GetAnswerPosition()
-    {
+    {if (rightPos.Length <= 0) return null;
         for (int i = 0; i < rightAnswer.Length; i++)
         {
             rightPos[i] = rightAnswer[i].GetComponent<Renderer>().bounds.center;

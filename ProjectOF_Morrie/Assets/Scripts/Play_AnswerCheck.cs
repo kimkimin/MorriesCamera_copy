@@ -74,7 +74,6 @@ public class Play_AnswerCheck : MonoBehaviour
         b_isSizeFit = false;//초기화
 
     }
-
     /// <summary>
     /// Auto모드에서 카메라버튼을 눌렀을때 정답영역을 확인하고 프린트
     /// </summary>
@@ -96,7 +95,8 @@ public class Play_AnswerCheck : MonoBehaviour
     /// CheckRT 영역안에 정답이 있는지 확인
     /// </summary>
     public bool CheckingArea(RectTransform CheckRT)//CheckRectTransform
-    {
+    {if (insAnswerList.rightPos.Length <= 0) return false;//정답설정(위치설정)이 안되어있을경우 정답아님
+
         for (int i = 0; i < insAnswerList.rightAnswer.Length; i++)
         {
             if (RectTransformUtility.RectangleContainsScreenPoint(CheckRT, insAnswerList.GetAnswerPosition()[i]))//position 확인

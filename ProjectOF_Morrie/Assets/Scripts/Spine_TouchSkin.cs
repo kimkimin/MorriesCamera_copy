@@ -8,7 +8,7 @@ public class Spine_TouchSkin : MonoBehaviour
 {
     public List<string> skins;
     SkeletonAnimation skeleton_;
-    int skinNum = 0;
+    public int skinNum = 0;
     // Start is called before the first frame update
     void Start()
     {
