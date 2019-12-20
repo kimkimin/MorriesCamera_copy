@@ -6,196 +6,252 @@ filter: Linear,Linear
 repeat: none
 Bikini01
   rotate: false
-  xy: 1770, 1556
+  xy: 1363, 1538
   size: 107, 92
   orig: 107, 92
   offset: 0, 0
   index: -1
 L_arm
   rotate: false
-  xy: 2013, 1933
+  xy: 2008, 1663
   size: 31, 113
   orig: 31, 113
   offset: 0, 0
   index: -1
 LeafSkirt
-  rotate: false
-  xy: 1770, 1650
+  rotate: true
+  xy: 922, 1297
   size: 139, 86
   orig: 139, 86
   offset: 0, 0
   index: -1
 Leg_left
   rotate: false
-  xy: 1627, 1477
+  xy: 1423, 1374
   size: 44, 80
   orig: 44, 80
   offset: 0, 0
   index: -1
 Leg_right
   rotate: false
-  xy: 1673, 1433
+  xy: 1043, 1359
   size: 47, 95
   orig: 47, 95
   offset: 0, 0
   index: -1
 Onepiece01
   rotate: true
-  xy: 1673, 1530
+  xy: 1472, 1525
   size: 105, 91
   orig: 105, 91
   offset: 0, 0
   index: -1
 Pants
   rotate: false
-  xy: 1766, 1474
+  xy: 1363, 1456
   size: 104, 80
   orig: 104, 80
   offset: 0, 0
   index: -1
-acc_flowerCrown
+S2_Leg_left
+  rotate: true
+  xy: 1554, 1351
+  size: 47, 80
+  orig: 47, 80
+  offset: 0, 0
+  index: -1
+S2_Leg_right
   rotate: false
-  xy: 1539, 1559
+  xy: 1469, 1358
+  size: 47, 95
+  orig: 47, 95
+  offset: 0, 0
+  index: -1
+S2_cap
+  rotate: true
+  xy: 1876, 1480
+  size: 77, 38
+  orig: 77, 38
+  offset: 0, 0
+  index: -1
+S2_drink_sleeve
+  rotate: false
+  xy: 2022, 1999
+  size: 23, 47
+  orig: 23, 47
+  offset: 0, 0
+  index: -1
+S2_pantsL
+  rotate: false
+  xy: 1227, 1361
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+S2_pantsR
+  rotate: false
+  xy: 1159, 1380
+  size: 66, 53
+  orig: 66, 53
+  offset: 0, 0
+  index: -1
+S2_sleeve
+  rotate: true
+  xy: 1092, 1341
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+S2_uniform
+  rotate: true
+  xy: 1279, 1400
+  size: 111, 71
+  orig: 111, 71
+  offset: 0, 0
+  index: -1
+acc_flowerCrown
+  rotate: true
+  xy: 1868, 1366
   size: 112, 45
   orig: 112, 45
   offset: 0, 0
   index: -1
 body
-  rotate: true
-  xy: 1576, 1824
+  rotate: false
+  xy: 1570, 1542
   size: 107, 194
   orig: 107, 194
   offset: 0, 0
   index: -1
 cap_acc
   rotate: true
-  xy: 1988, 1581
+  xy: 1984, 1409
   size: 110, 56
   orig: 110, 56
   offset: 0, 0
   index: -1
 chat_armR
-  rotate: false
-  xy: 1539, 1501
+  rotate: true
+  xy: 1043, 1456
   size: 86, 56
   orig: 86, 56
   offset: 0, 0
   index: -1
 chat_mouth
   rotate: false
-  xy: 1772, 1869
+  xy: 2022, 1935
   size: 23, 17
   orig: 23, 17
   offset: 0, 0
   index: -1
 close
   rotate: true
-  xy: 2001, 1905
+  xy: 2041, 1904
   size: 11, 5
   orig: 11, 5
   offset: 0, 0
   index: -1
 delicious_armR
   rotate: false
-  xy: 1659, 1375
+  xy: 1159, 1322
   size: 56, 56
   orig: 56, 56
   offset: 0, 0
   index: -1
 delicious_mouth
   rotate: true
-  xy: 1772, 1910
+  xy: 2022, 1976
   size: 21, 23
   orig: 21, 23
   offset: 0, 0
   index: -1
 drink_mouth
   rotate: true
-  xy: 1772, 1825
+  xy: 2022, 1891
   size: 11, 16
   orig: 11, 16
   offset: 0, 0
   index: -1
 drink_stuff
   rotate: false
-  xy: 1508, 1616
+  xy: 1241, 1470
   size: 36, 75
   orig: 36, 75
   offset: 0, 0
   index: -1
 ear_right
   rotate: true
-  xy: 1958, 1407
+  xy: 1565, 1463
   size: 77, 86
   orig: 77, 86
   offset: 0, 0
   index: -1
 glass_acc
   rotate: true
-  xy: 1911, 1489
+  xy: 1916, 1375
   size: 113, 64
   orig: 113, 64
   offset: 0, 0
   index: -1
 grasp_drink_armR
   rotate: true
-  xy: 2010, 1835
+  xy: 1876, 1559
   size: 96, 36
   orig: 96, 36
   offset: 0, 0
   index: -1
 grasp_tube_armR
-  rotate: false
-  xy: 1449, 1693
+  rotate: true
+  xy: 922, 1544
   size: 101, 178
   orig: 101, 178
   offset: 0, 0
   index: -1
 ice_stuff
   rotate: false
-  xy: 1872, 1435
+  xy: 1241, 1409
   size: 34, 59
   orig: 34, 59
   offset: 0, 0
   index: -1
 icecream_2floor
   rotate: true
-  xy: 1722, 1442
+  xy: 1082, 1310
   size: 29, 30
   orig: 29, 30
   offset: 0, 0
   index: -1
 icecream_armR
   rotate: false
-  xy: 1756, 1408
-  size: 68, 64
-  orig: 68, 64
+  xy: 1352, 1389
+  size: 69, 65
+  orig: 69, 65
   offset: 0, 0
   index: -1
 icecream_clothes
   rotate: true
-  xy: 1552, 1606
+  xy: 922, 1438
   size: 104, 119
   orig: 104, 119
   offset: 0, 0
   index: -1
 icecream_move
   rotate: false
-  xy: 1722, 1473
-  size: 32, 55
-  orig: 32, 55
+  xy: 1518, 1397
+  size: 34, 56
+  orig: 34, 56
   offset: 0, 0
   index: -1
 icecreamtruck2_door_open
   rotate: true
-  xy: 1260, 1873
+  xy: 1706, 1873
   size: 173, 314
   orig: 173, 314
   offset: 0, 0
   index: -1
 icecreamtruck2_open_inside
   rotate: false
-  xy: 922, 1738
+  xy: 1368, 1738
   size: 336, 308
   orig: 336, 308
   offset: 0, 0
@@ -207,219 +263,226 @@ icecreamtruck2_open_outside
   orig: 918, 863
   offset: 0, 0
   index: -1
+icecreamtruck_left_outside
+  rotate: true
+  xy: 922, 1647
+  size: 399, 444
+  orig: 399, 444
+  offset: 0, 0
+  index: -1
 images/L_arm
   rotate: false
-  xy: 1911, 1604
+  xy: 1286, 1513
   size: 75, 132
   orig: 75, 132
   offset: 0, 0
   index: -1
 images/L_leg
   rotate: false
-  xy: 1879, 1568
+  xy: 1010, 1356
   size: 30, 80
   orig: 30, 80
   offset: 0, 0
   index: -1
 images/LtipToeing
   rotate: true
-  xy: 1620, 1446
+  xy: 1042, 1328
   size: 29, 38
   orig: 29, 38
   offset: 0, 0
   index: -1
 images/LtipToeing_hidden
   rotate: false
-  xy: 1772, 1838
+  xy: 2022, 1904
   size: 17, 11
   orig: 17, 11
   offset: 0, 0
   index: -1
 images/R_arm
-  rotate: false
-  xy: 1977, 1486
+  rotate: true
+  xy: 1469, 1455
   size: 68, 93
   orig: 68, 93
   offset: 0, 0
   index: -1
 images/R_leg
   rotate: false
-  xy: 1879, 1496
+  xy: 1645, 1391
   size: 28, 70
   orig: 28, 70
   offset: 0, 0
   index: -1
 images/RtipToeing
-  rotate: true
-  xy: 1620, 1415
+  rotate: false
+  xy: 1010, 1317
   size: 29, 37
   orig: 29, 37
   offset: 0, 0
   index: -1
 images/RtipToeing_hidden
   rotate: true
-  xy: 1508, 1472
+  xy: 1518, 1341
   size: 54, 29
   orig: 54, 29
   offset: 0, 0
   index: -1
 images/body
   rotate: true
-  xy: 1576, 1933
+  xy: 1706, 1758
   size: 113, 221
   orig: 113, 221
   offset: 0, 0
   index: -1
 images/ear_L
-  rotate: true
-  xy: 1958, 1340
+  rotate: false
+  xy: 1915, 1285
   size: 65, 88
   orig: 65, 88
   offset: 0, 0
   index: -1
 images/ear_R
   rotate: true
-  xy: 1539, 1438
+  xy: 1564, 1400
   size: 61, 79
   orig: 61, 79
   offset: 0, 0
   index: -1
 images/eye_close
   rotate: false
-  xy: 1988, 1831
+  xy: 2022, 1868
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
 images/eye_open
   rotate: false
-  xy: 2001, 1887
+  xy: 2008, 1865
   size: 7, 6
   orig: 7, 6
   offset: 0, 0
   index: -1
 images/mouth_close
   rotate: true
-  xy: 2001, 1918
+  xy: 2040, 1891
   size: 11, 6
   orig: 11, 6
   offset: 0, 0
   index: -1
 images/mouth_open
   rotate: false
-  xy: 1772, 1812
+  xy: 2022, 1878
   size: 11, 11
   orig: 11, 11
   offset: 0, 0
   index: -1
 images/nose
   rotate: false
-  xy: 1998, 1693
+  xy: 1984, 1521
   size: 45, 140
   orig: 45, 140
   offset: 0, 0
   index: -1
 images/suspender
   rotate: true
-  xy: 1552, 1712
+  xy: 1102, 1435
   size: 110, 137
   orig: 110, 137
   offset: 0, 0
   index: -1
 justStand_armR
   rotate: false
-  xy: 1508, 1528
+  xy: 2017, 1778
   size: 29, 86
   orig: 29, 86
   offset: 0, 0
   index: -1
 merong_mouth
   rotate: false
-  xy: 1772, 1851
+  xy: 2022, 1917
   size: 20, 16
   orig: 20, 16
   offset: 0, 0
   index: -1
 nose
   rotate: false
-  xy: 1444, 1497
+  xy: 1920, 1490
   size: 62, 194
   orig: 62, 194
   offset: 0, 0
   index: -1
 open
-  rotate: true
-  xy: 2001, 1895
+  rotate: false
+  xy: 2032, 1866
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
 pattern_giraffe
   rotate: true
-  xy: 1260, 1774
+  xy: 1679, 1455
   size: 97, 187
   orig: 97, 187
   offset: 0, 0
   index: -1
 pattern_line
   rotate: false
-  xy: 1691, 1637
+  xy: 1929, 1686
   size: 77, 185
   orig: 77, 185
   offset: 0, 0
   index: -1
 pattern_line2
   rotate: true
-  xy: 1260, 1674
+  xy: 1102, 1547
   size: 98, 182
   orig: 98, 182
   offset: 0, 0
   index: -1
 pattern_starfish
   rotate: true
-  xy: 1791, 1738
+  xy: 1679, 1554
   size: 101, 195
   orig: 101, 195
   offset: 0, 0
   index: -1
 sad_mouth
   rotate: true
-  xy: 2001, 1931
+  xy: 2035, 1875
   size: 14, 7
   orig: 14, 7
   offset: 0, 0
   index: -1
 scoop_armL
   rotate: false
-  xy: 1826, 1377
+  xy: 1092, 1377
   size: 65, 56
   orig: 65, 56
   offset: 0, 0
   index: -1
 smile_mouth
   rotate: false
-  xy: 1772, 1888
+  xy: 2022, 1954
   size: 23, 20
   orig: 23, 20
   offset: 0, 0
   index: -1
 tube_horizontal_down_stuff
   rotate: true
-  xy: 1908, 1365
+  xy: 1982, 1285
   size: 122, 48
   orig: 122, 48
   offset: 0, 0
   index: -1
 tube_horizontal_up_stuff
   rotate: false
-  xy: 1799, 1947
+  xy: 1706, 1657
   size: 212, 99
   orig: 212, 99
   offset: 0, 0
   index: -1
 tube_vertical_stuff
   rotate: true
-  xy: 1799, 1841
+  xy: 1368, 1632
   size: 104, 200
   orig: 104, 200
   offset: 0, 0

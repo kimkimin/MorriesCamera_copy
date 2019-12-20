@@ -397,7 +397,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 51a9ab523360d79479134f769623176f, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 4d52c18603d24b04aa4c823ce81ca1b9, type: 2}
   initialSkinName: S1_icecream_CEO
   initialFlipX: 0
   initialFlipY: 0
@@ -438,7 +438,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d6612c783ae48124ab2b70e7adcf7aeb, type: 2}
+  - {fileID: 2100000, guid: d676a951a5901784284845ec26f81318, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -506,21 +506,14 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: 25.850098, y: 614.2661}
-      - {x: -55.337036, y: 608.74207}
-      - {x: -124.051575, y: 695.4066}
-      - {x: -264.67993, y: 678.609}
-      - {x: -327.6551, y: 478.25574}
-      - {x: -503.39, y: 404.91602}
-      - {x: -509.57288, y: 246.03406}
-      - {x: -654.5819, y: 87.22247}
-      - {x: -651.5493, y: -79.33301}
-      - {x: -383.66516, y: -186.32703}
-      - {x: 62.67798, y: -7.748352}
-      - {x: 116.941345, y: -155.1513}
-      - {x: 217.1322, y: -124.22943}
-      - {x: 295.9318, y: 107.92853}
-      - {x: 312.9051, y: 511.36914}
+    - - {x: 277.42734, y: 407.51904}
+      - {x: -120.17621, y: 263.1244}
+      - {x: -106.07013, y: -38.667114}
+      - {x: 72.53821, y: 22.141907}
+      - {x: 113.16681, y: -155.3645}
+      - {x: 222.48337, y: -128.19836}
+      - {x: 256.58105, y: 92.39557}
+      - {x: 283.71857, y: 107.526}
 --- !u!114 &11858432
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12972,7 +12965,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 51a9ab523360d79479134f769623176f, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 4d52c18603d24b04aa4c823ce81ca1b9, type: 2}
   initialSkinName: S1_drink_pants
   initialFlipX: 0
   initialFlipY: 0
@@ -13013,7 +13006,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d6612c783ae48124ab2b70e7adcf7aeb, type: 2}
+  - {fileID: 2100000, guid: d676a951a5901784284845ec26f81318, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -18427,7 +18420,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 51a9ab523360d79479134f769623176f, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 4d52c18603d24b04aa4c823ce81ca1b9, type: 2}
   initialSkinName: S1_drink_tube
   initialFlipX: 0
   initialFlipY: 0
@@ -18468,7 +18461,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d6612c783ae48124ab2b70e7adcf7aeb, type: 2}
+  - {fileID: 2100000, guid: d676a951a5901784284845ec26f81318, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -21048,7 +21041,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 51a9ab523360d79479134f769623176f, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 4d52c18603d24b04aa4c823ce81ca1b9, type: 2}
   initialSkinName: S1_swing_leaf
   initialFlipX: 0
   initialFlipY: 0
@@ -21089,7 +21082,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d6612c783ae48124ab2b70e7adcf7aeb, type: 2}
+  - {fileID: 2100000, guid: d676a951a5901784284845ec26f81318, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -21678,7 +21671,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 51a9ab523360d79479134f769623176f, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 4d52c18603d24b04aa4c823ce81ca1b9, type: 2}
   initialSkinName: S1_jump_tubeV
   initialFlipX: 0
   initialFlipY: 0
@@ -21719,7 +21712,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d6612c783ae48124ab2b70e7adcf7aeb, type: 2}
+  - {fileID: 2100000, guid: d676a951a5901784284845ec26f81318, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -23497,7 +23490,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 51a9ab523360d79479134f769623176f, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 4d52c18603d24b04aa4c823ce81ca1b9, type: 2}
   initialSkinName: S1_delicious_pants
   initialFlipX: 0
   initialFlipY: 0
@@ -23538,7 +23531,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d6612c783ae48124ab2b70e7adcf7aeb, type: 2}
+  - {fileID: 2100000, guid: d676a951a5901784284845ec26f81318, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -27848,6 +27841,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 11858430}
+  - {fileID: 1408377116}
   m_Father: {fileID: 2060934829}
   m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -29663,6 +29657,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   skins: []
+  skinNum: 0
 --- !u!60 &904169251
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -33306,7 +33301,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 51a9ab523360d79479134f769623176f, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 4d52c18603d24b04aa4c823ce81ca1b9, type: 2}
   initialSkinName: S1_chat_onepiece
   initialFlipX: 0
   initialFlipY: 0
@@ -33347,7 +33342,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d6612c783ae48124ab2b70e7adcf7aeb, type: 2}
+  - {fileID: 2100000, guid: d676a951a5901784284845ec26f81318, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -40249,7 +40244,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 51a9ab523360d79479134f769623176f, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 4d52c18603d24b04aa4c823ce81ca1b9, type: 2}
   initialSkinName: S1_drink_tube
   initialFlipX: 0
   initialFlipY: 0
@@ -40290,7 +40285,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d6612c783ae48124ab2b70e7adcf7aeb, type: 2}
+  - {fileID: 2100000, guid: d676a951a5901784284845ec26f81318, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -43888,6 +43883,190 @@ Transform:
   m_Father: {fileID: 507958215}
   m_RootOrder: 107
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1408377115
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1408377116}
+  - component: {fileID: 1408377122}
+  - component: {fileID: 1408377121}
+  - component: {fileID: 1408377120}
+  - component: {fileID: 1408377119}
+  - component: {fileID: 1408377118}
+  - component: {fileID: 1408377117}
+  m_Layer: 0
+  m_Name: Pub_stand03 (11)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1408377116
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1408377115}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -143, y: -128, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 841912183}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!60 &1408377117
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1408377115}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 25.850098, y: 614.2661}
+      - {x: -55.337036, y: 608.74207}
+      - {x: -124.051575, y: 695.4066}
+      - {x: -264.67993, y: 678.609}
+      - {x: -327.6551, y: 478.25574}
+      - {x: -503.39, y: 404.91602}
+      - {x: -509.57288, y: 246.03406}
+      - {x: -654.5819, y: 87.22247}
+      - {x: -651.5493, y: -79.33301}
+      - {x: -383.66516, y: -186.32703}
+      - {x: -114.48291, y: -74.947266}
+      - {x: -134.29114, y: 301.49603}
+      - {x: 236.22281, y: 437.7981}
+      - {x: 311.0966, y: 437.30786}
+      - {x: 312.9051, y: 511.36914}
+--- !u!114 &1408377118
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1408377115}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca90b360f0462634882e3c9c363312df, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animList: []
+--- !u!114 &1408377119
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1408377115}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469d01c3ee1f1884c88584b1ce0a4f36, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animNum: 0
+--- !u!114 &1408377120
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1408377115}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skeletonDataAsset: {fileID: 11400000, guid: 4d52c18603d24b04aa4c823ce81ca1b9, type: 2}
+  initialSkinName: S1_icecreamTruck_car
+  initialFlipX: 0
+  initialFlipY: 0
+  separatorSlotNames: []
+  zSpacing: 0
+  useClipping: 1
+  immutableTriangles: 0
+  pmaVertexColors: 1
+  clearStateOnDisable: 0
+  tintBlack: 0
+  singleSubmesh: 0
+  fixDrawOrder: 0
+  addNormals: 0
+  calculateTangents: 0
+  maskInteraction: 0
+  maskMaterials:
+    materialsMaskDisabled: []
+    materialsInsideMask: []
+    materialsOutsideMask: []
+  disableRenderingOnOverride: 1
+  _animationName: 
+  loop: 1
+  timeScale: 1
+--- !u!23 &1408377121
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1408377115}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: d676a951a5901784284845ec26f81318, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 39
+--- !u!33 &1408377122
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1408377115}
+  m_Mesh: {fileID: 0}
 --- !u!1 &1408997822
 GameObject:
   m_ObjectHideFlags: 0
@@ -46195,7 +46374,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 51a9ab523360d79479134f769623176f, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 4d52c18603d24b04aa4c823ce81ca1b9, type: 2}
   initialSkinName: S1_droptube_bikini
   initialFlipX: 0
   initialFlipY: 0
@@ -46236,7 +46415,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d6612c783ae48124ab2b70e7adcf7aeb, type: 2}
+  - {fileID: 2100000, guid: d676a951a5901784284845ec26f81318, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -49822,7 +50001,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 51a9ab523360d79479134f769623176f, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 4d52c18603d24b04aa4c823ce81ca1b9, type: 2}
   initialSkinName: S1_chat_onepiece
   initialFlipX: 0
   initialFlipY: 0
@@ -49863,7 +50042,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d6612c783ae48124ab2b70e7adcf7aeb, type: 2}
+  - {fileID: 2100000, guid: d676a951a5901784284845ec26f81318, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -53603,7 +53782,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 51a9ab523360d79479134f769623176f, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 4d52c18603d24b04aa4c823ce81ca1b9, type: 2}
   initialSkinName: S1_drink_pants
   initialFlipX: 0
   initialFlipY: 0
@@ -53644,7 +53823,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d6612c783ae48124ab2b70e7adcf7aeb, type: 2}
+  - {fileID: 2100000, guid: d676a951a5901784284845ec26f81318, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -60992,7 +61171,8 @@ MonoBehaviour:
   - {fileID: 654897846}
   - {fileID: 936870973}
   - {fileID: 1715615489}
-  CSVname: Morries_SpineAnimation_stage1_Character9
+  - {fileID: 1408377120}
+  CSVname: Morries_SpineAnimation_stage1_Character10
 --- !u!4 &2117239352
 Transform:
   m_ObjectHideFlags: 0
