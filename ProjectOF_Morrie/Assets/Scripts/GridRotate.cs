@@ -39,7 +39,9 @@ public class GridRotate : MonoBehaviour
             if (!b_isGridRotate)
             {
                 print("?");
-                //binding.ErrorHaptic();
+#if UNITY_IOS
+                binding.ErrorHaptic();
+#endif
                 LayDown?.Invoke();
                 cameraActive.SetActive(true);
                 if (CameraMode.b_autoMode) insCamMode.AutoButton();
@@ -61,7 +63,9 @@ public class GridRotate : MonoBehaviour
             if (b_isGridRotate)
             {
                 print("!");
-                //binding.ErrorHaptic();
+#if UNITY_IOS
+                binding.ErrorHaptic();
+#endif
                 StandUp?.Invoke();
                 cameraActive.SetActive(false);
                 insCamMode.autoViewfinder.SetActive(false);

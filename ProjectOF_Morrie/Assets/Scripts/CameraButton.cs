@@ -15,7 +15,9 @@ public class CameraButton : MonoBehaviour
 
     public void OnCamButton()
     {
-        //binding.SuccessHaptic();
+#if UNITY_IOS
+        binding.SuccessHaptic();
+#endif
         if (CameraMode.b_autoMode) AutoCamButton();
         else ManualCamButton();
     }
