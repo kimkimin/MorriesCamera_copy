@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 using Spine.Unity;
 
+/// <summary>
+/// priv_stand01,
+/// S1_volleyball_bikini01 02 플레이
+/// </summary>
 public class Spine_TouchPlayOther : MonoBehaviour
 {
     public string[] subject_;
@@ -26,17 +30,14 @@ public class Spine_TouchPlayOther : MonoBehaviour
 
         switch (playNum)
         {
-            case 0:
+            case 0:// 둘다 E를 플레이
                 subjectSkel.AnimationName = subject_[playNum];
                 objectSkel.AnimationName = object_[0];
                 subjectSkel.loop = true;
                 playNum++;
                 break;
-            case 1:
+            case 1:// 주체만 RE를 플레이
                 StartCoroutine(Next());
-                //subjectSkel.AnimationName = subject_[playNum];
-                //objectSkel.AnimationName = object_[1];
-                //subjectSkel.loop = false;
                 break;
             default:
                 break;

@@ -30,6 +30,8 @@ public class Spine_Touch : MonoBehaviour
         print("imTouched");
         //binding.LigthHaptic();
         int checkNext = animNum + 1;
+        if (checkNext >= setAnim.animList.Count) return;
+
         CheckAnimType(setAnim.animList[checkNext]);
     }
 
@@ -106,7 +108,7 @@ public class Spine_Touch : MonoBehaviour
     /// t1을 한번만 실행한후, 멈춤, 추가인터랙션 가능(배열끝이 아니라면)
     /// </summary>
     void E_()
-    {if (animNum > 0) return;
+    {//if (animNum > 0) return;
      if (animNum >= setAnim.animList.Count) return;
 
         skeleton.loop = false;
