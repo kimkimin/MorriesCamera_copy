@@ -12,7 +12,7 @@ public class Play_AnswerCheck : MonoBehaviour
     public float boxSizeMin, boxSizeMax;
     public Play_AnswerGetList insAnswerList;
     public UI_RenderViewActive insRenderView;
-
+    public GameObject Exit;
     public bool b_isSizeFit = false;
 
     private void OnEnable()
@@ -64,6 +64,7 @@ public class Play_AnswerCheck : MonoBehaviour
         if (CheckingArea(boxRT))
         {
             print("Right");
+            Exit.SetActive(true);
         }
         else
         {
