@@ -1,11 +1,11 @@
 {
 "skeleton": {
-	"hash": "CLosPzYpv5J8Z5/gyjUAvYH28qQ",
+	"hash": "HBSAJMp2K/W50lO3xhEohcYSyRM",
 	"spine": "3.8.79",
-	"x": -588.25,
-	"y": -482.35,
-	"width": 1204,
-	"height": 1204,
+	"x": -207.71,
+	"y": 10.18,
+	"width": 500.39,
+	"height": 229.45,
 	"images": "./images/",
 	"audio": "C:/Users/TYstudio_2080_1/Desktop/2019_연경/191106_모리/Pub_liefront"
 },
@@ -472,7 +472,7 @@
 	{ "name": "bone38", "parent": "bone37", "length": 22.39, "rotation": -68.59, "x": 28.86, "y": -3.3 }
 ],
 "slots": [
-	{ "name": "wave", "bone": "root", "attachment": "wave4" },
+	{ "name": "wave", "bone": "root" },
 	{ "name": "surfingBoard", "bone": "root", "attachment": "surfingBoard" },
 	{ "name": "surfingBoardDeco", "bone": "root", "attachment": "surfingBoardDeco" },
 	{ "name": "LegL", "bone": "root", "attachment": "LegL" },
@@ -894,13 +894,6 @@
 ],
 "animations": {
 	"S1_flowercup_shark_idle": {
-		"slots": {
-			"wave": {
-				"attachment": [
-					{ "name": null }
-				]
-			}
-		},
 		"bones": {
 			"stomach": {
 				"scale": [
@@ -947,13 +940,6 @@
 		}
 	},
 	"S1_flowercup_shark_t1_RE": {
-		"slots": {
-			"wave": {
-				"attachment": [
-					{ "name": null }
-				]
-			}
-		},
 		"bones": {
 			"bone4": {
 				"rotate": [
@@ -1137,44 +1123,6 @@
 			"mouth": {
 				"attachment": [
 					{ "name": null }
-				]
-			},
-			"wave": {
-				"attachment": [
-					{ "name": null },
-					{ "time": 0.0667, "name": "wave1" },
-					{ "time": 0.2333, "name": "wave2" },
-					{ "time": 0.4, "name": "wave3" },
-					{ "time": 0.5667, "name": "wave4" },
-					{ "time": 0.7333, "name": "wave1" },
-					{ "time": 0.9, "name": "wave2" },
-					{ "time": 1.0667, "name": "wave3" },
-					{ "time": 1.2333, "name": "wave4" },
-					{ "time": 1.4, "name": "wave1" },
-					{ "time": 1.5667, "name": "wave2" },
-					{ "time": 1.7333, "name": "wave3" },
-					{ "time": 1.9, "name": "wave4" },
-					{ "time": 2.0667, "name": "wave1" },
-					{ "time": 2.2333, "name": "wave2" },
-					{ "time": 2.4, "name": "wave3" },
-					{ "time": 2.5667, "name": "wave4" },
-					{ "time": 2.7333, "name": "wave1" },
-					{ "time": 2.9, "name": "wave2" },
-					{ "time": 3.0667, "name": "wave3" },
-					{ "time": 3.2333, "name": "wave4" },
-					{ "time": 3.4, "name": "wave1" },
-					{ "time": 3.5667, "name": "wave2" },
-					{ "time": 3.7333, "name": "wave3" },
-					{ "time": 3.9, "name": "wave4" },
-					{ "time": 4.0667, "name": "wave1" },
-					{ "time": 4.2333, "name": "wave2" },
-					{ "time": 4.4, "name": "wave3" },
-					{ "time": 4.5667, "name": "wave4" },
-					{ "time": 4.7333, "name": "wave1" },
-					{ "time": 4.9, "name": "wave2" },
-					{ "time": 5.0667, "name": "wave3" },
-					{ "time": 5.2333, "name": "wave4" },
-					{ "time": 5.3333, "name": null }
 				]
 			}
 		},
@@ -1824,11 +1772,6 @@
 				"attachment": [
 					{ "name": null }
 				]
-			},
-			"wave": {
-				"attachment": [
-					{ "name": null }
-				]
 			}
 		},
 		"bones": {
@@ -2105,44 +2048,6 @@
 			"mouth": {
 				"attachment": [
 					{ "name": null }
-				]
-			},
-			"wave": {
-				"attachment": [
-					{ "name": null },
-					{ "time": 0.0667, "name": "wave1" },
-					{ "time": 0.2333, "name": "wave2" },
-					{ "time": 0.4, "name": "wave3" },
-					{ "time": 0.5667, "name": "wave4" },
-					{ "time": 0.7333, "name": "wave1" },
-					{ "time": 0.9, "name": "wave2" },
-					{ "time": 1.0667, "name": "wave3" },
-					{ "time": 1.2333, "name": "wave4" },
-					{ "time": 1.4, "name": "wave1" },
-					{ "time": 1.5667, "name": "wave2" },
-					{ "time": 1.7333, "name": "wave3" },
-					{ "time": 1.9, "name": "wave4" },
-					{ "time": 2.0667, "name": "wave1" },
-					{ "time": 2.2333, "name": "wave2" },
-					{ "time": 2.4, "name": "wave3" },
-					{ "time": 2.5667, "name": "wave4" },
-					{ "time": 2.7333, "name": "wave1" },
-					{ "time": 2.9, "name": "wave2" },
-					{ "time": 3.0667, "name": "wave3" },
-					{ "time": 3.2333, "name": "wave4" },
-					{ "time": 3.4, "name": "wave1" },
-					{ "time": 3.5667, "name": "wave2" },
-					{ "time": 3.7333, "name": "wave3" },
-					{ "time": 3.9, "name": "wave4" },
-					{ "time": 4.0667, "name": "wave1" },
-					{ "time": 4.2333, "name": "wave2" },
-					{ "time": 4.4, "name": "wave3" },
-					{ "time": 4.5667, "name": "wave4" },
-					{ "time": 4.7333, "name": "wave1" },
-					{ "time": 4.9, "name": "wave2" },
-					{ "time": 5.0667, "name": "wave3" },
-					{ "time": 5.2333, "name": "wave4" },
-					{ "time": 5.3333, "name": null }
 				]
 			}
 		},
@@ -2955,11 +2860,6 @@
 				]
 			},
 			"nose": {
-				"attachment": [
-					{ "name": null }
-				]
-			},
-			"wave": {
 				"attachment": [
 					{ "name": null }
 				]
