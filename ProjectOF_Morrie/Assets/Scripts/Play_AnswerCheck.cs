@@ -84,6 +84,7 @@ public class Play_AnswerCheck : MonoBehaviour
         if (CheckingArea(viewRT))
         {
             print("Right");
+            Exit.SetActive(true);
         }
         else
         {
