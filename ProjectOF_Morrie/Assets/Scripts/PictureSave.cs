@@ -26,9 +26,11 @@ public class PictureSave : MonoBehaviour
         yield return new WaitForEndOfFrame();
         //한프레임 대기
         
-        Texture2D screenShot = new Texture2D(600, 600, TextureFormat.RGB24, false);
-       //screenShot.ReadPixels(new Rect(Screen.width/2 - 300, Screen.height/2 - 197, screenShot.width, screenShot.height), 0, 0);
-        screenShot.ReadPixels(new Rect(Screen.width/2 - screenShot.width/2, Screen.height/2 - screenShot.height/2, screenShot.width, screenShot.height), 0, 0);
+        //Texture2D screenShot = new Texture2D(600, 600, TextureFormat.RGB24, false);
+        //print(renderViewSize.sizeDelta);
+        Texture2D screenShot = new Texture2D((int)(renderViewSize.sizeDelta.x * 0.6f), (int)(renderViewSize.sizeDelta.y * 0.6f), TextureFormat.RGB24, false);
+        //screenShot.ReadPixels(new Rect(Screen.width/2 - 300, Screen.height/2 - 197, screenShot.width, screenShot.height), 0, 0);
+        screenShot.ReadPixels(new Rect(Screen.width / 2 - screenShot.width/2, Screen.height / 2 - screenShot.width/2 + renderViewSize.position.y, screenShot.width, screenShot.height), 0, 0);
         screenShot.Apply();
 
         if (SystemInfo.deviceType == DeviceType.Handheld)
