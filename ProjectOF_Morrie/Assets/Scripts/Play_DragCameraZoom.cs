@@ -13,6 +13,7 @@ public class Play_DragCameraZoom : MonoBehaviour
 
     public Vector2 BeforeDamping, AfterDamping;
     public Camera cam;
+    public GameObject zoomDeco;
 
     [Tooltip("BOOL, 줌이 끝날때까지 drag move가(touchcount == 1) 실행하는것을 방지")]
     public static bool b_IsTouch2 = false;
@@ -41,6 +42,7 @@ public class Play_DragCameraZoom : MonoBehaviour
     {   if (CameraButton.b_manualCameraActive) return;
         if (!enabled) return;
 
+        zoomDeco.SetActive(true);
         b_IsTouch2 = true;
         Touch touch0 = Input.GetTouch(0);
         Touch touch1 = Input.GetTouch(1);
@@ -74,6 +76,7 @@ public class Play_DragCameraZoom : MonoBehaviour
     {   if (CameraButton.b_manualCameraActive) return;
         if (!enabled) return;
 
+        zoomDeco.SetActive(true);
         b_IsTouch2 = false;
         if (cam.orthographic)
         {
