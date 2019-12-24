@@ -8,6 +8,15 @@ public class UI_EndingPageSlider : MonoBehaviour
     int pagesNum = 1;
     bool pageEnd = true;
     
+    public void PageReset()
+    {
+        pagesNum = 1;
+        pages[0].SetActive(true);
+        for (int i = 1; i < pages.Length; i++)
+        {
+            pages[i].SetActive(false);
+        }
+    }
 
     public void NextPage()
     {

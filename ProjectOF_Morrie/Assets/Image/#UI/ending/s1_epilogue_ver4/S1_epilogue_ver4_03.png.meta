@@ -1,13 +1,13 @@
 fileFormatVersion: 2
-guid: 844cbbfc9a4b13645bed455d7e236f70
+guid: 481509ae0e0e5064e8380a58ca307eda
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5407186233268816318
-    second: S1_epilogue_ver4_01_0
+      213: 2836063535236742529
+    second: S1_epilogue_ver4_03_0
   - first:
-      213: 3751338621993477757
-    second: S1_epilogue_ver4_01_1
+      213: 5310119099237056555
+    second: S1_epilogue_ver4_03_1
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -116,7 +116,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: S1_epilogue_ver4_01_0
+      name: S1_epilogue_ver4_03_0
       rect:
         serializedVersion: 2
         x: 0
@@ -130,14 +130,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d244a2c35fd9fac4dbb468808b53ed4d
-      internalID: 5407186233268816318
+      spriteID: 838f373a3f5d7ba44bef69b4e960c630
+      internalID: 2836063535236742529
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: S1_epilogue_ver4_01_1
+      name: S1_epilogue_ver4_03_1
       rect:
         serializedVersion: 2
         x: 0
@@ -151,8 +151,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e747900715791fb42afef89b4d9c8c84
-      internalID: 3751338621993477757
+      spriteID: f55c9b31b95f9c74ea83740faf4ab477
+      internalID: 5310119099237056555
       vertices: []
       indices: 
       edges: []
@@ -160,7 +160,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 6a51cd4de7eddcd4d8ba4e58c2ebfc46
     internalID: 0
     vertices: []
     indices: 
