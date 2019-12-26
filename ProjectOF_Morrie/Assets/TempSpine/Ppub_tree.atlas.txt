@@ -1,0 +1,139 @@
+
+Ppub_tree.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coconut
+  rotate: false
+  xy: 2, 2
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+grass
+  rotate: true
+  xy: 435, 253
+  size: 130, 68
+  orig: 130, 68
+  offset: 0, 0
+  index: -1
+leaf_01
+  rotate: true
+  xy: 359, 50
+  size: 39, 109
+  orig: 39, 109
+  offset: 0, 0
+  index: -1
+leaf_02
+  rotate: true
+  xy: 2, 36
+  size: 85, 138
+  orig: 85, 138
+  offset: 0, 0
+  index: -1
+leaf_03
+  rotate: true
+  xy: 276, 106
+  size: 125, 89
+  orig: 125, 89
+  offset: 0, 0
+  index: -1
+leaf_03_2
+  rotate: false
+  xy: 276, 384
+  size: 122, 126
+  orig: 122, 126
+  offset: 0, 0
+  index: -1
+leaf_04
+  rotate: true
+  xy: 445, 122
+  size: 129, 63
+  orig: 129, 63
+  offset: 0, 0
+  index: -1
+leaf_04_2
+  rotate: true
+  xy: 367, 91
+  size: 150, 76
+  orig: 150, 76
+  offset: 0, 0
+  index: -1
+leaf_05
+  rotate: true
+  xy: 142, 16
+  size: 86, 114
+  orig: 86, 114
+  offset: 0, 0
+  index: -1
+leaf_06
+  rotate: true
+  xy: 258, 41
+  size: 63, 99
+  orig: 63, 99
+  offset: 0, 0
+  index: -1
+leaf_07
+  rotate: true
+  xy: 361, 243
+  size: 139, 72
+  orig: 139, 72
+  offset: 0, 0
+  index: -1
+leaf_08
+  rotate: false
+  xy: 400, 385
+  size: 92, 125
+  orig: 92, 125
+  offset: 0, 0
+  index: -1
+leaf_09
+  rotate: true
+  xy: 276, 233
+  size: 149, 83
+  orig: 149, 83
+  offset: 0, 0
+  index: -1
+small_leaf_01
+  rotate: true
+  xy: 445, 91
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+small_leaf_02
+  rotate: true
+  xy: 494, 484
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+small_leaf_03
+  rotate: false
+  xy: 258, 16
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+trunk_01
+  rotate: false
+  xy: 227, 120
+  size: 47, 390
+  orig: 47, 390
+  offset: 0, 0
+  index: -1
+trunk_02
+  rotate: false
+  xy: 142, 104
+  size: 83, 406
+  orig: 83, 406
+  offset: 0, 0
+  index: -1
+trunk_03
+  rotate: false
+  xy: 2, 123
+  size: 138, 387
+  orig: 138, 387
+  offset: 0, 0
+  index: -1

@@ -76,7 +76,7 @@ public class Play_DragCameraZoom : MonoBehaviour
     {   if (CameraButton.b_manualCameraActive) return;
         if (!enabled) return;
 
-        zoomDeco.SetActive(true);
+        zoomDeco.SetActive(false);
         b_IsTouch2 = false;
         if (cam.orthographic)
         {
