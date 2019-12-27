@@ -7,8 +7,9 @@ public class Tutorial_PhotoRoad : MonoBehaviour
 {
     public Image setImage;
     // Start is called before the first frame update
-    void Start()
-    {// is enable 해야하나?
+    private void OnEnable()
+    {
+        print("이미지 로드" + setImage.sprite);
         setImage.sprite = gameObject.GetComponent<Image>().sprite;
     }
 }

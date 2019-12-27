@@ -6,6 +6,7 @@ public class UI_PhotoDup : MonoBehaviour
 {
     public GameObject photoPrefab;
     public Transform photoParent;
+    
 
     /// <summary>
     /// 사진을 찍을경우 사진 프리팹 생성

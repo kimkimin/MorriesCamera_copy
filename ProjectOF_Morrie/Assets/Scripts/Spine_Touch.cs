@@ -25,10 +25,11 @@ public class Spine_Touch : MonoBehaviour
     }
     private void OnMouseDown()
     {
+        if (!this.enabled) return;
         //if (Link_touchCheck.touch.phase == TouchPhase.Moved) return;
         //드래그 이동시 스칠때 스파인이 움직이나 확임
 
-        print("imTouched");
+        //print("imTouched");
 #if UNITY_IOS
         //binding.LigthHaptic();
 #endif
@@ -53,12 +54,12 @@ public class Spine_Touch : MonoBehaviour
             if(myType == types[i])
             {
                 myTypeNum = i;
-                print("anim실행 넘버" + myTypeNum);
+                //print("anim실행 넘버" + myTypeNum);
                 break;
             }
             else
             {
-                print(myType + "매칭실패 " + i + "번째 ");
+                //print(myType + "매칭실패 " + i + "번째 ");
             }
         }
         switch (myTypeNum)
