@@ -39060,6 +39060,7 @@ GameObject:
   - component: {fileID: 963194226}
   - component: {fileID: 963194229}
   - component: {fileID: 963194230}
+  - component: {fileID: 963194231}
   m_Layer: 0
   m_Name: MainCamera
   m_TagString: MainCamera
@@ -39168,6 +39169,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   renderViewSize: {fileID: 1822050032}
+--- !u!114 &963194231
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 963194225}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 207fe0a88c788e6478981e87a763aa0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  saveGridRot: 0
+  saveBeforeDamping: {x: 0, y: 0}
+  saveAfterDamping: {x: 0, y: 0}
+  previousRatio: 0
+  ins_zoom: {fileID: 963194229}
+  ins_grid: {fileID: 951391158}
 --- !u!1 &969134987
 GameObject:
   m_ObjectHideFlags: 0
