@@ -23,7 +23,7 @@ public class Mobile_DisplayLotate : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        CheckCameraOrientation();
     }
 
     void CheckCameraOrientation()
