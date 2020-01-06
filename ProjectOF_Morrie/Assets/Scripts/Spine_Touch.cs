@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using Spine.Unity;
+using UnityEngine.EventSystems;
 
 /// <summary>
 /// 애니메이션 타입을 나누고 인터렉션
@@ -26,7 +27,9 @@ public class Spine_Touch : MonoBehaviour
     private void OnMouseDown()
     {
         if (!this.enabled) return;
-        //if (Link_touchCheck.touch.phase == TouchPhase.Moved) return;
+        if (Link_touchCheck.touch.phase == TouchPhase.Moved) return;
+        if (EventSystem.current.IsPointerOverGameObject()) return;
+        //if (EventSystem.current.IsPointerOverGameObject(Link_touchCheck.touch.fingerId) == true) return;
         //드래그 이동시 스칠때 스파인이 움직이나 확임
 
         //print("imTouched");
