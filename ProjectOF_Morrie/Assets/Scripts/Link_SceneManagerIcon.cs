@@ -3,40 +3,48 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-/// <summary>
-/// Link_SceneManagerIcon.cs로 전부 사용가능하면 이거는 삭제하기
-/// </summary>
-public class Link_SceneManager : MonoBehaviour
+public class Link_SceneManagerIcon : MonoBehaviour
 {
     AsyncOperation asyncOper;
     bool b_playReady = false;
-    // 스프라이트 애님이 로딩되는동안 플레이]
-    int nextSceneNum;
+
+    public GameObject Icon_Loading, icon_Entering;
 
     // Start is called before the first frame update
     void Start()
     {
-        nextSceneNum = 1;//다음씬으로
         StartCoroutine(StartLoad());
     }
 
+    /// <summary>
+    /// 씬 이동 승인
+    /// </summary>
     public void Ready()
     {
-        print("pressed");
         b_playReady = true;
     }
-
+    
+    /// <summary>
+    /// 다음씬 비동기로드
+    /// </summary>
     IEnumerator StartLoad()
     {
-        asyncOper = SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex + nextSceneNum);
+        asyncOper = SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex + 1);
         asyncOper.allowSceneActivation = false;
 
         while (!asyncOper.isDone)
         {
             yield return null;
-            if(asyncOper.progress >= 0.9f)
+            if (asyncOper.progress >= 0.9f)
             {
+                if (Icon_Loading != null)
+                {
+                    Icon_Loading.SetActive(false);
+                    icon_Entering.SetActive(true);
+                }
+
                 if (b_playReady == true) asyncOper.allowSceneActivation = true;
+
             }
         }
     }

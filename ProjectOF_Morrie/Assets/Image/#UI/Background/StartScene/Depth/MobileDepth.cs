@@ -31,7 +31,7 @@ public class MobileDepth : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        print("자이로 스코프 가속 : " + Input.gyro.userAcceleration);
+        //print("자이로 스코프 가속 : " + Input.gyro.userAcceleration);
         Vector3 m_gyroRot = Input.gyro.gravity;
         //textRot.text = m_gyroRot.ToString();
         //textAcc.text = Input.gyro.userAcceleration.ToString();
