@@ -1,0 +1,286 @@
+
+Pub_leanon_oneArm.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BookFlip/1
+  rotate: false
+  xy: 43, 471
+  size: 21, 8
+  orig: 21, 8
+  offset: 0, 0
+  index: -1
+BookFlip/2
+  rotate: false
+  xy: 140, 467
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+BookFlip/3
+  rotate: true
+  xy: 161, 465
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+BookFlip/4
+  rotate: true
+  xy: 99, 469
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+BookFlip/5
+  rotate: true
+  xy: 66, 471
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+BookFlip/6
+  rotate: true
+  xy: 119, 469
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+BookFlip/7
+  rotate: true
+  xy: 179, 464
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+BookFlip/8
+  rotate: false
+  xy: 199, 463
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+L_arm_Raglan
+  rotate: false
+  xy: 247, 460
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+L_arm_book
+  rotate: false
+  xy: 378, 402
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+L_arm_book_front
+  rotate: true
+  xy: 219, 461
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+L_arm_drink
+  rotate: false
+  xy: 423, 400
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+L_arm_lov
+  rotate: false
+  xy: 392, 447
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 330, 407
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: true
+  xy: 344, 449
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+R_ear
+  rotate: true
+  xy: 433, 445
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 2, 433
+  size: 65, 36
+  orig: 65, 36
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 237, 276
+  size: 77, 103
+  orig: 77, 103
+  offset: 0, 0
+  index: -1
+book
+  rotate: false
+  xy: 270, 418
+  size: 58, 39
+  orig: 58, 39
+  offset: 0, 0
+  index: -1
+burp
+  rotate: false
+  xy: 283, 459
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+drink
+  rotate: true
+  xy: 307, 459
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: false
+  xy: 2, 475
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+eye_open
+  rotate: false
+  xy: 10, 475
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+glasses
+  rotate: true
+  xy: 121, 376
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+hairband
+  rotate: true
+  xy: 2, 385
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+lov_bottom
+  rotate: false
+  xy: 139, 425
+  size: 75, 36
+  orig: 75, 36
+  offset: 0, 0
+  index: -1
+lov_gown
+  rotate: true
+  xy: 69, 431
+  size: 36, 68
+  orig: 36, 68
+  offset: 0, 0
+  index: -1
+mouth_3
+  rotate: true
+  xy: 24, 474
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+mouth_burp01
+  rotate: true
+  xy: 33, 472
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+mouth_burp02
+  rotate: false
+  xy: 88, 471
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+mouth_smile
+  rotate: false
+  xy: 16, 475
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 373, 345
+  size: 53, 95
+  orig: 53, 95
+  offset: 0, 0
+  index: -1
+pants01
+  rotate: false
+  xy: 178, 369
+  size: 61, 49
+  orig: 61, 49
+  offset: 0, 0
+  index: -1
+pants02
+  rotate: false
+  xy: 67, 313
+  size: 82, 61
+  orig: 82, 61
+  offset: 0, 0
+  index: -1
+raglan
+  rotate: false
+  xy: 151, 304
+  size: 84, 63
+  orig: 84, 63
+  offset: 0, 0
+  index: -1
+recipe_wrong
+  rotate: false
+  xy: 51, 383
+  size: 68, 46
+  orig: 68, 46
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: false
+  xy: 2, 323
+  size: 63, 58
+  orig: 63, 58
+  offset: 0, 0
+  index: -1
+skirt_bottom
+  rotate: true
+  xy: 216, 420
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+sleeveless
+  rotate: false
+  xy: 241, 366
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+trouser
+  rotate: false
+  xy: 311, 355
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1

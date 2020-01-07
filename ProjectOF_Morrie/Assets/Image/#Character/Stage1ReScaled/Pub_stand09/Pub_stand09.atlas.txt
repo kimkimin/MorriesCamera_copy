@@ -1,0 +1,139 @@
+
+Pub_stand09.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 151
+  size: 58, 103
+  orig: 58, 103
+  offset: 0, 0
+  index: -1
+close
+  rotate: false
+  xy: 40, 73
+  size: 36, 3
+  orig: 36, 3
+  offset: 0, 0
+  index: -1
+earL_01
+  rotate: true
+  xy: 107, 98
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+earR_01
+  rotate: true
+  xy: 62, 200
+  size: 54, 30
+  orig: 54, 30
+  offset: 0, 0
+  index: -1
+hammer_dance_armL_S1
+  rotate: true
+  xy: 118, 214
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+hammer_dance_armR_S1
+  rotate: false
+  xy: 143, 174
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+hawaii_dance_armL_S1
+  rotate: true
+  xy: 54, 2
+  size: 63, 12
+  orig: 63, 12
+  offset: 0, 0
+  index: -1
+hawaii_dance_armR_S1
+  rotate: true
+  xy: 24, 73
+  size: 76, 14
+  orig: 76, 14
+  offset: 0, 0
+  index: -1
+leafskirt_S1
+  rotate: true
+  xy: 40, 78
+  size: 71, 42
+  orig: 71, 42
+  offset: 0, 0
+  index: -1
+legL_S1
+  rotate: false
+  xy: 94, 202
+  size: 22, 52
+  orig: 22, 52
+  offset: 0, 0
+  index: -1
+legL_dance_S1
+  rotate: true
+  xy: 84, 73
+  size: 22, 50
+  orig: 22, 50
+  offset: 0, 0
+  index: -1
+legR_S1
+  rotate: false
+  xy: 84, 97
+  size: 21, 52
+  orig: 21, 52
+  offset: 0, 0
+  index: -1
+legR_dance_S1
+  rotate: false
+  xy: 62, 151
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+nose_S1
+  rotate: false
+  xy: 2, 65
+  size: 20, 84
+  orig: 20, 84
+  offset: 0, 0
+  index: -1
+onepiece01_S1
+  rotate: false
+  xy: 68, 4
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 24, 67
+  size: 35, 4
+  orig: 35, 4
+  offset: 0, 0
+  index: -1
+pants01_L_S1
+  rotate: true
+  xy: 109, 151
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+pants01_R_S1
+  rotate: true
+  xy: 135, 99
+  size: 50, 26
+  orig: 50, 26
+  offset: 0, 0
+  index: -1
+sleeveless_S1
+  rotate: true
+  xy: 2, 4
+  size: 59, 50
+  orig: 59, 50
+  offset: 0, 0
+  index: -1

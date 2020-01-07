@@ -1,0 +1,209 @@
+
+Pub_lieFaceUp01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm_book
+  rotate: true
+  xy: 345, 350
+  size: 22, 51
+  orig: 22, 51
+  offset: 0, 0
+  index: -1
+L_arm_pillow
+  rotate: false
+  xy: 38, 368
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+L_foot
+  rotate: true
+  xy: 236, 411
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: false
+  xy: 328, 396
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+L_leg_up
+  rotate: false
+  xy: 304, 350
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+R_arm_behind
+  rotate: false
+  xy: 2, 374
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+R_arm_front
+  rotate: true
+  xy: 405, 370
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+R_ear
+  rotate: false
+  xy: 437, 326
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+R_foot
+  rotate: false
+  xy: 236, 426
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+R_leg_up
+  rotate: false
+  xy: 439, 410
+  size: 63, 40
+  orig: 63, 40
+  offset: 0, 0
+  index: -1
+S2_armR_add
+  rotate: true
+  xy: 328, 409
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+S2_pants_L
+  rotate: false
+  xy: 2, 344
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+S2_top
+  rotate: false
+  xy: 439, 452
+  size: 65, 58
+  orig: 65, 58
+  offset: 0, 0
+  index: -1
+bikiniTop
+  rotate: true
+  xy: 438, 359
+  size: 49, 52
+  orig: 49, 52
+  offset: 0, 0
+  index: -1
+bikiniTop02
+  rotate: false
+  xy: 348, 374
+  size: 55, 48
+  orig: 55, 48
+  offset: 0, 0
+  index: -1
+bikini_bottom
+  rotate: true
+  xy: 484, 324
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+bikini_bottom02
+  rotate: true
+  xy: 398, 332
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 348, 424
+  size: 89, 86
+  orig: 89, 86
+  offset: 0, 0
+  index: -1
+book
+  rotate: false
+  xy: 254, 396
+  size: 72, 33
+  orig: 72, 33
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: true
+  xy: 506, 504
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+eye_open
+  rotate: false
+  xy: 506, 498
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+footWater
+  rotate: false
+  xy: 250, 364
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: -1
+icon_01
+  rotate: false
+  xy: 492, 400
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+icon_02
+  rotate: true
+  xy: 236, 389
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+nose_book
+  rotate: false
+  xy: 160, 368
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+nose_normal
+  rotate: false
+  xy: 160, 444
+  size: 92, 66
+  orig: 92, 66
+  offset: 0, 0
+  index: -1
+recipe_wrong
+  rotate: false
+  xy: 254, 469
+  size: 92, 41
+  orig: 92, 41
+  offset: 0, 0
+  index: -1
+tube
+  rotate: false
+  xy: 2, 398
+  size: 156, 112
+  orig: 156, 112
+  offset: 0, 0
+  index: -1
+water_tube
+  rotate: false
+  xy: 254, 431
+  size: 89, 36
+  orig: 89, 36
+  offset: 0, 0
+  index: -1

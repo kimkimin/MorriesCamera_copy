@@ -1,0 +1,195 @@
+
+Pub_WalkBack_S1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm_2
+  rotate: true
+  xy: 327, 224
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+L_arm_bottle
+  rotate: true
+  xy: 88, 167
+  size: 47, 77
+  orig: 47, 77
+  offset: 0, 0
+  index: -1
+L_arm_run
+  rotate: true
+  xy: 158, 349
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+L_ear
+  rotate: true
+  xy: 332, 314
+  size: 83, 78
+  orig: 83, 78
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 409, 151
+  size: 51, 85
+  orig: 51, 85
+  offset: 0, 0
+  index: -1
+L_trouser
+  rotate: true
+  xy: 118, 322
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: false
+  xy: 412, 270
+  size: 92, 74
+  orig: 92, 74
+  offset: 0, 0
+  index: -1
+R_arm_run
+  rotate: false
+  xy: 318, 152
+  size: 89, 70
+  orig: 89, 70
+  offset: 0, 0
+  index: -1
+R_ear
+  rotate: true
+  xy: 412, 204
+  size: 64, 92
+  orig: 64, 92
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 413, 462
+  size: 47, 96
+  orig: 47, 96
+  offset: 0, 0
+  index: -1
+R_trouser
+  rotate: true
+  xy: 167, 147
+  size: 67, 39
+  orig: 67, 39
+  offset: 0, 0
+  index: -1
+RunningShoe_L
+  rotate: false
+  xy: 2, 145
+  size: 52, 32
+  orig: 52, 32
+  offset: 0, 0
+  index: -1
+RunningShoe_R
+  rotate: false
+  xy: 2, 179
+  size: 52, 33
+  orig: 52, 33
+  offset: 0, 0
+  index: -1
+T_shirt
+  rotate: true
+  xy: 413, 346
+  size: 114, 92
+  orig: 114, 92
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 219, 399
+  size: 110, 192
+  orig: 110, 192
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: false
+  xy: 156, 323
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+eye_open
+  rotate: false
+  xy: 318, 244
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 2, 214
+  size: 84, 50
+  orig: 84, 50
+  offset: 0, 0
+  index: -1
+hairBand
+  rotate: false
+  xy: 216, 362
+  size: 114, 35
+  orig: 114, 35
+  offset: 0, 0
+  index: -1
+lifeVest_back
+  rotate: false
+  xy: 2, 266
+  size: 114, 106
+  orig: 114, 106
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 2, 374
+  size: 35, 154
+  orig: 35, 154
+  offset: 0, 0
+  index: -1
+onepiece
+  rotate: true
+  xy: 216, 253
+  size: 107, 109
+  orig: 107, 109
+  offset: 0, 0
+  index: -1
+onepiece_swimware
+  rotate: true
+  xy: 118, 216
+  size: 104, 92
+  orig: 104, 92
+  offset: 0, 0
+  index: -1
+sweat01
+  rotate: false
+  xy: 156, 330
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+sweat02
+  rotate: false
+  xy: 167, 337
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+trouser
+  rotate: false
+  xy: 212, 189
+  size: 104, 62
+  orig: 104, 62
+  offset: 0, 0
+  index: -1
+tube
+  rotate: false
+  xy: 2, 411
+  size: 215, 98
+  orig: 215, 98
+  offset: 0, 0
+  index: -1

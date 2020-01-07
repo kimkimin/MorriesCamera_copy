@@ -1,0 +1,111 @@
+
+Pub_lie_backview01.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bikini_top
+  rotate: true
+  xy: 2, 45
+  size: 101, 44
+  orig: 101, 44
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: false
+  xy: 2, 2
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+L_ear
+  rotate: true
+  xy: 90, 38
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: false
+  xy: 126, 56
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 121, 157
+  size: 64, 72
+  orig: 64, 72
+  offset: 0, 0
+  index: -1
+R_ear
+  rotate: false
+  xy: 48, 17
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 48, 98
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+Sunburn
+  rotate: false
+  xy: 2, 148
+  size: 117, 81
+  orig: 117, 81
+  offset: 0, 0
+  index: -1
+bikini_bottom
+  rotate: false
+  xy: 48, 55
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 121, 72
+  size: 83, 63
+  orig: 83, 63
+  offset: 0, 0
+  index: -1
+ear_mask
+  rotate: false
+  xy: 25, 25
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+hu
+  rotate: false
+  xy: 2, 22
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 90, 84
+  size: 62, 26
+  orig: 62, 26
+  offset: 0, 0
+  index: -1
+steam_line01
+  rotate: true
+  xy: 90, 77
+  size: 5, 14
+  orig: 5, 14
+  offset: 0, 0
+  index: -1
+steam_line02
+  rotate: true
+  xy: 106, 77
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1

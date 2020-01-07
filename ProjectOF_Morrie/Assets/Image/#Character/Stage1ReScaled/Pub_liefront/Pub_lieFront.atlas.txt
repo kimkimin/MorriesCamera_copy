@@ -1,0 +1,244 @@
+
+Pub_lieFront.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 17
+  rotate: false
+  xy: 342, 1909
+  size: 59, 27
+  orig: 59, 27
+  offset: 0, 0
+  index: -1
+Layer 18
+  rotate: false
+  xy: 981, 1871
+  size: 172, 65
+  orig: 172, 65
+  offset: 0, 0
+  index: -1
+armL_cupMorisChin
+  rotate: true
+  xy: 110, 1920
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+armL_surf
+  rotate: false
+  xy: 522, 1905
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+armR_cupMorisChin
+  rotate: true
+  xy: 238, 1912
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+armR_surf
+  rotate: false
+  xy: 134, 1917
+  size: 55, 19
+  orig: 55, 19
+  offset: 0, 0
+  index: -1
+bikini
+  rotate: true
+  xy: 747, 1886
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 805, 1874
+  size: 95, 62
+  orig: 95, 62
+  offset: 0, 0
+  index: -1
+cap_S2
+  rotate: false
+  xy: 269, 1911
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+earL_surf
+  rotate: false
+  xy: 403, 1908
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+earR_cupMorisChin
+  rotate: false
+  xy: 314, 1911
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+earR_surf
+  rotate: false
+  xy: 436, 1908
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+eye01_close
+  rotate: false
+  xy: 2, 1933
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+eye01_open
+  rotate: false
+  xy: 16, 1932
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+eye01_smile
+  rotate: false
+  xy: 22, 1932
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+eye02_close
+  rotate: false
+  xy: 9, 1933
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+eye02_open
+  rotate: false
+  xy: 29, 1932
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+legL_cupMorisChin
+  rotate: false
+  xy: 482, 1908
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+legL_cupMorisChin_scout_S2
+  rotate: false
+  xy: 610, 1904
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+legL_surf
+  rotate: false
+  xy: 47, 1922
+  size: 42, 14
+  orig: 42, 14
+  offset: 0, 0
+  index: -1
+legR_cupMorisChin
+  rotate: false
+  xy: 568, 1905
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+legR_cupMorisChin_scout_S2
+  rotate: false
+  xy: 649, 1904
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+legR_surf
+  rotate: false
+  xy: 191, 1913
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 35, 1928
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 1269, 1860
+  size: 96, 76
+  orig: 96, 76
+  offset: 0, 0
+  index: -1
+pants01
+  rotate: false
+  xy: 689, 1888
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+scout_uniform_S2
+  rotate: false
+  xy: 902, 1874
+  size: 77, 62
+  orig: 77, 62
+  offset: 0, 0
+  index: -1
+shark
+  rotate: false
+  xy: 1155, 1864
+  size: 112, 72
+  orig: 112, 72
+  offset: 0, 0
+  index: -1
+sleeve_scout_S2
+  rotate: true
+  xy: 91, 1921
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+surfingBoard
+  rotate: false
+  xy: 1367, 1847
+  size: 223, 89
+  orig: 223, 89
+  offset: 0, 0
+  index: -1
+wave1
+  rotate: false
+  xy: 2, 1424
+  size: 482, 482
+  orig: 482, 482
+  offset: 0, 0
+  index: -1
+wave2
+  rotate: false
+  xy: 486, 1390
+  size: 482, 482
+  orig: 482, 482
+  offset: 0, 0
+  index: -1
+wave3
+  rotate: false
+  xy: 970, 1363
+  size: 482, 482
+  orig: 482, 482
+  offset: 0, 0
+  index: -1
+wave4
+  rotate: false
+  xy: 1454, 1363
+  size: 482, 482
+  orig: 482, 482
+  offset: 0, 0
+  index: -1
