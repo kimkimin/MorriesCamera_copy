@@ -153,7 +153,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: b4d3a63749e756e4fbfac53059e0c365, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 6b8f6d51fe8abec43acfa3922b04616b, type: 2}
   initialSkinName: S1_walk1_lifevest
   initialFlipX: 0
   initialFlipY: 0
@@ -194,7 +194,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: bf597f454c7726c4ca75081f591d7192, type: 2}
+  - {fileID: 2100000, guid: 6c139f20f24acff449bf38f8cde627dc, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -755,7 +755,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 6cdd88ca66cab3c409906d3aaff93a85, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: c052f82ee3d66b745998a4b143543957, type: 2}
   initialSkinName: S1_point_pants
   initialFlipX: 0
   initialFlipY: 0
@@ -796,7 +796,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 8234e0cab676ea44683e63171c96e557, type: 2}
+  - {fileID: 2100000, guid: 0fd9ed15a96c9224fa6520ca2fc27abb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1005,7 +1005,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: a8528146449d63a42837e4429c2d3d37, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 4cd9a69782ca4d6489da2c2f4321bdec, type: 2}
   initialSkinName: S1_flowercup_shark
   initialFlipX: 0
   initialFlipY: 0
@@ -1046,7 +1046,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3cec46a94f2127a4d81f3f671dec63c9, type: 2}
+  - {fileID: 2100000, guid: ad393df04ea6ab94990badd50fbbc863, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1202,8 +1202,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 897b9c1f0083edb4b9fcdd385eb9c5f8, type: 2}
-  initialSkinName: s1_lookup_pants
+  skeletonDataAsset: {fileID: 11400000, guid: 6e00ffce4beeb2944ba4fde1fdbd8373, type: 2}
+  initialSkinName: S1_lookup_pants
   initialFlipX: 0
   initialFlipY: 0
   separatorSlotNames: []
@@ -1243,7 +1243,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3eb15dee054b97b4a9d885ef70e2133f, type: 2}
+  - {fileID: 2100000, guid: cab2ec693cf8b07459a43a116c09ee72, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1604,7 +1604,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 29560573}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2061.3, y: -546, z: 0}
+  m_LocalPosition: {x: -1389, y: -782, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2060934829}
@@ -1622,7 +1622,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: cc1e72a5bb53e6d499fc42675d001853, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 6655e4cc2fa9953468c6cae682a7a8cf, type: 2}
   initialSkinName: S1,2_barbecue_meat
   initialFlipX: 0
   initialFlipY: 0
@@ -1663,7 +1663,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 741a920e32b843245a6ad102e655d46d, type: 2}
+  - {fileID: 2100000, guid: 6bc31d0b09a119d4d9580ad24a486736, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1906,7 +1906,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: ee18c6c2810b08d4582bb02d66ab545c, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 2cc9233c37f42f148991126ca231a55c, type: 2}
   initialSkinName: S1_book_bikini
   initialFlipX: 0
   initialFlipY: 0
@@ -1947,7 +1947,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ab90de2310beae44384bdb32598d7aa2, type: 2}
+  - {fileID: 2100000, guid: 6741e4b08be1669429a2ae400f4a1e26, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2395,7 +2395,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 959d38e16aa9f3d40b54a602f62d164b, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: b613e2a1558c4564aa04a4e85387e005, type: 2}
   initialSkinName: S1_drink_swimsuit
   initialFlipX: 0
   initialFlipY: 0
@@ -2436,7 +2436,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 652e1f66e276be1458a34d7106cce477, type: 2}
+  - {fileID: 2100000, guid: b4280897dec330a4e82ae011bb5b1278, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2631,7 +2631,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 357b9b1a882c6d6428369666065038cf, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: e28532efbaa948e4cb7295605e69b54e, type: 2}
   initialSkinName: S1_surfing_wave
   initialFlipX: 0
   initialFlipY: 0
@@ -2672,7 +2672,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e6486c7e3caf9ef4eb93963a98db3c6f, type: 2}
+  - {fileID: 2100000, guid: 7c54ab31f34290f4eb2918c17aaaafe5, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3231,8 +3231,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 897b9c1f0083edb4b9fcdd385eb9c5f8, type: 2}
-  initialSkinName: s1_icecream_swimsuit
+  skeletonDataAsset: {fileID: 11400000, guid: 6e00ffce4beeb2944ba4fde1fdbd8373, type: 2}
+  initialSkinName: S1_icecream_swimsuit
   initialFlipX: 0
   initialFlipY: 0
   separatorSlotNames: []
@@ -3272,7 +3272,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3eb15dee054b97b4a9d885ef70e2133f, type: 2}
+  - {fileID: 2100000, guid: cab2ec693cf8b07459a43a116c09ee72, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3617,7 +3617,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: b4d3a63749e756e4fbfac53059e0c365, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 6b8f6d51fe8abec43acfa3922b04616b, type: 2}
   initialSkinName: S1_run
   initialFlipX: 0
   initialFlipY: 0
@@ -3658,7 +3658,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: bf597f454c7726c4ca75081f591d7192, type: 2}
+  - {fileID: 2100000, guid: 6c139f20f24acff449bf38f8cde627dc, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3768,8 +3768,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 897b9c1f0083edb4b9fcdd385eb9c5f8, type: 2}
-  initialSkinName: s1_stay_pants
+  skeletonDataAsset: {fileID: 11400000, guid: 6e00ffce4beeb2944ba4fde1fdbd8373, type: 2}
+  initialSkinName: S1_stay_pants
   initialFlipX: 0
   initialFlipY: 0
   separatorSlotNames: []
@@ -3809,7 +3809,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3eb15dee054b97b4a9d885ef70e2133f, type: 2}
+  - {fileID: 2100000, guid: cab2ec693cf8b07459a43a116c09ee72, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -4331,7 +4331,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: cb0735b955e990e4fae631f848e9e5a6, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 9523390c7b9b3544a91ecae4965f8b68, type: 2}
   initialSkinName: S1_smile_shorts
   initialFlipX: 0
   initialFlipY: 0
@@ -4372,7 +4372,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ec2732faa3a0ed44b8d5efa1286ae68f, type: 2}
+  - {fileID: 2100000, guid: 0c39d09a9a5de5340baeb252b40a1a4b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -5018,7 +5018,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 096ac93facf23694c9b11715b178d2b2, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: cbadfd61c637db24a9253fdcdd0358ea, type: 2}
   initialSkinName: S1_tube_duck
   initialFlipX: 0
   initialFlipY: 0
@@ -5059,7 +5059,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 56e053f2c5d563d4bbe68dbb80560199, type: 2}
+  - {fileID: 2100000, guid: 5fd29d3ad727c174d8fb21da026ddcde, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -5610,7 +5610,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: cc1e72a5bb53e6d499fc42675d001853, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 6655e4cc2fa9953468c6cae682a7a8cf, type: 2}
   initialSkinName: S1_standMood_panty
   initialFlipX: 0
   initialFlipY: 0
@@ -5651,7 +5651,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 741a920e32b843245a6ad102e655d46d, type: 2}
+  - {fileID: 2100000, guid: 6bc31d0b09a119d4d9580ad24a486736, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -5775,7 +5775,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 6cdd88ca66cab3c409906d3aaff93a85, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: c052f82ee3d66b745998a4b143543957, type: 2}
   initialSkinName: S1_drink_onepiece
   initialFlipX: 0
   initialFlipY: 0
@@ -5816,7 +5816,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 8234e0cab676ea44683e63171c96e557, type: 2}
+  - {fileID: 2100000, guid: 0fd9ed15a96c9224fa6520ca2fc27abb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -7041,7 +7041,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: cc1e72a5bb53e6d499fc42675d001853, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 6655e4cc2fa9953468c6cae682a7a8cf, type: 2}
   initialSkinName: S1_cherse_bikini3
   initialFlipX: 0
   initialFlipY: 0
@@ -7082,7 +7082,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 741a920e32b843245a6ad102e655d46d, type: 2}
+  - {fileID: 2100000, guid: 6bc31d0b09a119d4d9580ad24a486736, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -8304,7 +8304,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: cc1e72a5bb53e6d499fc42675d001853, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 6655e4cc2fa9953468c6cae682a7a8cf, type: 2}
   initialSkinName: S1_standMood_panty
   initialFlipX: 0
   initialFlipY: 0
@@ -8345,7 +8345,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 741a920e32b843245a6ad102e655d46d, type: 2}
+  - {fileID: 2100000, guid: 6bc31d0b09a119d4d9580ad24a486736, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -9026,7 +9026,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 920ac7032b9b1a546b1077b38a0599c4, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 406db28560d7888408a03c2c0f87ee2c, type: 2}
   initialSkinName: S1_recipewrong_band
   initialFlipX: 0
   initialFlipY: 0
@@ -9067,7 +9067,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d51653787aca8a34e86197369ea1fc2c, type: 2}
+  - {fileID: 2100000, guid: dfa3a019f0ff37b468b820136cc86f9b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -9223,7 +9223,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 6cdd88ca66cab3c409906d3aaff93a85, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: c052f82ee3d66b745998a4b143543957, type: 2}
   initialSkinName: S1_touchtube_glasses
   initialFlipX: 0
   initialFlipY: 0
@@ -9264,7 +9264,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 8234e0cab676ea44683e63171c96e557, type: 2}
+  - {fileID: 2100000, guid: 0fd9ed15a96c9224fa6520ca2fc27abb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -9966,7 +9966,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: a8528146449d63a42837e4429c2d3d37, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 4cd9a69782ca4d6489da2c2f4321bdec, type: 2}
   initialSkinName: S1_surfingBoard_01
   initialFlipX: 0
   initialFlipY: 0
@@ -10007,7 +10007,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3cec46a94f2127a4d81f3f671dec63c9, type: 2}
+  - {fileID: 2100000, guid: ad393df04ea6ab94990badd50fbbc863, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -10175,7 +10175,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: a381eb157841cfe47ae4a02189136627, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 9de564ad42b4e2c48ae465a8010050fa, type: 2}
   initialSkinName: S1_sandtouch_onepiece
   initialFlipX: 0
   initialFlipY: 0
@@ -10216,7 +10216,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 5a39ab943b6b57b4ba3d08314c6c7acf, type: 2}
+  - {fileID: 2100000, guid: d91cf5c7bfbdb3d4592a6d6754f08743, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -10730,8 +10730,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 897b9c1f0083edb4b9fcdd385eb9c5f8, type: 2}
-  initialSkinName: s1_icecream_swimsuit
+  skeletonDataAsset: {fileID: 11400000, guid: 6e00ffce4beeb2944ba4fde1fdbd8373, type: 2}
+  initialSkinName: S1_icecream_swimsuit
   initialFlipX: 0
   initialFlipY: 0
   separatorSlotNames: []
@@ -10771,7 +10771,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3eb15dee054b97b4a9d885ef70e2133f, type: 2}
+  - {fileID: 2100000, guid: cab2ec693cf8b07459a43a116c09ee72, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -11263,7 +11263,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: c24a0f3dd0e63f44585514805624d978, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: f5f3d6e21141f174ba988b043a96c6eb, type: 2}
   initialSkinName: S1_hurrah_dadbaby
   initialFlipX: 0
   initialFlipY: 0
@@ -11304,7 +11304,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 49c036bb8369cb44388c64c0ab18998b, type: 2}
+  - {fileID: 2100000, guid: 407f1dad6055a2d40ab63240ff7d2ce3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -11491,7 +11491,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 86fb6b7805451ea42b7b4b68329c3d79, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: ee933b79b0d75634a852d0b198cef861, type: 2}
   initialSkinName: S1_volleyball_bikine01
   initialFlipX: 0
   initialFlipY: 0
@@ -11532,7 +11532,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: cda922662577b904d889eec9ed2504d3, type: 2}
+  - {fileID: 2100000, guid: 530aeb5907be0e74bb39d88e45230480, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -11832,7 +11832,7 @@ GameObject:
   - component: {fileID: 274718793}
   - component: {fileID: 274718794}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: Anchor_pub_lieonchair (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11914,7 +11914,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: c24a0f3dd0e63f44585514805624d978, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: f5f3d6e21141f174ba988b043a96c6eb, type: 2}
   initialSkinName: S1_maracas_skirt
   initialFlipX: 0
   initialFlipY: 0
@@ -11955,7 +11955,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 49c036bb8369cb44388c64c0ab18998b, type: 2}
+  - {fileID: 2100000, guid: 407f1dad6055a2d40ab63240ff7d2ce3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -12434,8 +12434,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 897b9c1f0083edb4b9fcdd385eb9c5f8, type: 2}
-  initialSkinName: s1_point_pant
+  skeletonDataAsset: {fileID: 11400000, guid: 6e00ffce4beeb2944ba4fde1fdbd8373, type: 2}
+  initialSkinName: S1_point_pant
   initialFlipX: 0
   initialFlipY: 0
   separatorSlotNames: []
@@ -12475,7 +12475,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3eb15dee054b97b4a9d885ef70e2133f, type: 2}
+  - {fileID: 2100000, guid: cab2ec693cf8b07459a43a116c09ee72, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -13314,7 +13314,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 096ac93facf23694c9b11715b178d2b2, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: cbadfd61c637db24a9253fdcdd0358ea, type: 2}
   initialSkinName: S1_tube_handle
   initialFlipX: 0
   initialFlipY: 0
@@ -13355,7 +13355,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 56e053f2c5d563d4bbe68dbb80560199, type: 2}
+  - {fileID: 2100000, guid: 5fd29d3ad727c174d8fb21da026ddcde, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -13419,7 +13419,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 6cdd88ca66cab3c409906d3aaff93a85, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: c052f82ee3d66b745998a4b143543957, type: 2}
   initialSkinName: S1_HandsOnHip_pants
   initialFlipX: 0
   initialFlipY: 0
@@ -13460,7 +13460,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 8234e0cab676ea44683e63171c96e557, type: 2}
+  - {fileID: 2100000, guid: 0fd9ed15a96c9224fa6520ca2fc27abb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -13952,7 +13952,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 357b9b1a882c6d6428369666065038cf, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: e28532efbaa948e4cb7295605e69b54e, type: 2}
   initialSkinName: S1_surfing_pants
   initialFlipX: 0
   initialFlipY: 0
@@ -13993,7 +13993,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e6486c7e3caf9ef4eb93963a98db3c6f, type: 2}
+  - {fileID: 2100000, guid: 7c54ab31f34290f4eb2918c17aaaafe5, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -14268,7 +14268,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 1638ab047bd915646bb4c0403f2fed32, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 16f028ff143db6c4daa39b67c88b7883, type: 2}
   initialSkinName: S1_laugh_pants
   initialFlipX: 0
   initialFlipY: 0
@@ -14309,7 +14309,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 92ffaa20d777cb747aa5031b9cb97a5f, type: 2}
+  - {fileID: 2100000, guid: 47c419b377a328747aa17193ffc018d1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -15113,7 +15113,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: c24a0f3dd0e63f44585514805624d978, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: f5f3d6e21141f174ba988b043a96c6eb, type: 2}
   initialSkinName: S1_eartouch_panty
   initialFlipX: 0
   initialFlipY: 0
@@ -15154,7 +15154,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 49c036bb8369cb44388c64c0ab18998b, type: 2}
+  - {fileID: 2100000, guid: 407f1dad6055a2d40ab63240ff7d2ce3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -15747,7 +15747,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 096ac93facf23694c9b11715b178d2b2, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: cbadfd61c637db24a9253fdcdd0358ea, type: 2}
   initialSkinName: S1_tube_dount
   initialFlipX: 0
   initialFlipY: 0
@@ -15788,7 +15788,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 56e053f2c5d563d4bbe68dbb80560199, type: 2}
+  - {fileID: 2100000, guid: 5fd29d3ad727c174d8fb21da026ddcde, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -15963,7 +15963,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 356830006}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -200.20001, y: 321.69995, z: 0}
+  m_LocalPosition: {x: -109.19998, y: 173.09995, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 614249436}
@@ -16033,7 +16033,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: f43e9b149cac9f04198abf33ce9e69a5, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 3f3c514ec901a8947bc28ab9c160efbc, type: 2}
   initialSkinName: S1_foldArm_onepiece
   initialFlipX: 0
   initialFlipY: 0
@@ -16074,7 +16074,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: afab8510709a57a4dacf71a6f2356452, type: 2}
+  - {fileID: 2100000, guid: 53d5fbecbe695724aa3c1a78d59400b6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -16138,7 +16138,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: ee18c6c2810b08d4582bb02d66ab545c, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 2cc9233c37f42f148991126ca231a55c, type: 2}
   initialSkinName: S1_waterTube_bikini
   initialFlipX: 0
   initialFlipY: 0
@@ -16179,7 +16179,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ab90de2310beae44384bdb32598d7aa2, type: 2}
+  - {fileID: 2100000, guid: 6741e4b08be1669429a2ae400f4a1e26, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -16509,7 +16509,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 86fb6b7805451ea42b7b4b68329c3d79, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: ee933b79b0d75634a852d0b198cef861, type: 2}
   initialSkinName: S1_inWater
   initialFlipX: 0
   initialFlipY: 0
@@ -16550,7 +16550,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: cda922662577b904d889eec9ed2504d3, type: 2}
+  - {fileID: 2100000, guid: 530aeb5907be0e74bb39d88e45230480, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -17912,7 +17912,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 4d52c18603d24b04aa4c823ce81ca1b9, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 82b706149e98d164f81ea8033e1af682, type: 2}
   initialSkinName: S1_drink_pants
   initialFlipX: 0
   initialFlipY: 0
@@ -17953,7 +17953,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d676a951a5901784284845ec26f81318, type: 2}
+  - {fileID: 2100000, guid: faf23c9ef82cdba43a1f379c9e82a5fa, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -18569,7 +18569,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 15a47a61b6371fa429b45cc5b4e13005, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: a741cb12c02dfbd469b85ba5835fb8bb, type: 2}
   initialSkinName: S1_sitback_hawaiianshirt
   initialFlipX: 0
   initialFlipY: 0
@@ -18610,7 +18610,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 26db8d3dc6d6c1f469137e4ce7e0c238, type: 2}
+  - {fileID: 2100000, guid: c2515b713ee4e734998e64b0e4be2610, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -19869,7 +19869,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 094b6f8cfc781204fbd25ddd96c93989, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: c07cc1851a1867e4cbb793390dc88f99, type: 2}
   initialSkinName: S1_walkback1_lifevest
   initialFlipX: 0
   initialFlipY: 0
@@ -19910,7 +19910,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3c2c0004a361fbf489e7a4d245ac2144, type: 2}
+  - {fileID: 2100000, guid: 9c4828cdc5ab2fe4cb6613a3111f2421, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -19974,7 +19974,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: d2d8b31a69f56074cace55fd302353fb, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 085eaef8e27054043b414f934aaf2fe6, type: 2}
   initialSkinName: S1_scratchhead_trouser
   initialFlipX: 0
   initialFlipY: 0
@@ -20015,7 +20015,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 7aa318ce7de604447ac733771a156584, type: 2}
+  - {fileID: 2100000, guid: 19e07cd5210e9794b986586f016d027d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -20511,7 +20511,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: d2d8b31a69f56074cace55fd302353fb, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 085eaef8e27054043b414f934aaf2fe6, type: 2}
   initialSkinName: S1_glassesraise_bikini
   initialFlipX: 0
   initialFlipY: 0
@@ -20552,7 +20552,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 7aa318ce7de604447ac733771a156584, type: 2}
+  - {fileID: 2100000, guid: 19e07cd5210e9794b986586f016d027d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -20829,8 +20829,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 897b9c1f0083edb4b9fcdd385eb9c5f8, type: 2}
-  initialSkinName: s1_selifekiss_pants00
+  skeletonDataAsset: {fileID: 11400000, guid: 6e00ffce4beeb2944ba4fde1fdbd8373, type: 2}
+  initialSkinName: S1_selifekiss_pants00
   initialFlipX: 0
   initialFlipY: 0
   separatorSlotNames: []
@@ -20870,7 +20870,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3eb15dee054b97b4a9d885ef70e2133f, type: 2}
+  - {fileID: 2100000, guid: cab2ec693cf8b07459a43a116c09ee72, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -20998,7 +20998,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: cb0735b955e990e4fae631f848e9e5a6, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 9523390c7b9b3544a91ecae4965f8b68, type: 2}
   initialSkinName: S1_drink_snorkulling
   initialFlipX: 0
   initialFlipY: 0
@@ -21039,7 +21039,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ec2732faa3a0ed44b8d5efa1286ae68f, type: 2}
+  - {fileID: 2100000, guid: 0c39d09a9a5de5340baeb252b40a1a4b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -21420,7 +21420,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 463210814}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1962.8, y: -817.8, z: 0}
+  m_LocalPosition: {x: -1366, y: -961, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2060934829}
@@ -21438,8 +21438,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 897b9c1f0083edb4b9fcdd385eb9c5f8, type: 2}
-  initialSkinName: s1_tong_apron
+  skeletonDataAsset: {fileID: 11400000, guid: 6e00ffce4beeb2944ba4fde1fdbd8373, type: 2}
+  initialSkinName: S1_tong_apron
   initialFlipX: 0
   initialFlipY: 0
   separatorSlotNames: []
@@ -21479,7 +21479,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3eb15dee054b97b4a9d885ef70e2133f, type: 2}
+  - {fileID: 2100000, guid: cab2ec693cf8b07459a43a116c09ee72, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -22064,7 +22064,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 6cdd88ca66cab3c409906d3aaff93a85, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: c052f82ee3d66b745998a4b143543957, type: 2}
   initialSkinName: S1_nod_pants
   initialFlipX: 0
   initialFlipY: 0
@@ -22105,7 +22105,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 8234e0cab676ea44683e63171c96e557, type: 2}
+  - {fileID: 2100000, guid: 0fd9ed15a96c9224fa6520ca2fc27abb, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -22806,7 +22806,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: cb0735b955e990e4fae631f848e9e5a6, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 9523390c7b9b3544a91ecae4965f8b68, type: 2}
   initialSkinName: S1_seaweed_pant
   initialFlipX: 0
   initialFlipY: 0
@@ -22847,7 +22847,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ec2732faa3a0ed44b8d5efa1286ae68f, type: 2}
+  - {fileID: 2100000, guid: 0c39d09a9a5de5340baeb252b40a1a4b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -23033,7 +23033,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 8d9a4349f3b792f47859ce686af06b2e, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 5148a3a0a4f8c2344a913cb02b81f88c, type: 2}
   initialSkinName: S1_sandtouch_overalls
   initialFlipX: 0
   initialFlipY: 0
@@ -23074,7 +23074,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d01d478b11c10d1439405b8783b93c44, type: 2}
+  - {fileID: 2100000, guid: 4c9a70be349bb1a45aa68398f4690c9c, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -23635,7 +23635,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 1638ab047bd915646bb4c0403f2fed32, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 16f028ff143db6c4daa39b67c88b7883, type: 2}
   initialSkinName: S1_tube_pants
   initialFlipX: 0
   initialFlipY: 0
@@ -23676,7 +23676,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 92ffaa20d777cb747aa5031b9cb97a5f, type: 2}
+  - {fileID: 2100000, guid: 47c419b377a328747aa17193ffc018d1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -24540,7 +24540,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 4d52c18603d24b04aa4c823ce81ca1b9, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 82b706149e98d164f81ea8033e1af682, type: 2}
   initialSkinName: S1_drink_tube
   initialFlipX: 0
   initialFlipY: 0
@@ -24581,7 +24581,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d676a951a5901784284845ec26f81318, type: 2}
+  - {fileID: 2100000, guid: faf23c9ef82cdba43a1f379c9e82a5fa, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -25607,7 +25607,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: b4d3a63749e756e4fbfac53059e0c365, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 6b8f6d51fe8abec43acfa3922b04616b, type: 2}
   initialSkinName: S1_walk1_onepiece
   initialFlipX: 0
   initialFlipY: 0
@@ -25648,7 +25648,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: bf597f454c7726c4ca75081f591d7192, type: 2}
+  - {fileID: 2100000, guid: 6c139f20f24acff449bf38f8cde627dc, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -26895,7 +26895,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 614249435}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -445, y: 116, z: 0}
+  m_LocalPosition: {x: -409.4, y: 214.6, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 356830007}
@@ -27257,7 +27257,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: cc1e72a5bb53e6d499fc42675d001853, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 6655e4cc2fa9953468c6cae682a7a8cf, type: 2}
   initialSkinName: S1_pointDowm_pants
   initialFlipX: 0
   initialFlipY: 0
@@ -27298,7 +27298,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 741a920e32b843245a6ad102e655d46d, type: 2}
+  - {fileID: 2100000, guid: 6bc31d0b09a119d4d9580ad24a486736, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -28063,7 +28063,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 4d52c18603d24b04aa4c823ce81ca1b9, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 82b706149e98d164f81ea8033e1af682, type: 2}
   initialSkinName: S1_swing_leaf
   initialFlipX: 0
   initialFlipY: 0
@@ -28104,7 +28104,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d676a951a5901784284845ec26f81318, type: 2}
+  - {fileID: 2100000, guid: faf23c9ef82cdba43a1f379c9e82a5fa, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -28340,7 +28340,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 15a47a61b6371fa429b45cc5b4e13005, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: a741cb12c02dfbd469b85ba5835fb8bb, type: 2}
   initialSkinName: S1_sitback_onepiece
   initialFlipX: 0
   initialFlipY: 0
@@ -28381,7 +28381,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 26db8d3dc6d6c1f469137e4ce7e0c238, type: 2}
+  - {fileID: 2100000, guid: c2515b713ee4e734998e64b0e4be2610, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -28766,7 +28766,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 4d52c18603d24b04aa4c823ce81ca1b9, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 82b706149e98d164f81ea8033e1af682, type: 2}
   initialSkinName: S1_jump_tubeV
   initialFlipX: 0
   initialFlipY: 0
@@ -28807,7 +28807,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d676a951a5901784284845ec26f81318, type: 2}
+  - {fileID: 2100000, guid: faf23c9ef82cdba43a1f379c9e82a5fa, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -29969,7 +29969,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: cc1e72a5bb53e6d499fc42675d001853, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 6655e4cc2fa9953468c6cae682a7a8cf, type: 2}
   initialSkinName: S1_badMood_bikini2
   initialFlipX: 0
   initialFlipY: 0
@@ -30010,7 +30010,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 741a920e32b843245a6ad102e655d46d, type: 2}
+  - {fileID: 2100000, guid: 6bc31d0b09a119d4d9580ad24a486736, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -30147,7 +30147,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 1638ab047bd915646bb4c0403f2fed32, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 16f028ff143db6c4daa39b67c88b7883, type: 2}
   initialSkinName: S1_laugh_pants
   initialFlipX: 0
   initialFlipY: 0
@@ -30188,7 +30188,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 92ffaa20d777cb747aa5031b9cb97a5f, type: 2}
+  - {fileID: 2100000, guid: 47c419b377a328747aa17193ffc018d1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -30438,8 +30438,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 87e980f94e27082478190fd8720ef1ac, type: 2}
-  initialSkinName: s1_drawing_hoodie
+  skeletonDataAsset: {fileID: 11400000, guid: e3ff92df90b4261408df7834af4a8984, type: 2}
+  initialSkinName: S1_drawing_hoodie
   initialFlipX: 0
   initialFlipY: 0
   separatorSlotNames: []
@@ -30479,7 +30479,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d084a4b341ee70a4b8d59c73732fce21, type: 2}
+  - {fileID: 2100000, guid: 932211ffb1c56474fba3a025fae801f6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -30748,7 +30748,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 86fb6b7805451ea42b7b4b68329c3d79, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: ee933b79b0d75634a852d0b198cef861, type: 2}
   initialSkinName: S1_pump_pants
   initialFlipX: 0
   initialFlipY: 0
@@ -30789,7 +30789,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: cda922662577b904d889eec9ed2504d3, type: 2}
+  - {fileID: 2100000, guid: 530aeb5907be0e74bb39d88e45230480, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -31808,7 +31808,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 4d52c18603d24b04aa4c823ce81ca1b9, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 82b706149e98d164f81ea8033e1af682, type: 2}
   initialSkinName: S1_delicious_pants
   initialFlipX: 0
   initialFlipY: 0
@@ -31849,7 +31849,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d676a951a5901784284845ec26f81318, type: 2}
+  - {fileID: 2100000, guid: faf23c9ef82cdba43a1f379c9e82a5fa, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -32524,7 +32524,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 5c0471cdd9b2ecf448eb5c0c6fb016b1, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 1c7f75668b353604eb801cd9ed5dad28, type: 2}
   initialSkinName: S1_sittingCup_onepiece
   initialFlipX: 0
   initialFlipY: 0
@@ -32565,7 +32565,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 330a06253738e3f44861a18fc9ec6ffa, type: 2}
+  - {fileID: 2100000, guid: 42c13d752bb623b4284dab85eeee9543, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -32694,7 +32694,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: cc1e72a5bb53e6d499fc42675d001853, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 6655e4cc2fa9953468c6cae682a7a8cf, type: 2}
   initialSkinName: S1_boardMan_bodysuit
   initialFlipX: 0
   initialFlipY: 0
@@ -32735,7 +32735,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 741a920e32b843245a6ad102e655d46d, type: 2}
+  - {fileID: 2100000, guid: 6bc31d0b09a119d4d9580ad24a486736, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -33149,7 +33149,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: f43e9b149cac9f04198abf33ce9e69a5, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 3f3c514ec901a8947bc28ab9c160efbc, type: 2}
   initialSkinName: S1_selfie1_pants03
   initialFlipX: 0
   initialFlipY: 0
@@ -33190,7 +33190,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: afab8510709a57a4dacf71a6f2356452, type: 2}
+  - {fileID: 2100000, guid: 53d5fbecbe695724aa3c1a78d59400b6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -33436,7 +33436,7 @@ GameObject:
   - component: {fileID: 754888599}
   - component: {fileID: 754888600}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: Anchor_pub_lieonchair (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -33588,7 +33588,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 755770053}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2658.0999, y: -853.00006, z: 0}
+  m_LocalPosition: {x: -1565, y: -1065, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1194991854}
@@ -34153,7 +34153,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 7c19deba5c20ad94b9e7dd25aa851f5a, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: de7e7837960ff5f4fa45b57b5e7ee933, type: 2}
   initialSkinName: S1_headtouch_pants
   initialFlipX: 0
   initialFlipY: 0
@@ -34194,7 +34194,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 2d24fb3b3b5748a4fb154333ca5a82da, type: 2}
+  - {fileID: 2100000, guid: db4bddd7206f04c418b72c97c16b6b04, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -34323,7 +34323,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: f43e9b149cac9f04198abf33ce9e69a5, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 3f3c514ec901a8947bc28ab9c160efbc, type: 2}
   initialSkinName: S1_selfie2_pants01
   initialFlipX: 0
   initialFlipY: 0
@@ -34364,7 +34364,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: afab8510709a57a4dacf71a6f2356452, type: 2}
+  - {fileID: 2100000, guid: 53d5fbecbe695724aa3c1a78d59400b6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -34728,7 +34728,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: a381eb157841cfe47ae4a02189136627, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 9de564ad42b4e2c48ae465a8010050fa, type: 2}
   initialSkinName: S1_sandtouch_swimsuit
   initialFlipX: 0
   initialFlipY: 0
@@ -34769,7 +34769,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 5a39ab943b6b57b4ba3d08314c6c7acf, type: 2}
+  - {fileID: 2100000, guid: d91cf5c7bfbdb3d4592a6d6754f08743, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -35197,7 +35197,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: cb0735b955e990e4fae631f848e9e5a6, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 9523390c7b9b3544a91ecae4965f8b68, type: 2}
   initialSkinName: S1_seaweed_pant
   initialFlipX: 0
   initialFlipY: 0
@@ -35238,7 +35238,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ec2732faa3a0ed44b8d5efa1286ae68f, type: 2}
+  - {fileID: 2100000, guid: 0c39d09a9a5de5340baeb252b40a1a4b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -35913,7 +35913,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: d7c8a5e5018a04943b7d60d2b0e6181f, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 8411daa5c0c15004e96976fcbf3369fd, type: 2}
   initialSkinName: s1_jump_net
   initialFlipX: 0
   initialFlipY: 0
@@ -35954,7 +35954,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 2d9ec58a0ea259742b5cbe0bfa3c3f20, type: 2}
+  - {fileID: 2100000, guid: 42817d144d3a05548865a0e881cc3ac6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -36608,8 +36608,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 897b9c1f0083edb4b9fcdd385eb9c5f8, type: 2}
-  initialSkinName: s1_suncream_onepiece
+  skeletonDataAsset: {fileID: 11400000, guid: 6e00ffce4beeb2944ba4fde1fdbd8373, type: 2}
+  initialSkinName: S1_suncream_onepiece
   initialFlipX: 0
   initialFlipY: 0
   separatorSlotNames: []
@@ -36649,7 +36649,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3eb15dee054b97b4a9d885ef70e2133f, type: 2}
+  - {fileID: 2100000, guid: cab2ec693cf8b07459a43a116c09ee72, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -37247,7 +37247,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: e7468ba1dd395ad46a84363278777921, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: a5f58b23d0c437b47b07ec74129df531, type: 2}
   initialSkinName: S1_buriedSand
   initialFlipX: 0
   initialFlipY: 0
@@ -37288,7 +37288,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: c86358cfa3cebad4cb10f226116bce4f, type: 2}
+  - {fileID: 2100000, guid: 7ad883da21da15643905269185b13b0b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -38340,7 +38340,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 1638ab047bd915646bb4c0403f2fed32, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 16f028ff143db6c4daa39b67c88b7883, type: 2}
   initialSkinName: S1_look_lifeJacket
   initialFlipX: 0
   initialFlipY: 0
@@ -38381,7 +38381,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 92ffaa20d777cb747aa5031b9cb97a5f, type: 2}
+  - {fileID: 2100000, guid: 47c419b377a328747aa17193ffc018d1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -39175,7 +39175,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 096ac93facf23694c9b11715b178d2b2, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: cbadfd61c637db24a9253fdcdd0358ea, type: 2}
   initialSkinName: S1_tube_race
   initialFlipX: 0
   initialFlipY: 0
@@ -39216,7 +39216,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 56e053f2c5d563d4bbe68dbb80560199, type: 2}
+  - {fileID: 2100000, guid: 5fd29d3ad727c174d8fb21da026ddcde, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -41166,7 +41166,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: d2d8b31a69f56074cace55fd302353fb, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 085eaef8e27054043b414f934aaf2fe6, type: 2}
   initialSkinName: S1_sleep_apron
   initialFlipX: 0
   initialFlipY: 0
@@ -41207,7 +41207,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 7aa318ce7de604447ac733771a156584, type: 2}
+  - {fileID: 2100000, guid: 19e07cd5210e9794b986586f016d027d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -41959,7 +41959,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 972901126}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2852, y: -1309, z: 0}
+  m_LocalPosition: {x: -1802, y: -1217, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2060934829}
@@ -41977,7 +41977,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 1638ab047bd915646bb4c0403f2fed32, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 16f028ff143db6c4daa39b67c88b7883, type: 2}
   initialSkinName: S1_music_shirts
   initialFlipX: 0
   initialFlipY: 0
@@ -42018,7 +42018,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 92ffaa20d777cb747aa5031b9cb97a5f, type: 2}
+  - {fileID: 2100000, guid: 47c419b377a328747aa17193ffc018d1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -42965,7 +42965,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 86fb6b7805451ea42b7b4b68329c3d79, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: ee933b79b0d75634a852d0b198cef861, type: 2}
   initialSkinName: S1_volleyball_bikine02
   initialFlipX: 0
   initialFlipY: 0
@@ -43006,7 +43006,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: cda922662577b904d889eec9ed2504d3, type: 2}
+  - {fileID: 2100000, guid: 530aeb5907be0e74bb39d88e45230480, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -44286,7 +44286,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 1638ab047bd915646bb4c0403f2fed32, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 16f028ff143db6c4daa39b67c88b7883, type: 2}
   initialSkinName: S1_ukulele_leafSkirt02
   initialFlipX: 0
   initialFlipY: 0
@@ -44327,7 +44327,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 92ffaa20d777cb747aa5031b9cb97a5f, type: 2}
+  - {fileID: 2100000, guid: 47c419b377a328747aa17193ffc018d1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -44726,7 +44726,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: cc1e72a5bb53e6d499fc42675d001853, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 6655e4cc2fa9953468c6cae682a7a8cf, type: 2}
   initialSkinName: S1_badMood_bikini1
   initialFlipX: 0
   initialFlipY: 0
@@ -44767,7 +44767,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 741a920e32b843245a6ad102e655d46d, type: 2}
+  - {fileID: 2100000, guid: 6bc31d0b09a119d4d9580ad24a486736, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -44845,7 +44845,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 1638ab047bd915646bb4c0403f2fed32, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 16f028ff143db6c4daa39b67c88b7883, type: 2}
   initialSkinName: S1_ukulele_leafSkirt01
   initialFlipX: 0
   initialFlipY: 0
@@ -44886,7 +44886,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 92ffaa20d777cb747aa5031b9cb97a5f, type: 2}
+  - {fileID: 2100000, guid: 47c419b377a328747aa17193ffc018d1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -45014,7 +45014,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 920ac7032b9b1a546b1077b38a0599c4, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 406db28560d7888408a03c2c0f87ee2c, type: 2}
   initialSkinName: S1_readbook_lov
   initialFlipX: 0
   initialFlipY: 0
@@ -45055,7 +45055,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d51653787aca8a34e86197369ea1fc2c, type: 2}
+  - {fileID: 2100000, guid: dfa3a019f0ff37b468b820136cc86f9b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -45476,7 +45476,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 4d52c18603d24b04aa4c823ce81ca1b9, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 82b706149e98d164f81ea8033e1af682, type: 2}
   initialSkinName: S1_chat_onepiece
   initialFlipX: 0
   initialFlipY: 0
@@ -45517,7 +45517,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d676a951a5901784284845ec26f81318, type: 2}
+  - {fileID: 2100000, guid: faf23c9ef82cdba43a1f379c9e82a5fa, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -45890,7 +45890,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 094b6f8cfc781204fbd25ddd96c93989, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: c07cc1851a1867e4cbb793390dc88f99, type: 2}
   initialSkinName: S1_walkback2_tube
   initialFlipX: 0
   initialFlipY: 0
@@ -45931,7 +45931,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3c2c0004a361fbf489e7a4d245ac2144, type: 2}
+  - {fileID: 2100000, guid: 9c4828cdc5ab2fe4cb6613a3111f2421, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -46165,7 +46165,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 86fb6b7805451ea42b7b4b68329c3d79, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: ee933b79b0d75634a852d0b198cef861, type: 2}
   initialSkinName: S1_pump_pants
   initialFlipX: 0
   initialFlipY: 0
@@ -46206,7 +46206,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: cda922662577b904d889eec9ed2504d3, type: 2}
+  - {fileID: 2100000, guid: 530aeb5907be0e74bb39d88e45230480, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -46803,7 +46803,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 4056830b98fa99148b07d80902259ede, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 50851c3baea1bd844a954a7f661d07bf, type: 2}
   initialSkinName: S1_whistle_rescue
   initialFlipX: 0
   initialFlipY: 0
@@ -46844,7 +46844,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 9c46a85bcd92e644e91be94fdce5be4f, type: 2}
+  - {fileID: 2100000, guid: 751a18256cf888949b81eb489d7e9d26, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -47192,7 +47192,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 7c19deba5c20ad94b9e7dd25aa851f5a, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: de7e7837960ff5f4fa45b57b5e7ee933, type: 2}
   initialSkinName: S1_shower
   initialFlipX: 0
   initialFlipY: 0
@@ -47233,7 +47233,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 2d24fb3b3b5748a4fb154333ca5a82da, type: 2}
+  - {fileID: 2100000, guid: db4bddd7206f04c418b72c97c16b6b04, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -47362,7 +47362,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 5c0471cdd9b2ecf448eb5c0c6fb016b1, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 1c7f75668b353604eb801cd9ed5dad28, type: 2}
   initialSkinName: S1_fishing_pants
   initialFlipX: 0
   initialFlipY: 0
@@ -47403,7 +47403,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 330a06253738e3f44861a18fc9ec6ffa, type: 2}
+  - {fileID: 2100000, guid: 42c13d752bb623b4284dab85eeee9543, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -47467,7 +47467,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 15a47a61b6371fa429b45cc5b4e13005, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: a741cb12c02dfbd469b85ba5835fb8bb, type: 2}
   initialSkinName: S1_sitback_tshirt
   initialFlipX: 0
   initialFlipY: 0
@@ -47508,7 +47508,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 26db8d3dc6d6c1f469137e4ce7e0c238, type: 2}
+  - {fileID: 2100000, guid: c2515b713ee4e734998e64b0e4be2610, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -49683,7 +49683,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: dccbbbbde0dbd6b4bb01bd19cab1bcc6, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 41f851b34b0df0f4bbb0f277fb1cb423, type: 2}
   initialSkinName: S1_hammerdance_pants
   initialFlipX: 0
   initialFlipY: 0
@@ -49724,7 +49724,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 759cedeeae27153458f8804caf0eb8a1, type: 2}
+  - {fileID: 2100000, guid: 4ebccbf6fb4fd424695a45886abe3a61, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -50057,7 +50057,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 8d9a4349f3b792f47859ce686af06b2e, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 5148a3a0a4f8c2344a913cb02b81f88c, type: 2}
   initialSkinName: S1_curious_lace
   initialFlipX: 0
   initialFlipY: 0
@@ -50098,7 +50098,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d01d478b11c10d1439405b8783b93c44, type: 2}
+  - {fileID: 2100000, guid: 4c9a70be349bb1a45aa68398f4690c9c, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -50997,7 +50997,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: ee18c6c2810b08d4582bb02d66ab545c, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 2cc9233c37f42f148991126ca231a55c, type: 2}
   initialSkinName: S1_book_bikini
   initialFlipX: 0
   initialFlipY: 0
@@ -51038,7 +51038,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ab90de2310beae44384bdb32598d7aa2, type: 2}
+  - {fileID: 2100000, guid: 6741e4b08be1669429a2ae400f4a1e26, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -52576,7 +52576,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: cc1e72a5bb53e6d499fc42675d001853, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 6655e4cc2fa9953468c6cae682a7a8cf, type: 2}
   initialSkinName: S1_cooking_apron
   initialFlipX: 0
   initialFlipY: 0
@@ -52617,7 +52617,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 741a920e32b843245a6ad102e655d46d, type: 2}
+  - {fileID: 2100000, guid: 6bc31d0b09a119d4d9580ad24a486736, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -53233,7 +53233,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 094b6f8cfc781204fbd25ddd96c93989, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: c07cc1851a1867e4cbb793390dc88f99, type: 2}
   initialSkinName: S1_walkback1_onepiece
   initialFlipX: 0
   initialFlipY: 0
@@ -53274,7 +53274,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3c2c0004a361fbf489e7a4d245ac2144, type: 2}
+  - {fileID: 2100000, guid: 9c4828cdc5ab2fe4cb6613a3111f2421, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -53498,8 +53498,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 897b9c1f0083edb4b9fcdd385eb9c5f8, type: 2}
-  initialSkinName: s1_point_onepiece
+  skeletonDataAsset: {fileID: 11400000, guid: 6e00ffce4beeb2944ba4fde1fdbd8373, type: 2}
+  initialSkinName: S1_point_onepiece
   initialFlipX: 0
   initialFlipY: 0
   separatorSlotNames: []
@@ -53539,7 +53539,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3eb15dee054b97b4a9d885ef70e2133f, type: 2}
+  - {fileID: 2100000, guid: cab2ec693cf8b07459a43a116c09ee72, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -54287,7 +54287,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 4056830b98fa99148b07d80902259ede, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 50851c3baea1bd844a954a7f661d07bf, type: 2}
   initialSkinName: S1_eatIcecream_basketballT
   initialFlipX: 0
   initialFlipY: 0
@@ -54328,7 +54328,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 9c46a85bcd92e644e91be94fdce5be4f, type: 2}
+  - {fileID: 2100000, guid: 751a18256cf888949b81eb489d7e9d26, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -54365,7 +54365,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1225214628}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2500, y: -1020, z: 0}
+  m_LocalPosition: {x: -1563, y: -1058, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2060934829}
@@ -54703,7 +54703,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: cc1e72a5bb53e6d499fc42675d001853, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 6655e4cc2fa9953468c6cae682a7a8cf, type: 2}
   initialSkinName: S1_boardWoman_bikini1
   initialFlipX: 0
   initialFlipY: 0
@@ -54744,7 +54744,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 741a920e32b843245a6ad102e655d46d, type: 2}
+  - {fileID: 2100000, guid: 6bc31d0b09a119d4d9580ad24a486736, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -55270,7 +55270,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 4d52c18603d24b04aa4c823ce81ca1b9, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 82b706149e98d164f81ea8033e1af682, type: 2}
   initialSkinName: S1_drink_tube
   initialFlipX: 0
   initialFlipY: 0
@@ -55311,7 +55311,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d676a951a5901784284845ec26f81318, type: 2}
+  - {fileID: 2100000, guid: faf23c9ef82cdba43a1f379c9e82a5fa, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -55439,7 +55439,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 1303ba8b8c19c274591b2878bdc1fba4, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: aeb08d5beb1577f4e8bc2914a03c7487, type: 2}
   initialSkinName: S1_sunburn_bikini
   initialFlipX: 0
   initialFlipY: 0
@@ -55480,7 +55480,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 4941a6a633f3bd244add0a207b3f51fd, type: 2}
+  - {fileID: 2100000, guid: 534e787716400a24081c02e0afbc7471, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -57158,7 +57158,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 096ac93facf23694c9b11715b178d2b2, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: cbadfd61c637db24a9253fdcdd0358ea, type: 2}
   initialSkinName: S1_tube_line
   initialFlipX: 0
   initialFlipY: 0
@@ -57199,7 +57199,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 56e053f2c5d563d4bbe68dbb80560199, type: 2}
+  - {fileID: 2100000, guid: 5fd29d3ad727c174d8fb21da026ddcde, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -58043,7 +58043,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 8df760eda72b8d047bfaec976e484462, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 4a44af7f600eaf647b397357d72a7646, type: 2}
   initialSkinName: S1_snorkleling
   initialFlipX: 0
   initialFlipY: 0
@@ -58084,7 +58084,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 311824457d4c7d248a2fdf7a055e00fa, type: 2}
+  - {fileID: 2100000, guid: c86a4d9de41128343827af2f16cae274, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -58361,7 +58361,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: c24a0f3dd0e63f44585514805624d978, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: f5f3d6e21141f174ba988b043a96c6eb, type: 2}
   initialSkinName: S1_warmup_panty
   initialFlipX: 0
   initialFlipY: 0
@@ -58402,7 +58402,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 49c036bb8369cb44388c64c0ab18998b, type: 2}
+  - {fileID: 2100000, guid: 407f1dad6055a2d40ab63240ff7d2ce3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -60193,7 +60193,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: a8528146449d63a42837e4429c2d3d37, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 4cd9a69782ca4d6489da2c2f4321bdec, type: 2}
   initialSkinName: S1_surf_bikini
   initialFlipX: 0
   initialFlipY: 0
@@ -60234,7 +60234,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3cec46a94f2127a4d81f3f671dec63c9, type: 2}
+  - {fileID: 2100000, guid: ad393df04ea6ab94990badd50fbbc863, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -60312,7 +60312,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 920ac7032b9b1a546b1077b38a0599c4, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 406db28560d7888408a03c2c0f87ee2c, type: 2}
   initialSkinName: S1_drink_raglan
   initialFlipX: 0
   initialFlipY: 0
@@ -60353,7 +60353,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d51653787aca8a34e86197369ea1fc2c, type: 2}
+  - {fileID: 2100000, guid: dfa3a019f0ff37b468b820136cc86f9b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -61721,7 +61721,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 959d38e16aa9f3d40b54a602f62d164b, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: b613e2a1558c4564aa04a4e85387e005, type: 2}
   initialSkinName: S1_skewer_lov
   initialFlipX: 0
   initialFlipY: 0
@@ -61762,7 +61762,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 652e1f66e276be1458a34d7106cce477, type: 2}
+  - {fileID: 2100000, guid: b4280897dec330a4e82ae011bb5b1278, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -62314,7 +62314,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 357b9b1a882c6d6428369666065038cf, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: e28532efbaa948e4cb7295605e69b54e, type: 2}
   initialSkinName: S1_makeSkert_seaweed
   initialFlipX: 0
   initialFlipY: 0
@@ -62355,7 +62355,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e6486c7e3caf9ef4eb93963a98db3c6f, type: 2}
+  - {fileID: 2100000, guid: 7c54ab31f34290f4eb2918c17aaaafe5, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -62790,7 +62790,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 1638ab047bd915646bb4c0403f2fed32, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 16f028ff143db6c4daa39b67c88b7883, type: 2}
   initialSkinName: S1_music_shirts
   initialFlipX: 0
   initialFlipY: 0
@@ -62831,7 +62831,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 92ffaa20d777cb747aa5031b9cb97a5f, type: 2}
+  - {fileID: 2100000, guid: 47c419b377a328747aa17193ffc018d1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -64246,7 +64246,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 094b6f8cfc781204fbd25ddd96c93989, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: c07cc1851a1867e4cbb793390dc88f99, type: 2}
   initialSkinName: S1_runback
   initialFlipX: 0
   initialFlipY: 0
@@ -64287,7 +64287,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3c2c0004a361fbf489e7a4d245ac2144, type: 2}
+  - {fileID: 2100000, guid: 9c4828cdc5ab2fe4cb6613a3111f2421, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -64561,7 +64561,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 4d52c18603d24b04aa4c823ce81ca1b9, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 82b706149e98d164f81ea8033e1af682, type: 2}
   initialSkinName: S1_droptube_bikini
   initialFlipX: 0
   initialFlipY: 0
@@ -64602,7 +64602,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d676a951a5901784284845ec26f81318, type: 2}
+  - {fileID: 2100000, guid: faf23c9ef82cdba43a1f379c9e82a5fa, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -65210,7 +65210,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: d2d8b31a69f56074cace55fd302353fb, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 085eaef8e27054043b414f934aaf2fe6, type: 2}
   initialSkinName: S1_scratchhead_trouser
   initialFlipX: 0
   initialFlipY: 0
@@ -65251,7 +65251,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 7aa318ce7de604447ac733771a156584, type: 2}
+  - {fileID: 2100000, guid: 19e07cd5210e9794b986586f016d027d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -68291,7 +68291,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 959d38e16aa9f3d40b54a602f62d164b, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: b613e2a1558c4564aa04a4e85387e005, type: 2}
   initialSkinName: S1_skewer_lov
   initialFlipX: 0
   initialFlipY: 0
@@ -68332,7 +68332,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 652e1f66e276be1458a34d7106cce477, type: 2}
+  - {fileID: 2100000, guid: b4280897dec330a4e82ae011bb5b1278, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -68396,7 +68396,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: cb0735b955e990e4fae631f848e9e5a6, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 9523390c7b9b3544a91ecae4965f8b68, type: 2}
   initialSkinName: S1_icecream_pant
   initialFlipX: 0
   initialFlipY: 0
@@ -68437,7 +68437,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ec2732faa3a0ed44b8d5efa1286ae68f, type: 2}
+  - {fileID: 2100000, guid: 0c39d09a9a5de5340baeb252b40a1a4b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -68840,7 +68840,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 921a013b8a9eaaf4c8e76dd9b95bac8c, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: b576ed4a3889a474ba51bfc1eea3d6f9, type: 2}
   initialSkinName: S1_lieBackview02_towel
   initialFlipX: 0
   initialFlipY: 0
@@ -68881,7 +68881,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 26e4697353dd81c40ad8f88fa45bf86f, type: 2}
+  - {fileID: 2100000, guid: d948eec73118139459ebf12dd8f56dc6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -69086,7 +69086,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: b144ec656f1ad704a86a113f34d4470e, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 3ad7da9259cf06941bfe765fd1cac713, type: 2}
   initialSkinName: S1_spade_pants
   initialFlipX: 0
   initialFlipY: 0
@@ -69127,7 +69127,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: f1ddf7b574676f44484e6529bd3bad6e, type: 2}
+  - {fileID: 2100000, guid: 76d5a5fc3ea22db4c8d694027628c540, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -70535,7 +70535,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: cc1e72a5bb53e6d499fc42675d001853, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 6655e4cc2fa9953468c6cae682a7a8cf, type: 2}
   initialSkinName: S1_iceCreamParttime_uniform
   initialFlipX: 0
   initialFlipY: 0
@@ -70576,7 +70576,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 741a920e32b843245a6ad102e655d46d, type: 2}
+  - {fileID: 2100000, guid: 6bc31d0b09a119d4d9580ad24a486736, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -70654,7 +70654,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 1638ab047bd915646bb4c0403f2fed32, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 16f028ff143db6c4daa39b67c88b7883, type: 2}
   initialSkinName: S1_tube_swimsuit
   initialFlipX: 0
   initialFlipY: 0
@@ -70695,7 +70695,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 92ffaa20d777cb747aa5031b9cb97a5f, type: 2}
+  - {fileID: 2100000, guid: 47c419b377a328747aa17193ffc018d1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -70896,7 +70896,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 4056830b98fa99148b07d80902259ede, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 50851c3baea1bd844a954a7f661d07bf, type: 2}
   initialSkinName: S1_drink_swimwear
   initialFlipX: 0
   initialFlipY: 0
@@ -70937,7 +70937,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 9c46a85bcd92e644e91be94fdce5be4f, type: 2}
+  - {fileID: 2100000, guid: 751a18256cf888949b81eb489d7e9d26, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -71079,7 +71079,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 4056830b98fa99148b07d80902259ede, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 50851c3baea1bd844a954a7f661d07bf, type: 2}
   initialSkinName: S1_eatSkewer_overall
   initialFlipX: 0
   initialFlipY: 0
@@ -71120,7 +71120,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 9c46a85bcd92e644e91be94fdce5be4f, type: 2}
+  - {fileID: 2100000, guid: 751a18256cf888949b81eb489d7e9d26, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -71157,7 +71157,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1706184616}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1622, y: -853, z: 0}
+  m_LocalPosition: {x: -1136, y: -948, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2060934829}
@@ -71767,8 +71767,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 7c19deba5c20ad94b9e7dd25aa851f5a, type: 2}
-  initialSkinName: S1_MonAndKid_onepiece
+  skeletonDataAsset: {fileID: 11400000, guid: de7e7837960ff5f4fa45b57b5e7ee933, type: 2}
+  initialSkinName: S1_monAndKid_onepiece
   initialFlipX: 0
   initialFlipY: 0
   separatorSlotNames: []
@@ -71808,7 +71808,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 2d24fb3b3b5748a4fb154333ca5a82da, type: 2}
+  - {fileID: 2100000, guid: db4bddd7206f04c418b72c97c16b6b04, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -72193,7 +72193,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 959d38e16aa9f3d40b54a602f62d164b, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: b613e2a1558c4564aa04a4e85387e005, type: 2}
   initialSkinName: S1_drink_swimsuit
   initialFlipX: 0
   initialFlipY: 0
@@ -72234,7 +72234,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 652e1f66e276be1458a34d7106cce477, type: 2}
+  - {fileID: 2100000, guid: b4280897dec330a4e82ae011bb5b1278, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -72770,7 +72770,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 920ac7032b9b1a546b1077b38a0599c4, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 406db28560d7888408a03c2c0f87ee2c, type: 2}
   initialSkinName: S1_drink_skirt
   initialFlipX: 0
   initialFlipY: 0
@@ -72811,7 +72811,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d51653787aca8a34e86197369ea1fc2c, type: 2}
+  - {fileID: 2100000, guid: dfa3a019f0ff37b468b820136cc86f9b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -74548,7 +74548,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: b4d3a63749e756e4fbfac53059e0c365, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 6b8f6d51fe8abec43acfa3922b04616b, type: 2}
   initialSkinName: S1_walk2_tube
   initialFlipX: 0
   initialFlipY: 0
@@ -74589,7 +74589,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: bf597f454c7726c4ca75081f591d7192, type: 2}
+  - {fileID: 2100000, guid: 6c139f20f24acff449bf38f8cde627dc, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -75221,7 +75221,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 4d52c18603d24b04aa4c823ce81ca1b9, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 82b706149e98d164f81ea8033e1af682, type: 2}
   initialSkinName: S1_drink_pants
   initialFlipX: 0
   initialFlipY: 0
@@ -75262,7 +75262,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d676a951a5901784284845ec26f81318, type: 2}
+  - {fileID: 2100000, guid: faf23c9ef82cdba43a1f379c9e82a5fa, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -75488,8 +75488,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 87e980f94e27082478190fd8720ef1ac, type: 2}
-  initialSkinName: s1_clay_onepiece
+  skeletonDataAsset: {fileID: 11400000, guid: e3ff92df90b4261408df7834af4a8984, type: 2}
+  initialSkinName: S1_clay_onepiece
   initialFlipX: 0
   initialFlipY: 0
   separatorSlotNames: []
@@ -75529,7 +75529,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d084a4b341ee70a4b8d59c73732fce21, type: 2}
+  - {fileID: 2100000, guid: 932211ffb1c56474fba3a025fae801f6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -77160,7 +77160,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 5c0471cdd9b2ecf448eb5c0c6fb016b1, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 1c7f75668b353604eb801cd9ed5dad28, type: 2}
   initialSkinName: S1_sittingCup_onepiece
   initialFlipX: 0
   initialFlipY: 0
@@ -77201,7 +77201,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 330a06253738e3f44861a18fc9ec6ffa, type: 2}
+  - {fileID: 2100000, guid: 42c13d752bb623b4284dab85eeee9543, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -77338,7 +77338,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: b144ec656f1ad704a86a113f34d4470e, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 3ad7da9259cf06941bfe765fd1cac713, type: 2}
   initialSkinName: S1_stand_dad
   initialFlipX: 0
   initialFlipY: 0
@@ -77379,7 +77379,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: f1ddf7b574676f44484e6529bd3bad6e, type: 2}
+  - {fileID: 2100000, guid: 76d5a5fc3ea22db4c8d694027628c540, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -77521,7 +77521,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: b144ec656f1ad704a86a113f34d4470e, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 3ad7da9259cf06941bfe765fd1cac713, type: 2}
   initialSkinName: S1_selfie_pants
   initialFlipX: 0
   initialFlipY: 0
@@ -77562,7 +77562,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: f1ddf7b574676f44484e6529bd3bad6e, type: 2}
+  - {fileID: 2100000, guid: 76d5a5fc3ea22db4c8d694027628c540, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -78144,7 +78144,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: d2d8b31a69f56074cace55fd302353fb, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 085eaef8e27054043b414f934aaf2fe6, type: 2}
   initialSkinName: S1_scratchleg_towel
   initialFlipX: 0
   initialFlipY: 0
@@ -78185,7 +78185,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 7aa318ce7de604447ac733771a156584, type: 2}
+  - {fileID: 2100000, guid: 19e07cd5210e9794b986586f016d027d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -78490,7 +78490,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: dccbbbbde0dbd6b4bb01bd19cab1bcc6, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 41f851b34b0df0f4bbb0f277fb1cb423, type: 2}
   initialSkinName: S1_Hawaiidance_onepiece
   initialFlipX: 0
   initialFlipY: 0
@@ -78531,7 +78531,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 759cedeeae27153458f8804caf0eb8a1, type: 2}
+  - {fileID: 2100000, guid: 4ebccbf6fb4fd424695a45886abe3a61, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -80041,7 +80041,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1960485470}
   m_LocalRotation: {x: -0, y: -0, z: -0.38268343, w: 0.92387956}
-  m_LocalPosition: {x: -1663, y: -672, z: 0}
+  m_LocalPosition: {x: -1208, y: -824, z: 0}
   m_LocalScale: {x: -100.000015, y: 100.000015, z: 1}
   m_Children:
   - {fileID: 1426588700}
@@ -80617,7 +80617,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: a381eb157841cfe47ae4a02189136627, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 9de564ad42b4e2c48ae465a8010050fa, type: 2}
   initialSkinName: S1_sandtouch_pants
   initialFlipX: 0
   initialFlipY: 0
@@ -80658,7 +80658,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 5a39ab943b6b57b4ba3d08314c6c7acf, type: 2}
+  - {fileID: 2100000, guid: d91cf5c7bfbdb3d4592a6d6754f08743, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -81245,7 +81245,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: a8528146449d63a42837e4429c2d3d37, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 4cd9a69782ca4d6489da2c2f4321bdec, type: 2}
   initialSkinName: S1_surfingBoard_02
   initialFlipX: 0
   initialFlipY: 0
@@ -81286,7 +81286,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3cec46a94f2127a4d81f3f671dec63c9, type: 2}
+  - {fileID: 2100000, guid: ad393df04ea6ab94990badd50fbbc863, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -82127,7 +82127,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: a8528146449d63a42837e4429c2d3d37, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 4cd9a69782ca4d6489da2c2f4321bdec, type: 2}
   initialSkinName: S1_surffaster_pants
   initialFlipX: 0
   initialFlipY: 0
@@ -82168,7 +82168,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3cec46a94f2127a4d81f3f671dec63c9, type: 2}
+  - {fileID: 2100000, guid: ad393df04ea6ab94990badd50fbbc863, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -82858,7 +82858,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2043588836}
   m_LocalRotation: {x: -0, y: -0, z: -0.38268343, w: 0.92387956}
-  m_LocalPosition: {x: -2352, y: -780, z: 0}
+  m_LocalPosition: {x: -1531, y: -938, z: 0}
   m_LocalScale: {x: -100.000015, y: 100.000015, z: 1}
   m_Children:
   - {fileID: 1606525703}
@@ -84352,7 +84352,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: c24a0f3dd0e63f44585514805624d978, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: f5f3d6e21141f174ba988b043a96c6eb, type: 2}
   initialSkinName: S1_eartouch_panty
   initialFlipX: 0
   initialFlipY: 0
@@ -84393,7 +84393,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 49c036bb8369cb44388c64c0ab18998b, type: 2}
+  - {fileID: 2100000, guid: 407f1dad6055a2d40ab63240ff7d2ce3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -85142,7 +85142,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: e7468ba1dd395ad46a84363278777921, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: a5f58b23d0c437b47b07ec74129df531, type: 2}
   initialSkinName: S1_buriedSand
   initialFlipX: 0
   initialFlipY: 0
@@ -85183,7 +85183,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: c86358cfa3cebad4cb10f226116bce4f, type: 2}
+  - {fileID: 2100000, guid: 7ad883da21da15643905269185b13b0b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -85746,7 +85746,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 959d38e16aa9f3d40b54a602f62d164b, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: b613e2a1558c4564aa04a4e85387e005, type: 2}
   initialSkinName: S1_salad_flowerOnepiece
   initialFlipX: 0
   initialFlipY: 0
@@ -85787,7 +85787,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 652e1f66e276be1458a34d7106cce477, type: 2}
+  - {fileID: 2100000, guid: b4280897dec330a4e82ae011bb5b1278, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -86952,7 +86952,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: f43e9b149cac9f04198abf33ce9e69a5, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 3f3c514ec901a8947bc28ab9c160efbc, type: 2}
   initialSkinName: S1_wood stick_pants02
   initialFlipX: 0
   initialFlipY: 0
@@ -86993,7 +86993,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: afab8510709a57a4dacf71a6f2356452, type: 2}
+  - {fileID: 2100000, guid: 53d5fbecbe695724aa3c1a78d59400b6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

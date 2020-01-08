@@ -1,0 +1,132 @@
+
+pub_kneeBack_S2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+S2_arm_L
+  rotate: false
+  xy: 93, 155
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+S2_foot_L
+  rotate: true
+  xy: 68, 2
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+S2_foot_R
+  rotate: false
+  xy: 87, 2
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+S2_leg_R
+  rotate: false
+  xy: 67, 153
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+S2_pants
+  rotate: true
+  xy: 46, 20
+  size: 54, 21
+  orig: 54, 21
+  offset: 0, 0
+  index: -1
+S2_sleeve_L
+  rotate: false
+  xy: 46, 2
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+S2_top
+  rotate: true
+  xy: 69, 21
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 153
+  size: 63, 101
+  orig: 63, 101
+  offset: 0, 0
+  index: -1
+ear_L
+  rotate: false
+  xy: 117, 212
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+ear_R
+  rotate: false
+  xy: 113, 64
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+first_aid_kit_02/bandage
+  rotate: false
+  xy: 103, 3
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+first_aid_kit_02/box_behind
+  rotate: true
+  xy: 84, 180
+  size: 74, 31
+  orig: 74, 31
+  offset: 0, 0
+  index: -1
+first_aid_kit_02/box_front
+  rotate: true
+  xy: 41, 76
+  size: 75, 37
+  orig: 75, 37
+  offset: 0, 0
+  index: -1
+first_aid_kit_02/box_middle
+  rotate: true
+  xy: 80, 100
+  size: 51, 32
+  orig: 51, 32
+  offset: 0, 0
+  index: -1
+first_aid_kit_02/lid_close
+  rotate: true
+  xy: 2, 74
+  size: 77, 37
+  orig: 77, 37
+  offset: 0, 0
+  index: -1
+first_aid_kit_02/lid_open
+  rotate: true
+  xy: 2, 10
+  size: 62, 42
+  orig: 62, 42
+  offset: 0, 0
+  index: -1
+first_aid_kit_02/pill
+  rotate: false
+  xy: 80, 84
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 67, 179
+  size: 15, 75
+  orig: 15, 75
+  offset: 0, 0
+  index: -1

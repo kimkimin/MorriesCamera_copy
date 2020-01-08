@@ -1,0 +1,447 @@
+
+priv_stand03.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 4
+  rotate: false
+  xy: 265, 567
+  size: 370, 351
+  orig: 370, 351
+  offset: 0, 0
+  index: -1
+armL_mom
+  rotate: false
+  xy: 673, 995
+  size: 45, 25
+  orig: 45, 25
+  offset: 0, 0
+  index: -1
+armL_shop
+  rotate: true
+  xy: 424, 1000
+  size: 20, 58
+  orig: 20, 58
+  offset: 0, 0
+  index: -1
+armL_shower
+  rotate: true
+  xy: 361, 927
+  size: 37, 69
+  orig: 37, 69
+  offset: 0, 0
+  index: -1
+armR_mom
+  rotate: false
+  xy: 611, 996
+  size: 60, 24
+  orig: 60, 24
+  offset: 0, 0
+  index: -1
+armR_shop
+  rotate: false
+  xy: 561, 962
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+armR_shower
+  rotate: false
+  xy: 720, 995
+  size: 61, 25
+  orig: 61, 25
+  offset: 0, 0
+  index: -1
+baby_armL
+  rotate: true
+  xy: 223, 1004
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+baby_armR
+  rotate: true
+  xy: 195, 1005
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+baby_body
+  rotate: true
+  xy: 432, 925
+  size: 37, 57
+  orig: 37, 57
+  offset: 0, 0
+  index: -1
+baby_ear
+  rotate: true
+  xy: 255, 1004
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+baby_eye
+  rotate: false
+  xy: 23, 1015
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+baby_legL
+  rotate: true
+  xy: 41, 1010
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+baby_legR
+  rotate: true
+  xy: 96, 1009
+  size: 11, 22
+  orig: 11, 22
+  offset: 0, 0
+  index: -1
+baby_nose
+  rotate: true
+  xy: 120, 1007
+  size: 13, 50
+  orig: 13, 50
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 831, 898
+  size: 57, 102
+  orig: 57, 102
+  offset: 0, 0
+  index: -1
+bubble
+  rotate: true
+  xy: 285, 1004
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: -1
+ear01
+  rotate: true
+  xy: 146, 971
+  size: 32, 53
+  orig: 32, 53
+  offset: 0, 0
+  index: -1
+ear02
+  rotate: true
+  xy: 310, 930
+  size: 36, 49
+  orig: 36, 49
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: false
+  xy: 2, 1017
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+eye_open
+  rotate: false
+  xy: 9, 1016
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+eye_smile
+  rotate: false
+  xy: 15, 1016
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+grid
+  rotate: false
+  xy: 637, 545
+  size: 370, 351
+  orig: 370, 351
+  offset: 0, 0
+  index: -1
+legL
+  rotate: true
+  xy: 484, 998
+  size: 22, 46
+  orig: 22, 46
+  offset: 0, 0
+  index: -1
+legR
+  rotate: true
+  xy: 532, 998
+  size: 22, 53
+  orig: 22, 53
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: false
+  xy: 31, 1014
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: false
+  xy: 172, 1006
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+nose01
+  rotate: true
+  xy: 601, 920
+  size: 39, 110
+  orig: 39, 110
+  offset: 0, 0
+  index: -1
+nose02
+  rotate: false
+  xy: 491, 923
+  size: 108, 37
+  orig: 108, 37
+  offset: 0, 0
+  index: -1
+onepiece
+  rotate: true
+  xy: 761, 902
+  size: 55, 68
+  orig: 55, 68
+  offset: 0, 0
+  index: -1
+pants
+  rotate: false
+  xy: 884, 992
+  size: 54, 28
+  orig: 54, 28
+  offset: 0, 0
+  index: -1
+shower
+  rotate: true
+  xy: 2, 747
+  size: 186, 261
+  orig: 186, 261
+  offset: 0, 0
+  index: -1
+shower_water_E1
+  rotate: true
+  xy: 721, 960
+  size: 33, 59
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+shower_water_E2
+  rotate: true
+  xy: 972, 990
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+shower_water_E3
+  rotate: true
+  xy: 2, 978
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+shower_water_E4
+  rotate: true
+  xy: 940, 992
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+shower_water_E5
+  rotate: false
+  xy: 394, 1001
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+shower_water_E6
+  rotate: false
+  xy: 68, 1010
+  size: 26, 10
+  orig: 26, 10
+  offset: 0, 0
+  index: -1
+shower_water_loop1
+  rotate: true
+  xy: 201, 970
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+shower_water_loop10
+  rotate: true
+  xy: 499, 964
+  size: 32, 60
+  orig: 32, 60
+  offset: 0, 0
+  index: -1
+shower_water_loop11
+  rotate: true
+  xy: 2, 943
+  size: 33, 60
+  orig: 33, 60
+  offset: 0, 0
+  index: -1
+shower_water_loop12
+  rotate: true
+  xy: 64, 939
+  size: 33, 59
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+shower_water_loop13
+  rotate: true
+  xy: 125, 936
+  size: 33, 60
+  orig: 33, 60
+  offset: 0, 0
+  index: -1
+shower_water_loop14
+  rotate: true
+  xy: 605, 962
+  size: 32, 60
+  orig: 32, 60
+  offset: 0, 0
+  index: -1
+shower_water_loop15
+  rotate: true
+  xy: 187, 935
+  size: 33, 59
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+shower_water_loop2
+  rotate: true
+  xy: 782, 959
+  size: 33, 58
+  orig: 33, 58
+  offset: 0, 0
+  index: -1
+shower_water_loop3
+  rotate: true
+  xy: 842, 957
+  size: 33, 58
+  orig: 33, 58
+  offset: 0, 0
+  index: -1
+shower_water_loop4
+  rotate: true
+  xy: 262, 970
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+shower_water_loop5
+  rotate: true
+  xy: 323, 968
+  size: 32, 58
+  orig: 32, 58
+  offset: 0, 0
+  index: -1
+shower_water_loop6
+  rotate: true
+  xy: 383, 966
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+shower_water_loop7
+  rotate: true
+  xy: 441, 964
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+shower_water_loop8
+  rotate: true
+  xy: 88, 974
+  size: 31, 56
+  orig: 31, 56
+  offset: 0, 0
+  index: -1
+shower_water_loop9
+  rotate: true
+  xy: 902, 957
+  size: 33, 60
+  orig: 33, 60
+  offset: 0, 0
+  index: -1
+shower_water_s
+  rotate: false
+  xy: 587, 998
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+shower_water_s2
+  rotate: false
+  xy: 825, 994
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+shower_water_s3
+  rotate: false
+  xy: 964, 953
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+shower_water_s4
+  rotate: true
+  xy: 43, 978
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+shower_water_s5
+  rotate: true
+  xy: 667, 961
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+shower_water_s6
+  rotate: true
+  xy: 248, 935
+  size: 33, 60
+  orig: 33, 60
+  offset: 0, 0
+  index: -1
+showerball
+  rotate: true
+  xy: 854, 993
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+sunglasses
+  rotate: false
+  xy: 335, 1002
+  size: 57, 18
+  orig: 57, 18
+  offset: 0, 0
+  index: -1
+sweat
+  rotate: true
+  xy: 713, 914
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+tawel
+  rotate: false
+  xy: 783, 995
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,419 @@
+
+pub_sitting_90.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 134, 330
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 81, 304
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 88, 328
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+Jean
+  rotate: true
+  xy: 161, 458
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+L_arm_drink
+  rotate: true
+  xy: 60, 239
+  size: 63, 35
+  orig: 63, 35
+  offset: 0, 0
+  index: -1
+L_arm_poke_Bowl
+  rotate: true
+  xy: 98, 90
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+L_arm_popcorn
+  rotate: true
+  xy: 65, 80
+  size: 50, 31
+  orig: 50, 31
+  offset: 0, 0
+  index: -1
+L_arm_scout_popcorn_S2
+  rotate: true
+  xy: 152, 406
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+L_arm_skewer_normal
+  rotate: true
+  xy: 2, 131
+  size: 70, 38
+  orig: 70, 38
+  offset: 0, 0
+  index: -1
+L_arm_skewer_normal lov
+  rotate: true
+  xy: 86, 437
+  size: 73, 39
+  orig: 73, 39
+  offset: 0, 0
+  index: -1
+L_ear
+  rotate: false
+  xy: 97, 33
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+L_girl_shoe
+  rotate: false
+  xy: 113, 329
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+L_jean
+  rotate: false
+  xy: 163, 52
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 60, 203
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+L_leg_scout_S2
+  rotate: false
+  xy: 102, 157
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+L_shoes_scout_S2
+  rotate: true
+  xy: 108, 4
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+L_slipper_bottom
+  rotate: false
+  xy: 114, 138
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+L_slipper_top_string
+  rotate: false
+  xy: 127, 440
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+Larm_scout_bandage_leg
+  rotate: true
+  xy: 65, 3
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+R_arm_normal
+  rotate: false
+  xy: 135, 39
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+R_arm_popcorn_back
+  rotate: false
+  xy: 31, 304
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+R_arm_popcorn_front
+  rotate: true
+  xy: 86, 406
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+R_arm_scout_popcorn
+  rotate: false
+  xy: 150, 4
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+R_arm_scout_popcorn_back
+  rotate: true
+  xy: 173, 81
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+R_arm_spoon_armf
+  rotate: true
+  xy: 118, 306
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+R_arm_spoon_back
+  rotate: true
+  xy: 130, 4
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+R_arm_spoon_hand
+  rotate: true
+  xy: 160, 80
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+R_ear
+  rotate: false
+  xy: 117, 205
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+R_girl_shoe
+  rotate: false
+  xy: 143, 138
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+R_jean
+  rotate: false
+  xy: 126, 407
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 138, 159
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+R_leg_scout_S2
+  rotate: false
+  xy: 126, 92
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+R_shoes_scout_S2
+  rotate: true
+  xy: 178, 26
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+R_slipper_bottom
+  rotate: true
+  xy: 160, 109
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+R_slipper_top_string
+  rotate: true
+  xy: 102, 137
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+T_shirt
+  rotate: true
+  xy: 97, 247
+  size: 56, 35
+  orig: 56, 35
+  offset: 0, 0
+  index: -1
+T_shirt_arm
+  rotate: true
+  xy: 178, 4
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+bad_mouth
+  rotate: false
+  xy: 48, 132
+  size: 11, 3
+  orig: 11, 3
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 203
+  size: 56, 99
+  orig: 56, 99
+  offset: 0, 0
+  index: -1
+bottom_scout_S1
+  rotate: true
+  xy: 42, 137
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+close_mouth
+  rotate: false
+  xy: 61, 132
+  size: 7, 3
+  orig: 7, 3
+  offset: 0, 0
+  index: -1
+eating_mouth1
+  rotate: false
+  xy: 105, 240
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+eating_mouth2
+  rotate: false
+  xy: 107, 83
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: true
+  xy: 147, 445
+  size: 7, 3
+  orig: 7, 3
+  offset: 0, 0
+  index: -1
+eye_open
+  rotate: false
+  xy: 42, 131
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+eye_open_embarressed
+  rotate: false
+  xy: 97, 239
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+eyebrow
+  rotate: false
+  xy: 126, 80
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+flower_hair_pin
+  rotate: true
+  xy: 59, 304
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+flower_onepiece
+  rotate: false
+  xy: 2, 64
+  size: 61, 65
+  orig: 61, 65
+  offset: 0, 0
+  index: -1
+gown
+  rotate: false
+  xy: 2, 406
+  size: 82, 104
+  orig: 82, 104
+  offset: 0, 0
+  index: -1
+lov
+  rotate: false
+  xy: 2, 2
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 2, 304
+  size: 27, 100
+  orig: 27, 100
+  offset: 0, 0
+  index: -1
+onepiece_swimwear front
+  rotate: true
+  xy: 96, 305
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+onepiece_swimwear_back
+  rotate: false
+  xy: 31, 328
+  size: 55, 76
+  orig: 55, 76
+  offset: 0, 0
+  index: -1
+open_mouth
+  rotate: false
+  xy: 98, 81
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+scarf_scout_S1
+  rotate: true
+  xy: 122, 346
+  size: 58, 45
+  orig: 58, 45
+  offset: 0, 0
+  index: -1
+scout_cap_S2
+  rotate: true
+  xy: 65, 32
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+shorts
+  rotate: true
+  xy: 88, 343
+  size: 61, 32
+  orig: 61, 32
+  offset: 0, 0
+  index: -1
+top_scout_S1
+  rotate: true
+  xy: 127, 454
+  size: 56, 32
+  orig: 56, 32
+  offset: 0, 0
+  index: -1

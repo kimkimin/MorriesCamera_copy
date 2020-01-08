@@ -1,0 +1,713 @@
+
+Pub_lookDown_backview.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm_behind_theBack
+  rotate: true
+  xy: 254, 456
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1
+L_arm_behind_theBack _rash
+  rotate: true
+  xy: 297, 456
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1
+L_arm_grip
+  rotate: false
+  xy: 23, 485
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+L_arm_open
+  rotate: false
+  xy: 396, 494
+  size: 40, 14
+  orig: 40, 14
+  offset: 0, 0
+  index: -1
+L_ear
+  rotate: true
+  xy: 383, 389
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+L_girl_shorts
+  rotate: false
+  xy: 177, 398
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 267, 428
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+L_leg_sit_01
+  rotate: false
+  xy: 51, 485
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+L_seaweed_bottom
+  rotate: true
+  xy: 276, 496
+  size: 12, 40
+  orig: 12, 40
+  offset: 0, 0
+  index: -1
+L_seaweed_top
+  rotate: false
+  xy: 14, 503
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+L_shorts
+  rotate: false
+  xy: 200, 479
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+R_arm_drink
+  rotate: false
+  xy: 183, 431
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+R_arm_grip
+  rotate: true
+  xy: 420, 384
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+R_arm_open
+  rotate: true
+  xy: 210, 396
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+R_drink
+  rotate: true
+  xy: 75, 484
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+R_ear
+  rotate: true
+  xy: 160, 361
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+R_girl_shorts
+  rotate: false
+  xy: 312, 428
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+R_icecream_arm
+  rotate: false
+  xy: 362, 351
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 220, 429
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+R_leg_sit_01
+  rotate: false
+  xy: 114, 367
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+R_leg_sit_02
+  rotate: false
+  xy: 254, 478
+  size: 69, 16
+  orig: 69, 16
+  offset: 0, 0
+  index: -1
+R_seaweed_bottom
+  rotate: true
+  xy: 109, 483
+  size: 15, 40
+  orig: 15, 40
+  offset: 0, 0
+  index: -1
+R_seaweed_top
+  rotate: false
+  xy: 210, 498
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+R_shorts
+  rotate: false
+  xy: 480, 474
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+R_w01
+  rotate: false
+  xy: 318, 496
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+R_w02
+  rotate: false
+  xy: 438, 494
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+S1_bikini
+  rotate: false
+  xy: 296, 300
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+S1_pants
+  rotate: false
+  xy: 297, 356
+  size: 63, 33
+  orig: 63, 33
+  offset: 0, 0
+  index: -1
+S2_L_arm_hit_down
+  rotate: false
+  xy: 2, 440
+  size: 62, 22
+  orig: 62, 22
+  offset: 0, 0
+  index: -1
+S2_L_arm_shake_mat
+  rotate: false
+  xy: 151, 483
+  size: 47, 15
+  orig: 47, 15
+  offset: 0, 0
+  index: -1
+S2_L_sawingArm
+  rotate: false
+  xy: 334, 496
+  size: 42, 12
+  orig: 42, 12
+  offset: 0, 0
+  index: -1
+S2_L_shoe
+  rotate: false
+  xy: 2, 465
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+S2_L_shoe_sit_01
+  rotate: false
+  xy: 230, 479
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+S2_L_short
+  rotate: false
+  xy: 66, 437
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+S2_L_short_sit_01
+  rotate: false
+  xy: 118, 403
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+S2_L_short_sit_02
+  rotate: false
+  xy: 2, 375
+  size: 57, 32
+  orig: 57, 32
+  offset: 0, 0
+  index: -1
+S2_R_hit_down
+  rotate: false
+  xy: 325, 478
+  size: 61, 16
+  orig: 61, 16
+  offset: 0, 0
+  index: -1
+S2_R_hit_down_sleeve
+  rotate: false
+  xy: 400, 453
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+S2_R_saw_sleeve
+  rotate: true
+  xy: 168, 461
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+S2_R_sawing
+  rotate: false
+  xy: 340, 456
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+S2_R_shake_mat
+  rotate: false
+  xy: 388, 476
+  size: 60, 16
+  orig: 60, 16
+  offset: 0, 0
+  index: -1
+S2_R_shoe
+  rotate: false
+  xy: 460, 449
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+S2_R_shoe_sit_01
+  rotate: false
+  xy: 96, 436
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+S2_R_shoe_sit_02
+  rotate: false
+  xy: 102, 462
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+S2_R_short
+  rotate: false
+  xy: 423, 452
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+S2_R_wonder
+  rotate: true
+  xy: 459, 384
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+S2_R_wonder_sleeve
+  rotate: false
+  xy: 232, 457
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+S2_poo
+  rotate: false
+  xy: 29, 465
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+S2_saw
+  rotate: false
+  xy: 451, 418
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1
+S2_scarf
+  rotate: false
+  xy: 2, 409
+  size: 58, 29
+  orig: 58, 29
+  offset: 0, 0
+  index: -1
+S2_snake
+  rotate: false
+  xy: 402, 346
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+S2_top
+  rotate: true
+  xy: 68, 266
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+S2_top_sit
+  rotate: false
+  xy: 60, 207
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 396, 171
+  size: 69, 103
+  orig: 69, 103
+  offset: 0, 0
+  index: -1
+cap
+  rotate: false
+  xy: 348, 424
+  size: 45, 28
+  orig: 45, 28
+  offset: 0, 0
+  index: -1
+cap_string
+  rotate: true
+  xy: 120, 500
+  size: 8, 19
+  orig: 8, 19
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: false
+  xy: 8, 504
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+eye_open
+  rotate: false
+  xy: 2, 505
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+first_aid_kit_02/band
+  rotate: true
+  xy: 142, 462
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+first_aid_kit_02/bandage
+  rotate: true
+  xy: 378, 496
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+first_aid_kit_02/bottle_01
+  rotate: true
+  xy: 450, 475
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+first_aid_kit_02/bottle_02
+  rotate: true
+  xy: 222, 498
+  size: 10, 24
+  orig: 10, 24
+  offset: 0, 0
+  index: -1
+first_aid_kit_02/box_behind
+  rotate: false
+  xy: 250, 395
+  size: 74, 31
+  orig: 74, 31
+  offset: 0, 0
+  index: -1
+first_aid_kit_02/box_front
+  rotate: false
+  xy: 2, 332
+  size: 75, 37
+  orig: 75, 37
+  offset: 0, 0
+  index: -1
+first_aid_kit_02/box_middle
+  rotate: false
+  xy: 61, 371
+  size: 51, 32
+  orig: 51, 32
+  offset: 0, 0
+  index: -1
+first_aid_kit_02/lid_open
+  rotate: false
+  xy: 79, 323
+  size: 62, 42
+  orig: 62, 42
+  offset: 0, 0
+  index: -1
+first_aid_kit_02/pill
+  rotate: false
+  xy: 378, 454
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+girl'sTop
+  rotate: false
+  xy: 395, 423
+  size: 54, 27
+  orig: 54, 27
+  offset: 0, 0
+  index: -1
+girl_shorts
+  rotate: false
+  xy: 326, 391
+  size: 55, 31
+  orig: 55, 31
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 455, 494
+  size: 45, 14
+  orig: 45, 14
+  offset: 0, 0
+  index: -1
+icecream_crush
+  rotate: false
+  xy: 54, 464
+  size: 46, 18
+  orig: 46, 18
+  offset: 0, 0
+  index: -1
+icecream_scoop
+  rotate: false
+  xy: 141, 500
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+laugh_eye
+  rotate: false
+  xy: 21, 503
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+laugh_mouth
+  rotate: false
+  xy: 248, 498
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+mat1
+  rotate: false
+  xy: 129, 256
+  size: 158, 50
+  orig: 158, 50
+  offset: 0, 0
+  index: -1
+mat2
+  rotate: false
+  xy: 132, 111
+  size: 145, 67
+  orig: 145, 67
+  offset: 0, 0
+  index: -1
+mat3
+  rotate: false
+  xy: 2, 135
+  size: 128, 62
+  orig: 128, 62
+  offset: 0, 0
+  index: -1
+mat4
+  rotate: false
+  xy: 256, 180
+  size: 138, 60
+  orig: 138, 60
+  offset: 0, 0
+  index: -1
+mat5
+  rotate: false
+  xy: 120, 199
+  size: 134, 55
+  orig: 134, 55
+  offset: 0, 0
+  index: -1
+mat6
+  rotate: false
+  xy: 357, 292
+  size: 146, 52
+  orig: 146, 52
+  offset: 0, 0
+  index: -1
+mat7
+  rotate: false
+  xy: 289, 242
+  size: 169, 48
+  orig: 169, 48
+  offset: 0, 0
+  index: -1
+mat8
+  rotate: false
+  xy: 143, 308
+  size: 151, 51
+  orig: 151, 51
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 204, 361
+  size: 32, 91
+  orig: 32, 91
+  offset: 0, 0
+  index: -1
+rash_hook
+  rotate: false
+  xy: 44, 502
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+rashguard
+  rotate: true
+  xy: 2, 276
+  size: 54, 64
+  orig: 54, 64
+  offset: 0, 0
+  index: -1
+scarfTail01
+  rotate: true
+  xy: 76, 501
+  size: 7, 28
+  orig: 7, 28
+  offset: 0, 0
+  index: -1
+scarfTail02
+  rotate: true
+  xy: 153, 500
+  size: 8, 24
+  orig: 8, 24
+  offset: 0, 0
+  index: -1
+shorts
+  rotate: false
+  xy: 62, 405
+  size: 54, 29
+  orig: 54, 29
+  offset: 0, 0
+  index: -1
+smile_mouth
+  rotate: false
+  xy: 29, 503
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+snorkulling
+  rotate: false
+  xy: 133, 435
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+snorkulling_mouth
+  rotate: false
+  xy: 448, 346
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+stone
+  rotate: false
+  xy: 260, 497
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+string01
+  rotate: false
+  xy: 179, 500
+  size: 29, 8
+  orig: 29, 8
+  offset: 0, 0
+  index: -1
+string02
+  rotate: false
+  xy: 2, 487
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+string03
+  rotate: false
+  xy: 194, 458
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+surprise_eye
+  rotate: true
+  xy: 106, 501
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+tent
+  rotate: false
+  xy: 2, 18
+  size: 204, 91
+  orig: 204, 91
+  offset: 0, 0
+  index: -1
+tent_raise
+  rotate: false
+  xy: 279, 79
+  size: 199, 90
+  orig: 199, 90
+  offset: 0, 0
+  index: -1
+towel
+  rotate: false
+  xy: 2, 218
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+white
+  rotate: true
+  xy: 52, 502
+  size: 6, 22
+  orig: 6, 22
+  offset: 0, 0
+  index: -1
+wonder_mouth
+  rotate: true
+  xy: 36, 503
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
