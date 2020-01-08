@@ -231,7 +231,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 26606}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 479, y: 602, z: 0}
+  m_LocalPosition: {x: -32, y: -225, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 430842466}
@@ -1184,7 +1184,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 19759815}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2467, y: 559, z: 0}
+  m_LocalPosition: {x: 1055, y: -238, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2060934829}
@@ -3846,7 +3846,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 80388062}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 291, y: -226, z: 0}
+  m_LocalPosition: {x: -61, y: -735, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2060934829}
@@ -4141,7 +4141,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: f2ebbbce9fc48ab40b28c199f6274b35, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 4066f3605b3659d4fb3fdac902ebdf0c, type: 2}
   initialSkinName: S1_parasol2
   initialFlipX: 0
   initialFlipY: 0
@@ -4182,7 +4182,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: de0b3e2d217342d409e5ef551d3bad6a, type: 2}
+  - {fileID: 2100000, guid: abac6245813766a4c9b77ccaf19638f6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -4219,7 +4219,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 86259095}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1209, y: 2293, z: 0}
+  m_LocalPosition: {x: 328.6, y: 729.7, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -4514,7 +4514,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: afcdbb4f3d1817f44932e4c5ea5b4224, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 157dfd748b9acfb45b78475ce1635aa3, type: 2}
   initialSkinName: S1_tree1
   initialFlipX: 0
   initialFlipY: 0
@@ -4555,7 +4555,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e0cea7eacc90cba4faac34f6aa820bdd, type: 2}
+  - {fileID: 2100000, guid: 87c17f7de9138104d93ea137bc0ea98f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -4592,7 +4592,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 91678675}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4753, y: 487, z: 0}
+  m_LocalPosition: {x: 2150, y: -228, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -4697,7 +4697,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: b144ec656f1ad704a86a113f34d4470e, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 3ad7da9259cf06941bfe765fd1cac713, type: 2}
   initialSkinName: S1_stand_mom
   initialFlipX: 0
   initialFlipY: 0
@@ -4738,7 +4738,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: f1ddf7b574676f44484e6529bd3bad6e, type: 2}
+  - {fileID: 2100000, guid: 76d5a5fc3ea22db4c8d694027628c540, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -4775,7 +4775,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 92488235}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2859, y: 423, z: 0}
+  m_LocalPosition: {x: 1291.1, y: -273.4, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2060934829}
@@ -5270,7 +5270,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &101122991
 RectTransform:
   m_ObjectHideFlags: 0
@@ -5308,7 +5308,7 @@ RectTransform:
   - {fileID: 1400562828}
   - {fileID: 361739951}
   m_Father: {fileID: 441376883}
-  m_RootOrder: 6
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -7465,7 +7465,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 172854101}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1494, y: -1172, z: 0}
+  m_LocalPosition: {x: -1144, y: -1139, z: 0}
   m_LocalScale: {x: 0.8, y: 0.8, z: 1}
   m_Children:
   - {fileID: 1715615492}
@@ -7485,7 +7485,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: afcdbb4f3d1817f44932e4c5ea5b4224, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 157dfd748b9acfb45b78475ce1635aa3, type: 2}
   initialSkinName: S1_tree4
   initialFlipX: 0
   initialFlipY: 0
@@ -7526,7 +7526,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e0cea7eacc90cba4faac34f6aa820bdd, type: 2}
+  - {fileID: 2100000, guid: 87c17f7de9138104d93ea137bc0ea98f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -8723,7 +8723,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: afcdbb4f3d1817f44932e4c5ea5b4224, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 157dfd748b9acfb45b78475ce1635aa3, type: 2}
   initialSkinName: S1_tree3
   initialFlipX: 0
   initialFlipY: 0
@@ -8764,7 +8764,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e0cea7eacc90cba4faac34f6aa820bdd, type: 2}
+  - {fileID: 2100000, guid: 87c17f7de9138104d93ea137bc0ea98f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -8801,7 +8801,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 212989871}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3985, y: 510, z: 0}
+  m_LocalPosition: {x: 1877, y: -191, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -9132,7 +9132,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 221600036}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.9, y: -4.17, z: 0}
+  m_LocalPosition: {x: -311, y: -592, z: 0}
   m_LocalScale: {x: -1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2060934829}
@@ -10022,7 +10022,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &238661195
 RectTransform:
   m_ObjectHideFlags: 0
@@ -10060,7 +10060,7 @@ RectTransform:
   - {fileID: 494417697}
   - {fileID: 820677221}
   m_Father: {fileID: 441376883}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -10639,7 +10639,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 264463232}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2820, y: 789, z: 0}
+  m_LocalPosition: {x: 1261, y: 13, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2060934829}
@@ -10920,7 +10920,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: e7ba0c7b0d1ad0b46967c789bfbe978b, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 90040ae564b0d7f45b613c36e5dd8266, type: 2}
   initialSkinName: S1_plants1
   initialFlipX: 0
   initialFlipY: 0
@@ -10961,7 +10961,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 5f87e691146f21146ab682128ff8a10b, type: 2}
+  - {fileID: 2100000, guid: 0fd7c170bbb4e7347be46bf42cb0950e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -10998,7 +10998,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 268870894}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2128, y: 121, z: 0}
+  m_LocalPosition: {x: 718, y: -424, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -11523,7 +11523,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: c681eda550487a94bb16cf9dbefca734, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 248888f462b989d4e9a2635fd878ecd7, type: 2}
   initialSkinName: S1_toilet
   initialFlipX: 0
   initialFlipY: 0
@@ -11564,7 +11564,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: c3b11e1d2f82d1e409f3a0098a98adda, type: 2}
+  - {fileID: 2100000, guid: b28e5949dd81a5345b4ee8ad353eaf3c, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -11601,7 +11601,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 272850986}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3354, y: 612, z: 0}
+  m_LocalPosition: {x: 1496.9, y: -178.9, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -12079,7 +12079,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 277627717}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1966, y: 2414, z: 0}
+  m_LocalPosition: {x: 761.4, y: 780.7, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -12097,7 +12097,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: f2ebbbce9fc48ab40b28c199f6274b35, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 4066f3605b3659d4fb3fdac902ebdf0c, type: 2}
   initialSkinName: S1_parasol2
   initialFlipX: 0
   initialFlipY: 0
@@ -12138,7 +12138,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: de0b3e2d217342d409e5ef551d3bad6a, type: 2}
+  - {fileID: 2100000, guid: abac6245813766a4c9b77ccaf19638f6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -12868,7 +12868,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: afcdbb4f3d1817f44932e4c5ea5b4224, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 157dfd748b9acfb45b78475ce1635aa3, type: 2}
   initialSkinName: S1_tree3
   initialFlipX: 0
   initialFlipY: 0
@@ -12909,7 +12909,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e0cea7eacc90cba4faac34f6aa820bdd, type: 2}
+  - {fileID: 2100000, guid: 87c17f7de9138104d93ea137bc0ea98f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -12946,7 +12946,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 290437026}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3048, y: -440, z: 0}
+  m_LocalPosition: {x: -1958, y: -736, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -13606,7 +13606,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: afcdbb4f3d1817f44932e4c5ea5b4224, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 157dfd748b9acfb45b78475ce1635aa3, type: 2}
   initialSkinName: S1_tree4
   initialFlipX: 0
   initialFlipY: 0
@@ -13647,7 +13647,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e0cea7eacc90cba4faac34f6aa820bdd, type: 2}
+  - {fileID: 2100000, guid: 87c17f7de9138104d93ea137bc0ea98f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -13684,7 +13684,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 303850831}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 5207, y: -1339, z: 0}
+  m_LocalPosition: {x: 3905, y: -610, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -13998,7 +13998,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: afcdbb4f3d1817f44932e4c5ea5b4224, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 157dfd748b9acfb45b78475ce1635aa3, type: 2}
   initialSkinName: S1_tree2
   initialFlipX: 0
   initialFlipY: 0
@@ -14039,7 +14039,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e0cea7eacc90cba4faac34f6aa820bdd, type: 2}
+  - {fileID: 2100000, guid: 87c17f7de9138104d93ea137bc0ea98f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -14076,7 +14076,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 310739771}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4298, y: -164, z: 0}
+  m_LocalPosition: {x: 1961, y: -524, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -14168,7 +14168,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &312295134
 Transform:
   m_ObjectHideFlags: 0
@@ -14544,7 +14544,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 7195009b941f4364da429afa95411afd, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 27412e1d0a51a6e4d803b1086cfb643d, type: 2}
   initialSkinName: S1_radio3
   initialFlipX: 0
   initialFlipY: 0
@@ -14585,7 +14585,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3844e854bb7f0f04ba073f20f2faf2a2, type: 2}
+  - {fileID: 2100000, guid: 99202c56941dc934ba83ef5c00517a69, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -14622,7 +14622,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 320192915}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -872, y: -571, z: 0}
+  m_LocalPosition: {x: -706, y: -790, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -15426,7 +15426,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: e7ba0c7b0d1ad0b46967c789bfbe978b, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 90040ae564b0d7f45b613c36e5dd8266, type: 2}
   initialSkinName: S1_plants2
   initialFlipX: 0
   initialFlipY: 0
@@ -15467,7 +15467,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 5f87e691146f21146ab682128ff8a10b, type: 2}
+  - {fileID: 2100000, guid: 0fd7c170bbb4e7347be46bf42cb0950e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -15504,7 +15504,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 338014710}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 746, y: 689, z: 0}
+  m_LocalPosition: {x: 109.2, y: -143, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -16541,7 +16541,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: f2ebbbce9fc48ab40b28c199f6274b35, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 4066f3605b3659d4fb3fdac902ebdf0c, type: 2}
   initialSkinName: S1_parasol2
   initialFlipX: 0
   initialFlipY: 0
@@ -16582,7 +16582,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: de0b3e2d217342d409e5ef551d3bad6a, type: 2}
+  - {fileID: 2100000, guid: abac6245813766a4c9b77ccaf19638f6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -16619,7 +16619,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 370697545}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2332, y: 601, z: 0}
+  m_LocalPosition: {x: -1532.7, y: -192.7, z: 0}
   m_LocalScale: {x: -1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -16920,7 +16920,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: b144ec656f1ad704a86a113f34d4470e, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 3ad7da9259cf06941bfe765fd1cac713, type: 2}
   initialSkinName: S1_scratch_bikini
   initialFlipX: 0
   initialFlipY: 0
@@ -16961,7 +16961,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: f1ddf7b574676f44484e6529bd3bad6e, type: 2}
+  - {fileID: 2100000, guid: 76d5a5fc3ea22db4c8d694027628c540, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -16998,7 +16998,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 379973292}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3013, y: 479, z: 0}
+  m_LocalPosition: {x: 1365.5, y: -237.6, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2060934829}
@@ -17451,7 +17451,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: b144ec656f1ad704a86a113f34d4470e, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 3ad7da9259cf06941bfe765fd1cac713, type: 2}
   initialSkinName: S1_doze_bikini
   initialFlipX: 0
   initialFlipY: 0
@@ -17492,7 +17492,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: f1ddf7b574676f44484e6529bd3bad6e, type: 2}
+  - {fileID: 2100000, guid: 76d5a5fc3ea22db4c8d694027628c540, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -17529,7 +17529,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 386632226}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3096, y: 539, z: 0}
+  m_LocalPosition: {x: 1429.8, y: -207.3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2060934829}
@@ -18103,7 +18103,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: c681eda550487a94bb16cf9dbefca734, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 248888f462b989d4e9a2635fd878ecd7, type: 2}
   initialSkinName: S1_toilet
   initialFlipX: 0
   initialFlipY: 0
@@ -18144,7 +18144,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: c3b11e1d2f82d1e409f3a0098a98adda, type: 2}
+  - {fileID: 2100000, guid: b28e5949dd81a5345b4ee8ad353eaf3c, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -18181,7 +18181,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 406030552}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3652, y: 481, z: 0}
+  m_LocalPosition: {x: 1668.5, y: -235.9, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -18951,7 +18951,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: e7ba0c7b0d1ad0b46967c789bfbe978b, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 90040ae564b0d7f45b613c36e5dd8266, type: 2}
   initialSkinName: S1_plants1
   initialFlipX: 0
   initialFlipY: 0
@@ -18992,7 +18992,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 5f87e691146f21146ab682128ff8a10b, type: 2}
+  - {fileID: 2100000, guid: 0fd7c170bbb4e7347be46bf42cb0950e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -19029,7 +19029,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 413856463}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3222, y: 1452, z: 0}
+  m_LocalPosition: {x: 1428.9, y: 143.7, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -20184,14 +20184,15 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1568107709}
+  - {fileID: 1137066996}
   - {fileID: 2135553555}
   - {fileID: 1066499611}
   - {fileID: 238661195}
   - {fileID: 2090082679}
   - {fileID: 1792661849}
   - {fileID: 101122991}
-  m_Father: {fileID: 1562072082}
-  m_RootOrder: 3
+  m_Father: {fileID: 0}
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -21644,7 +21645,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: b144ec656f1ad704a86a113f34d4470e, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 3ad7da9259cf06941bfe765fd1cac713, type: 2}
   initialSkinName: S1_scratch_pants
   initialFlipX: 0
   initialFlipY: 0
@@ -21685,7 +21686,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: f1ddf7b574676f44484e6529bd3bad6e, type: 2}
+  - {fileID: 2100000, guid: 76d5a5fc3ea22db4c8d694027628c540, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -21722,7 +21723,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 470584746}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3321, y: 287, z: 0}
+  m_LocalPosition: {x: 1472.8, y: -348.8, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2060934829}
@@ -23532,7 +23533,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &506792765
 Transform:
   m_ObjectHideFlags: 0
@@ -23708,7 +23709,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &507958215
 Transform:
   m_ObjectHideFlags: 0
@@ -25174,7 +25175,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: afcdbb4f3d1817f44932e4c5ea5b4224, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 157dfd748b9acfb45b78475ce1635aa3, type: 2}
   initialSkinName: S1_tree5
   initialFlipX: 0
   initialFlipY: 0
@@ -25215,7 +25216,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e0cea7eacc90cba4faac34f6aa820bdd, type: 2}
+  - {fileID: 2100000, guid: 87c17f7de9138104d93ea137bc0ea98f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -25252,7 +25253,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 571617852}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3537, y: -1952, z: 0}
+  m_LocalPosition: {x: 1783, y: -1475, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -25609,7 +25610,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 582739831}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1006, y: 612, z: 0}
+  m_LocalPosition: {x: 351, y: -258, z: 0}
   m_LocalScale: {x: -1, y: 1, z: 1}
   m_Children:
   - {fileID: 1211980419}
@@ -25877,7 +25878,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: afcdbb4f3d1817f44932e4c5ea5b4224, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 157dfd748b9acfb45b78475ce1635aa3, type: 2}
   initialSkinName: S1_tree6
   initialFlipX: 0
   initialFlipY: 0
@@ -25918,7 +25919,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e0cea7eacc90cba4faac34f6aa820bdd, type: 2}
+  - {fileID: 2100000, guid: 87c17f7de9138104d93ea137bc0ea98f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -25955,7 +25956,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 589932766}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2667, y: 620, z: 0}
+  m_LocalPosition: {x: 1198, y: -94, z: 0}
   m_LocalScale: {x: 0.8, y: 0.8, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -26122,7 +26123,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 591692017}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2013.3, y: -392.30005, z: 0}
+  m_LocalPosition: {x: 750, y: -719, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 103420482}
@@ -26775,7 +26776,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 614230062}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2673.2, y: 456.7, z: 0}
+  m_LocalPosition: {x: 1156, y: -305, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 2137566964}
@@ -27286,7 +27287,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 3750ce68e9cb3614a855cde2eb01982a, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: eb17cab7911afea47b2d6880402cf10a, type: 2}
   initialSkinName: S1_tube1
   initialFlipX: 0
   initialFlipY: 0
@@ -27327,7 +27328,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 1a5b817f8dd339048aab5cd8e122afe1, type: 2}
+  - {fileID: 2100000, guid: cedb979726cb684498367b0732066078, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -27364,7 +27365,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 624610944}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1952, y: 3303, z: 0}
+  m_LocalPosition: {x: 858, y: 1174, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -30058,7 +30059,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &684497821
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30149,7 +30150,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 684497820}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2971, y: 225, z: 0}
+  m_LocalPosition: {x: 1295, y: -407, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2060934829}
@@ -31076,7 +31077,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: -1.3321604e+34}
+  m_BoundingSphereOverride: {x: 5.11e-43, y: 9.4e-44, z: 0, w: 1.6833314e-29}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -33724,7 +33725,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: afcdbb4f3d1817f44932e4c5ea5b4224, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 157dfd748b9acfb45b78475ce1635aa3, type: 2}
   initialSkinName: S1_tree1
   initialFlipX: 0
   initialFlipY: 0
@@ -33765,7 +33766,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e0cea7eacc90cba4faac34f6aa820bdd, type: 2}
+  - {fileID: 2100000, guid: 87c17f7de9138104d93ea137bc0ea98f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -33802,7 +33803,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 766210805}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2659, y: -2440, z: 0}
+  m_LocalPosition: {x: 1357, y: -1711, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -34342,7 +34343,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 775867461}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 648, y: 177, z: 0}
+  m_LocalPosition: {x: 85, y: -565, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 271517768}
@@ -34835,7 +34836,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: afcdbb4f3d1817f44932e4c5ea5b4224, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 157dfd748b9acfb45b78475ce1635aa3, type: 2}
   initialSkinName: S1_tree5
   initialFlipX: 0
   initialFlipY: 0
@@ -34876,7 +34877,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e0cea7eacc90cba4faac34f6aa820bdd, type: 2}
+  - {fileID: 2100000, guid: 87c17f7de9138104d93ea137bc0ea98f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -34913,7 +34914,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 783077828}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1928, y: -1691, z: 0}
+  m_LocalPosition: {x: 731, y: -1412, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -37633,7 +37634,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 9ef2e762ad1f5f04dae752021222c87b, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: b82b2205cf98bc9459faaf54e6376d9e, type: 2}
   initialSkinName: S1_icecreamtruck1
   initialFlipX: 0
   initialFlipY: 0
@@ -37674,7 +37675,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 70cca7e457dbac54bab5f8196f92d151, type: 2}
+  - {fileID: 2100000, guid: 4a2c2ab90a1dc8c448c7060a7c1b09b4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -38237,7 +38238,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &863191245
 Transform:
   m_ObjectHideFlags: 0
@@ -40548,7 +40549,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: e7ba0c7b0d1ad0b46967c789bfbe978b, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 90040ae564b0d7f45b613c36e5dd8266, type: 2}
   initialSkinName: S1_plants1
   initialFlipX: 0
   initialFlipY: 0
@@ -40589,7 +40590,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 5f87e691146f21146ab682128ff8a10b, type: 2}
+  - {fileID: 2100000, guid: 0fd7c170bbb4e7347be46bf42cb0950e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -40626,7 +40627,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 927975483}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1031.2, y: 893.8, z: 0}
+  m_LocalPosition: {x: 258.3, y: -36.9, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -41238,6 +41239,98 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animList: []
+--- !u!1 &949609370
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 949609374}
+  - component: {fileID: 949609373}
+  - component: {fileID: 949609372}
+  - component: {fileID: 949609371}
+  m_Layer: 0
+  m_Name: CenterPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!65 &949609371
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 949609370}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!23 &949609372
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 949609370}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!33 &949609373
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 949609370}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &949609374
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 949609370}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 16
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &951391155
 GameObject:
   m_ObjectHideFlags: 0
@@ -41782,7 +41875,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &972901127
 Transform:
   m_ObjectHideFlags: 0
@@ -43600,7 +43693,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: e7ba0c7b0d1ad0b46967c789bfbe978b, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 90040ae564b0d7f45b613c36e5dd8266, type: 2}
   initialSkinName: S1_plants1
   initialFlipX: 0
   initialFlipY: 0
@@ -43641,7 +43734,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 5f87e691146f21146ab682128ff8a10b, type: 2}
+  - {fileID: 2100000, guid: 0fd7c170bbb4e7347be46bf42cb0950e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -43678,7 +43771,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1011160974}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2838.6, y: -1222.2, z: 0}
+  m_LocalPosition: {x: 1225.7, y: -1161.9, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -44091,7 +44184,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1019337620
 Transform:
   m_ObjectHideFlags: 0
@@ -44650,7 +44743,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1037000707
 Transform:
   m_ObjectHideFlags: 0
@@ -45103,7 +45196,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: f2ebbbce9fc48ab40b28c199f6274b35, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 4066f3605b3659d4fb3fdac902ebdf0c, type: 2}
   initialSkinName: S1_parasol1
   initialFlipX: 0
   initialFlipY: 0
@@ -45144,7 +45237,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: de0b3e2d217342d409e5ef551d3bad6a, type: 2}
+  - {fileID: 2100000, guid: abac6245813766a4c9b77ccaf19638f6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -45181,7 +45274,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1044113410}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1638, y: 2065, z: 0}
+  m_LocalPosition: {x: 584, y: 590.6, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -45703,7 +45796,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1050251327}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4135, y: -550, z: 0}
+  m_LocalPosition: {x: 1909, y: -907, z: 0}
   m_LocalScale: {x: -1, y: 1, z: 1}
   m_Children:
   - {fileID: 1791707625}
@@ -46145,7 +46238,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 9ef2e762ad1f5f04dae752021222c87b, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: b82b2205cf98bc9459faaf54e6376d9e, type: 2}
   initialSkinName: S1_campingcar
   initialFlipX: 0
   initialFlipY: 0
@@ -46186,7 +46279,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 70cca7e457dbac54bab5f8196f92d151, type: 2}
+  - {fileID: 2100000, guid: 4a2c2ab90a1dc8c448c7060a7c1b09b4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -46545,7 +46638,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1066499611
 RectTransform:
   m_ObjectHideFlags: 0
@@ -46558,7 +46651,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 441376883}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -48408,7 +48501,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: f2ebbbce9fc48ab40b28c199f6274b35, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 4066f3605b3659d4fb3fdac902ebdf0c, type: 2}
   initialSkinName: S1_parasol1
   initialFlipX: 0
   initialFlipY: 0
@@ -48449,7 +48542,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: de0b3e2d217342d409e5ef551d3bad6a, type: 2}
+  - {fileID: 2100000, guid: abac6245813766a4c9b77ccaf19638f6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -48486,7 +48579,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1099740986}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2119, y: 918, z: 0}
+  m_LocalPosition: {x: -1375, y: -29.1, z: 0}
   m_LocalScale: {x: -1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -48915,7 +49008,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1111291894}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1622.3, y: -206.70001, z: 0}
+  m_LocalPosition: {x: 531, y: -678, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1075760518}
@@ -49707,6 +49800,79 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 114f3fb589e6fc54380cfa53851520ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &1137066995
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1137066996}
+  - component: {fileID: 1137066998}
+  - component: {fileID: 1137066997}
+  m_Layer: 5
+  m_Name: Guide
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1137066996
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1137066995}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.533, y: 0.533, z: 1}
+  m_Children: []
+  m_Father: {fileID: 441376883}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 8192, y: 8192}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1137066997
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1137066995}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.69803923}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: 66f818fd8f5ffcf4cbe7ccf84fd58c98, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1137066998
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1137066995}
+  m_CullTransparentMesh: 0
 --- !u!1 &1144189882
 GameObject:
   m_ObjectHideFlags: 0
@@ -49989,7 +50155,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1145717640}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -514, y: -308.8, z: 0}
+  m_LocalPosition: {x: -561.3, y: -606.4, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 2062283999}
@@ -50924,7 +51090,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: afcdbb4f3d1817f44932e4c5ea5b4224, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 157dfd748b9acfb45b78475ce1635aa3, type: 2}
   initialSkinName: S1_tree2
   initialFlipX: 0
   initialFlipY: 0
@@ -50965,7 +51131,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e0cea7eacc90cba4faac34f6aa820bdd, type: 2}
+  - {fileID: 2100000, guid: 87c17f7de9138104d93ea137bc0ea98f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -51002,7 +51168,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1156991519}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1022, y: -701, z: 0}
+  m_LocalPosition: {x: 218, y: -872, z: 0}
   m_LocalScale: {x: 0.8, y: 0.8, z: 1}
   m_Children:
   - {fileID: 1176430176}
@@ -51082,7 +51248,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: afcdbb4f3d1817f44932e4c5ea5b4224, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 157dfd748b9acfb45b78475ce1635aa3, type: 2}
   initialSkinName: S1_tree1
   initialFlipX: 0
   initialFlipY: 0
@@ -51123,7 +51289,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e0cea7eacc90cba4faac34f6aa820bdd, type: 2}
+  - {fileID: 2100000, guid: 87c17f7de9138104d93ea137bc0ea98f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -51460,7 +51626,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 9ef2e762ad1f5f04dae752021222c87b, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: b82b2205cf98bc9459faaf54e6376d9e, type: 2}
   initialSkinName: S1_campingcar
   initialFlipX: 0
   initialFlipY: 0
@@ -51501,7 +51667,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 70cca7e457dbac54bab5f8196f92d151, type: 2}
+  - {fileID: 2100000, guid: 4a2c2ab90a1dc8c448c7060a7c1b09b4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -51635,7 +51801,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: afcdbb4f3d1817f44932e4c5ea5b4224, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 157dfd748b9acfb45b78475ce1635aa3, type: 2}
   initialSkinName: S1_tree6
   initialFlipX: 0
   initialFlipY: 0
@@ -51676,7 +51842,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e0cea7eacc90cba4faac34f6aa820bdd, type: 2}
+  - {fileID: 2100000, guid: 87c17f7de9138104d93ea137bc0ea98f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -51772,7 +51938,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1176502797
 Transform:
   m_ObjectHideFlags: 0
@@ -52013,7 +52179,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: b144ec656f1ad704a86a113f34d4470e, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 3ad7da9259cf06941bfe765fd1cac713, type: 2}
   initialSkinName: S1_consultawatch_onepiece
   initialFlipX: 0
   initialFlipY: 0
@@ -52054,7 +52220,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: f1ddf7b574676f44484e6529bd3bad6e, type: 2}
+  - {fileID: 2100000, guid: 76d5a5fc3ea22db4c8d694027628c540, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -52091,7 +52257,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1186811550}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3454, y: 370, z: 0}
+  m_LocalPosition: {x: 1523.4, y: -303.8, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2060934829}
@@ -54567,7 +54733,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: afcdbb4f3d1817f44932e4c5ea5b4224, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 157dfd748b9acfb45b78475ce1635aa3, type: 2}
   initialSkinName: S1_tree5
   initialFlipX: 0
   initialFlipY: 0
@@ -54608,7 +54774,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e0cea7eacc90cba4faac34f6aa820bdd, type: 2}
+  - {fileID: 2100000, guid: 87c17f7de9138104d93ea137bc0ea98f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -54645,7 +54811,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1237826779}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3629, y: -836, z: 0}
+  m_LocalPosition: {x: -2539, y: -1132, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -54888,7 +55054,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1242353514}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -72, y: -538, z: 0}
+  m_LocalPosition: {x: -329.2, y: -732.7, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1056136057}
@@ -55454,7 +55620,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: afcdbb4f3d1817f44932e4c5ea5b4224, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 157dfd748b9acfb45b78475ce1635aa3, type: 2}
   initialSkinName: S1_tree3
   initialFlipX: 0
   initialFlipY: 0
@@ -55495,7 +55661,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e0cea7eacc90cba4faac34f6aa820bdd, type: 2}
+  - {fileID: 2100000, guid: 87c17f7de9138104d93ea137bc0ea98f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -55532,7 +55698,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1263188776}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2913, y: -1482, z: 0}
+  m_LocalPosition: {x: -1877, y: -1285, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -56087,7 +56253,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 7195009b941f4364da429afa95411afd, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 27412e1d0a51a6e4d803b1086cfb643d, type: 2}
   initialSkinName: S1_radio2
   initialFlipX: 0
   initialFlipY: 0
@@ -56128,7 +56294,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3844e854bb7f0f04ba073f20f2faf2a2, type: 2}
+  - {fileID: 2100000, guid: 99202c56941dc934ba83ef5c00517a69, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -56165,7 +56331,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1274781195}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1334.1, y: 1122.9, z: 0}
+  m_LocalPosition: {x: -1000.8, y: 87.8, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -56347,7 +56513,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: afcdbb4f3d1817f44932e4c5ea5b4224, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 157dfd748b9acfb45b78475ce1635aa3, type: 2}
   initialSkinName: S1_tree2
   initialFlipX: 0
   initialFlipY: 0
@@ -56388,7 +56554,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e0cea7eacc90cba4faac34f6aa820bdd, type: 2}
+  - {fileID: 2100000, guid: 87c17f7de9138104d93ea137bc0ea98f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -56425,7 +56591,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1281088096}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4085, y: -1563, z: 0}
+  m_LocalPosition: {x: 2783, y: -834, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -58690,7 +58856,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: afcdbb4f3d1817f44932e4c5ea5b4224, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 157dfd748b9acfb45b78475ce1635aa3, type: 2}
   initialSkinName: S1_tree1
   initialFlipX: 0
   initialFlipY: 0
@@ -58731,7 +58897,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e0cea7eacc90cba4faac34f6aa820bdd, type: 2}
+  - {fileID: 2100000, guid: 87c17f7de9138104d93ea137bc0ea98f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -58768,7 +58934,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1376611538}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1362, y: -1817, z: 0}
+  m_LocalPosition: {x: 419, y: -1506, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -59274,7 +59440,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: e7ba0c7b0d1ad0b46967c789bfbe978b, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 90040ae564b0d7f45b613c36e5dd8266, type: 2}
   initialSkinName: S1_plants2
   initialFlipX: 0
   initialFlipY: 0
@@ -59315,7 +59481,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 5f87e691146f21146ab682128ff8a10b, type: 2}
+  - {fileID: 2100000, guid: 0fd7c170bbb4e7347be46bf42cb0950e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -59352,7 +59518,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1397956957}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2534.6, y: -68.8, z: 0}
+  m_LocalPosition: {x: -1640.2, y: -545.7, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -59531,7 +59697,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: afcdbb4f3d1817f44932e4c5ea5b4224, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 157dfd748b9acfb45b78475ce1635aa3, type: 2}
   initialSkinName: S1_tree6
   initialFlipX: 0
   initialFlipY: 0
@@ -59572,7 +59738,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e0cea7eacc90cba4faac34f6aa820bdd, type: 2}
+  - {fileID: 2100000, guid: 87c17f7de9138104d93ea137bc0ea98f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -59609,7 +59775,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1400238831}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -945, y: -1900, z: 0}
+  m_LocalPosition: {x: -676, y: -1416, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -61225,7 +61391,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: f2ebbbce9fc48ab40b28c199f6274b35, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 4066f3605b3659d4fb3fdac902ebdf0c, type: 2}
   initialSkinName: S1_parasol1
   initialFlipX: 0
   initialFlipY: 0
@@ -61266,7 +61432,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: de0b3e2d217342d409e5ef551d3bad6a, type: 2}
+  - {fileID: 2100000, guid: abac6245813766a4c9b77ccaf19638f6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -61303,7 +61469,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1425191318}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3083, y: 889.4, z: 0}
+  m_LocalPosition: {x: -1933.8, y: -38.3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -62522,7 +62688,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1458789857
 Transform:
   m_ObjectHideFlags: 0
@@ -63204,7 +63370,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: afcdbb4f3d1817f44932e4c5ea5b4224, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 157dfd748b9acfb45b78475ce1635aa3, type: 2}
   initialSkinName: S1_tree1
   initialFlipX: 0
   initialFlipY: 0
@@ -63245,7 +63411,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e0cea7eacc90cba4faac34f6aa820bdd, type: 2}
+  - {fileID: 2100000, guid: 87c17f7de9138104d93ea137bc0ea98f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -63282,7 +63448,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1472391494}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2453, y: -2105, z: 0}
+  m_LocalPosition: {x: -1652, y: -1523, z: 0}
   m_LocalScale: {x: 0.9, y: 0.9, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -65467,7 +65633,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1523454579}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2280, y: 1749, z: 0}
+  m_LocalPosition: {x: 854, y: 542, z: 0}
   m_LocalScale: {x: -1, y: 1, z: 1}
   m_Children:
   - {fileID: 856476848}
@@ -66201,7 +66367,6 @@ Transform:
   - {fileID: 2060934829}
   - {fileID: 1176502797}
   - {fileID: 507958215}
-  - {fileID: 441376883}
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -66394,7 +66559,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 540, y: 960}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 8192, y: 8192}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1568107710
@@ -67093,7 +67258,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1585402666}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1214, y: 308, z: 0}
+  m_LocalPosition: {x: 651, y: -434, z: 0}
   m_LocalScale: {x: -1, y: 1, z: 1}
   m_Children:
   - {fileID: 990715076}
@@ -67563,7 +67728,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: afcdbb4f3d1817f44932e4c5ea5b4224, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 157dfd748b9acfb45b78475ce1635aa3, type: 2}
   initialSkinName: S1_tree6
   initialFlipX: 0
   initialFlipY: 0
@@ -67604,7 +67769,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e0cea7eacc90cba4faac34f6aa820bdd, type: 2}
+  - {fileID: 2100000, guid: 87c17f7de9138104d93ea137bc0ea98f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -67641,7 +67806,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1602181565}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 561, y: -2264, z: 0}
+  m_LocalPosition: {x: -49, y: -1657, z: 0}
   m_LocalScale: {x: 0.9, y: 0.9, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -68335,7 +68500,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1614907290}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4562, y: 1347, z: 0}
+  m_LocalPosition: {x: 2130, y: 250, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -68353,7 +68518,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: afcdbb4f3d1817f44932e4c5ea5b4224, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 157dfd748b9acfb45b78475ce1635aa3, type: 2}
   initialSkinName: S1_tree4
   initialFlipX: 0
   initialFlipY: 0
@@ -68394,7 +68559,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e0cea7eacc90cba4faac34f6aa820bdd, type: 2}
+  - {fileID: 2100000, guid: 87c17f7de9138104d93ea137bc0ea98f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -69670,7 +69835,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 4d52c18603d24b04aa4c823ce81ca1b9, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 82b706149e98d164f81ea8033e1af682, type: 2}
   initialSkinName: S1_chat_onepiece
   initialFlipX: 0
   initialFlipY: 0
@@ -69711,7 +69876,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d676a951a5901784284845ec26f81318, type: 2}
+  - {fileID: 2100000, guid: faf23c9ef82cdba43a1f379c9e82a5fa, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -69748,7 +69913,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1669119282}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3165, y: 234, z: 0}
+  m_LocalPosition: {x: 1412, y: -377, z: 0}
   m_LocalScale: {x: -1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2060934829}
@@ -70387,7 +70552,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1697710296
 Transform:
   m_ObjectHideFlags: 0
@@ -70734,7 +70899,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1701899255}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1486, y: 783, z: 0}
+  m_LocalPosition: {x: 416, y: -35, z: 0}
   m_LocalScale: {x: -1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2060934829}
@@ -71018,7 +71183,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1713722149}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2904, y: -203, z: 0}
+  m_LocalPosition: {x: -1839, y: -549, z: 0}
   m_LocalScale: {x: -1, y: 1, z: 1}
   m_Children:
   - {fileID: 1175842951}
@@ -71705,7 +71870,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: b144ec656f1ad704a86a113f34d4470e, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 3ad7da9259cf06941bfe765fd1cac713, type: 2}
   initialSkinName: S1_readamap_map
   initialFlipX: 0
   initialFlipY: 0
@@ -71746,7 +71911,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: f1ddf7b574676f44484e6529bd3bad6e, type: 2}
+  - {fileID: 2100000, guid: 76d5a5fc3ea22db4c8d694027628c540, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -71783,7 +71948,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1723389583}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3703, y: -48, z: 0}
+  m_LocalPosition: {x: 1755.5, y: -563.5, z: 0}
   m_LocalScale: {x: -1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2060934829}
@@ -73279,7 +73444,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 7195009b941f4364da429afa95411afd, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 27412e1d0a51a6e4d803b1086cfb643d, type: 2}
   initialSkinName: S1_radio1
   initialFlipX: 0
   initialFlipY: 0
@@ -73320,7 +73485,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3844e854bb7f0f04ba073f20f2faf2a2, type: 2}
+  - {fileID: 2100000, guid: 99202c56941dc934ba83ef5c00517a69, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -73357,7 +73522,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1761154315}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1702, y: 1934, z: 0}
+  m_LocalPosition: {x: 621.3, y: 511.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -74407,7 +74572,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1792661849
 RectTransform:
   m_ObjectHideFlags: 0
@@ -74445,7 +74610,7 @@ RectTransform:
   - {fileID: 225217274}
   - {fileID: 2111225701}
   m_Father: {fileID: 441376883}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -76057,7 +76222,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: e7ba0c7b0d1ad0b46967c789bfbe978b, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 90040ae564b0d7f45b613c36e5dd8266, type: 2}
   initialSkinName: S1_plants2
   initialFlipX: 0
   initialFlipY: 0
@@ -76098,7 +76263,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 5f87e691146f21146ab682128ff8a10b, type: 2}
+  - {fileID: 2100000, guid: 0fd7c170bbb4e7347be46bf42cb0950e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -76135,7 +76300,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1833342635}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3834.1, y: -659, z: 0}
+  m_LocalPosition: {x: 1754.6, y: -863, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -78894,7 +79059,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1934627756}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1984, y: 862.96, z: 0}
+  m_LocalPosition: {x: 789, y: -64, z: 0}
   m_LocalScale: {x: -80, y: 80, z: 1}
   m_Children:
   - {fileID: 1567936084}
@@ -82854,7 +83019,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: f2ebbbce9fc48ab40b28c199f6274b35, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 4066f3605b3659d4fb3fdac902ebdf0c, type: 2}
   initialSkinName: S1_parasol1
   initialFlipX: 0
   initialFlipY: 0
@@ -82895,7 +83060,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: de0b3e2d217342d409e5ef551d3bad6a, type: 2}
+  - {fileID: 2100000, guid: abac6245813766a4c9b77ccaf19638f6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -82932,7 +83097,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2051290193}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 911, y: 2058, z: 0}
+  m_LocalPosition: {x: 196.5, y: 585.2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1176502797}
@@ -83521,7 +83686,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 9ef2e762ad1f5f04dae752021222c87b, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: b82b2205cf98bc9459faaf54e6376d9e, type: 2}
   initialSkinName: S1_campingcar
   initialFlipX: 0
   initialFlipY: 0
@@ -83562,7 +83727,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 70cca7e457dbac54bab5f8196f92d151, type: 2}
+  - {fileID: 2100000, guid: 4a2c2ab90a1dc8c448c7060a7c1b09b4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -84519,7 +84684,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &2090082679
 RectTransform:
   m_ObjectHideFlags: 0
@@ -84557,7 +84722,7 @@ RectTransform:
   - {fileID: 1455048758}
   - {fileID: 1572476663}
   m_Father: {fileID: 441376883}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -86483,7 +86648,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &2135553555
 RectTransform:
   m_ObjectHideFlags: 0
@@ -86496,11 +86661,11 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 441376883}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -1508, y: 960}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 4096, y: 4096}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2135553556

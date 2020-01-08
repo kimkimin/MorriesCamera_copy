@@ -1,0 +1,48 @@
+
+Ppub_car.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+book_close
+  rotate: true
+  xy: 48, 941
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+book_open
+  rotate: true
+  xy: 2, 941
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+campingcar_close
+  rotate: false
+  xy: 515, 720
+  size: 378, 264
+  orig: 378, 264
+  offset: 0, 0
+  index: -1
+campingcar_open
+  rotate: false
+  xy: 94, 725
+  size: 419, 259
+  orig: 419, 259
+  offset: 0, 0
+  index: -1
+icecream_truck_close
+  rotate: false
+  xy: 2, 264
+  size: 490, 459
+  orig: 490, 459
+  offset: 0, 0
+  index: -1
+icecream_truck_open
+  rotate: false
+  xy: 494, 259
+  size: 490, 459
+  orig: 490, 459
+  offset: 0, 0
+  index: -1

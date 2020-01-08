@@ -1,0 +1,48 @@
+
+Ppriv_parasol.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+parasol_01_head
+  rotate: false
+  xy: 2, 163
+  size: 240, 126
+  orig: 240, 126
+  offset: 0, 0
+  index: -1
+parasol_01_stick
+  rotate: true
+  xy: 2, 435
+  size: 43, 153
+  orig: 43, 153
+  offset: 0, 0
+  index: -1
+parasol_02_head
+  rotate: false
+  xy: 244, 161
+  size: 234, 128
+  orig: 234, 128
+  offset: 0, 0
+  index: -1
+parasol_02_stick
+  rotate: true
+  xy: 2, 362
+  size: 71, 148
+  orig: 71, 148
+  offset: 0, 0
+  index: -1
+parasol_03
+  rotate: true
+  xy: 157, 416
+  size: 62, 272
+  orig: 62, 272
+  offset: 0, 0
+  index: -1
+parasol_04
+  rotate: true
+  xy: 152, 291
+  size: 123, 274
+  orig: 123, 274
+  offset: 0, 0
+  index: -1

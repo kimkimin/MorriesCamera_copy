@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
-  m_Name: pub_stand06_SkeletonData
+  m_Name: Ppub_tree_SkeletonData
   m_EditorClassIdentifier: 
   atlasAssets:
-  - {fileID: 11400000, guid: 2eb04d73c6fc3514d8647a54f1be8162, type: 2}
-  scale: 0.4
-  skeletonJSON: {fileID: 4900000, guid: 7450707d2e7409f42a1125f4e9a9b2b6, type: 3}
+  - {fileID: 11400000, guid: 71f6f3611b112814bab410a0ce3e70b7, type: 2}
+  scale: 0.533
+  skeletonJSON: {fileID: 4900000, guid: dd73abf1106293b4cac2a9176352b34e, type: 3}
   skeletonDataModifiers: []
   fromAnimation: []
   toAnimation: []

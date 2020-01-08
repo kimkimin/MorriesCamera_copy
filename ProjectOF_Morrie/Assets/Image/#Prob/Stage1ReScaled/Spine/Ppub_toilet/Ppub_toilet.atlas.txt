@@ -1,0 +1,48 @@
+
+Ppub_toilet.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect
+  rotate: true
+  xy: 2, 360
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+toilet
+  rotate: true
+  xy: 2, 62
+  size: 256, 359
+  orig: 256, 359
+  offset: 0, 0
+  index: -1
+window_close_1
+  rotate: false
+  xy: 54, 320
+  size: 86, 84
+  orig: 86, 84
+  offset: 0, 0
+  index: -1
+window_close_hand_4
+  rotate: false
+  xy: 142, 320
+  size: 86, 84
+  orig: 86, 84
+  offset: 0, 0
+  index: -1
+window_open_2
+  rotate: false
+  xy: 230, 320
+  size: 86, 84
+  orig: 86, 84
+  offset: 0, 0
+  index: -1
+window_open_hand_3
+  rotate: false
+  xy: 318, 320
+  size: 86, 84
+  orig: 86, 84
+  offset: 0, 0
+  index: -1

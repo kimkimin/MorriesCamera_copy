@@ -46,11 +46,6 @@ public class Spine_CSVReader : MonoBehaviour
                 }
                 return anim;
             }
-            /*else
-            {
-                print("NOTmatched : " + voka[i][(int)SpineCategory.Skin] + ", 내스킨은 " + skin);
-
-            }*/
         }
         return null;
     }
