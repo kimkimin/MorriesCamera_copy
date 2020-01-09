@@ -1,6 +1,6 @@
 {
 "skeleton": {
-	"hash": "JT36LemK8VXdQpCU6f1Ui7roiTQ",
+	"hash": "r08mDq7pbQmTZCboylP4arnpSeI",
 	"spine": "3.8.79",
 	"x": 229,
 	"y": -763,
@@ -421,8 +421,6 @@
 	{ "name": "mouth3", "parent": "mouth", "rotation": -88.3, "x": -2.99, "y": -9.03, "color": "c700ffff" }
 ],
 "slots": [
-	{ "name": "Layer 4", "bone": "root" },
-	{ "name": "grid", "bone": "root" },
 	{ "name": "shower", "bone": "root", "attachment": "shower" },
 	{ "name": "legR", "bone": "root", "attachment": "legR" },
 	{ "name": "legL", "bone": "root", "attachment": "legL" },
@@ -479,9 +477,6 @@
 					"height": 10
 				}
 			},
-			"Layer 4": {
-				"Layer 4": { "x": -1.19, "y": 336.72, "width": 925, "height": 877 }
-			},
 			"body": {
 				"body": {
 					"type": "mesh",
@@ -493,9 +488,6 @@
 					"width": 142,
 					"height": 254
 				}
-			},
-			"grid": {
-				"grid": { "x": -1.19, "y": 336.72, "width": 925, "height": 877 }
 			},
 			"legL": {
 				"legL": { "x": 65.81, "y": 141.72, "width": 55, "height": 115 }
