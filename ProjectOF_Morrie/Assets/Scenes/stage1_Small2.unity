@@ -18588,6 +18588,7 @@ GameObject:
   - component: {fileID: 408769216}
   - component: {fileID: 408769222}
   - component: {fileID: 408769221}
+  - component: {fileID: 408769220}
   m_Layer: 0
   m_Name: Pub_sitting_back
   m_TagString: Untagged
@@ -18691,6 +18692,32 @@ Transform:
   m_Father: {fileID: 402006351}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &408769220
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 408769215}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -3.6171913, y: 62.7451}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 116.22285, y: 123.15426}
+  m_EdgeRadius: 0
 --- !u!114 &408769221
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -40941,7 +40968,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &944253451
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -41000,7 +41027,85 @@ MonoBehaviour:
   - {fileID: 619953853}
   - {fileID: 191040380}
   - {fileID: 103420487}
-  CSVname: Morries_SpineAnimation_stage1_Character12
+  - {fileID: 386632227}
+  - {fileID: 379973293}
+  - {fileID: 1723389584}
+  - {fileID: 1186811551}
+  - {fileID: 470584747}
+  - {fileID: 1867364909}
+  - {fileID: 1637393811}
+  - {fileID: 1866533432}
+  - {fileID: 92488236}
+  - {fileID: 356830012}
+  - {fileID: 747650471}
+  - {fileID: 774192763}
+  - {fileID: 2137566969}
+  - {fileID: 324985925}
+  - {fileID: 270301951}
+  - {fileID: 275278533}
+  - {fileID: 1361206973}
+  - {fileID: 2075657563}
+  - {fileID: 1913360890}
+  - {fileID: 1135134399}
+  - {fileID: 1628026168}
+  - {fileID: 1820526071}
+  - {fileID: 694905197}
+  - {fileID: 408769216}
+  - {fileID: 654738587}
+  - {fileID: 1078685039}
+  - {fileID: 19743298}
+  - {fileID: 1404071404}
+  - {fileID: 1741372140}
+  - {fileID: 1040688852}
+  - {fileID: 215041471}
+  - {fileID: 1145454549}
+  - {fileID: 498552726}
+  - {fileID: 1252678309}
+  - {fileID: 1620135785}
+  - {fileID: 1701899256}
+  - {fileID: 1225214629}
+  - {fileID: 1706184617}
+  - {fileID: 1069754448}
+  - {fileID: 35932654}
+  - {fileID: 360068395}
+  - {fileID: 1156613513}
+  - {fileID: 1078230425}
+  - {fileID: 735915769}
+  - {fileID: 1860014781}
+  - {fileID: 1726235134}
+  - {fileID: 2108601830}
+  - {fileID: 1606525708}
+  - {fileID: 1426588704}
+  - {fileID: 44569938}
+  - {fileID: 238920102}
+  - {fileID: 1975645024}
+  - {fileID: 781145588}
+  - {fileID: 453981031}
+  - {fileID: 1606558834}
+  - {fileID: 797099403}
+  - {fileID: 87602615}
+  - {fileID: 498253052}
+  - {fileID: 448301429}
+  - {fileID: 1513566143}
+  - {fileID: 1911804903}
+  - {fileID: 945130496}
+  - {fileID: 432943221}
+  - {fileID: 370641823}
+  - {fileID: 1054004622}
+  - {fileID: 699401530}
+  - {fileID: 1448035272}
+  - {fileID: 1718959318}
+  - {fileID: 769100851}
+  - {fileID: 1075760523}
+  - {fileID: 339876850}
+  - {fileID: 94693369}
+  - {fileID: 297011483}
+  - {fileID: 1317932767}
+  - {fileID: 891237127}
+  - {fileID: 2097367892}
+  - {fileID: 843992502}
+  - {fileID: 1358655461}
+  CSVname: Morries_SpineAnimation_stage1_Character13
 --- !u!4 &944253452
 Transform:
   m_ObjectHideFlags: 0
@@ -86226,7 +86331,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &2117239351
 MonoBehaviour:
   m_ObjectHideFlags: 0
