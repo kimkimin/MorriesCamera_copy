@@ -50,6 +50,9 @@ public class Spine_CSVExecute : MonoBehaviour
         SetAnim(anim, skelton_);
     }
 
+    /// <summary>
+    /// 현재 애니메이션을 IDEL로 바꾸고 애님 배열을 집어넣음
+    /// </summary>
     void SetAnim(List<string> anim_, SkeletonAnimation skeleton_)
     {
         //print("내스킨 : " + skeleton_.initialSkinName + ", 내아이들 : " + anim_[0]);

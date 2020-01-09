@@ -1,0 +1,405 @@
+
+pub_sitting.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 34
+  rotate: true
+  xy: 336, 240
+  size: 69, 76
+  orig: 69, 76
+  offset: 0, 0
+  index: -1
+Layer 35
+  rotate: false
+  xy: 254, 169
+  size: 73, 78
+  orig: 73, 78
+  offset: 0, 0
+  index: -1
+Layer 44
+  rotate: false
+  xy: 203, 2
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+Layer 45
+  rotate: false
+  xy: 412, 157
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+armL_cup
+  rotate: false
+  xy: 343, 128
+  size: 54, 41
+  orig: 54, 41
+  offset: 0, 0
+  index: -1
+armL_fbook_S2
+  rotate: true
+  xy: 382, 30
+  size: 52, 24
+  orig: 52, 24
+  offset: 0, 0
+  index: -1
+armL_fishing
+  rotate: false
+  xy: 329, 194
+  size: 59, 44
+  orig: 59, 44
+  offset: 0, 0
+  index: -1
+armL_fishing_S2
+  rotate: false
+  xy: 260, 36
+  size: 60, 45
+  orig: 60, 45
+  offset: 0, 0
+  index: -1
+armL_talk_S2
+  rotate: false
+  xy: 476, 229
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+armL_tie_S2
+  rotate: false
+  xy: 414, 258
+  size: 60, 51
+  orig: 60, 51
+  offset: 0, 0
+  index: -1
+armR_book_S2
+  rotate: true
+  xy: 329, 171
+  size: 21, 58
+  orig: 21, 58
+  offset: 0, 0
+  index: -1
+armR_cup
+  rotate: true
+  xy: 245, 2
+  size: 14, 50
+  orig: 14, 50
+  offset: 0, 0
+  index: -1
+armR_fishing
+  rotate: true
+  xy: 319, 4
+  size: 15, 52
+  orig: 15, 52
+  offset: 0, 0
+  index: -1
+armR_fishing_S2
+  rotate: true
+  xy: 322, 21
+  size: 15, 54
+  orig: 15, 54
+  offset: 0, 0
+  index: -1
+armR_map_S2
+  rotate: false
+  xy: 245, 19
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+armR_talk_S2
+  rotate: false
+  xy: 438, 67
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+armR_tie_S2
+  rotate: true
+  xy: 260, 18
+  size: 16, 56
+  orig: 16, 56
+  offset: 0, 0
+  index: -1
+boat
+  rotate: false
+  xy: 2, 244
+  size: 247, 122
+  orig: 247, 122
+  offset: 0, 0
+  index: -1
+boat 1
+  rotate: false
+  xy: 271, 311
+  size: 210, 94
+  orig: 210, 94
+  offset: 0, 0
+  index: -1
+boat 2
+  rotate: false
+  xy: 271, 407
+  size: 229, 103
+  orig: 229, 103
+  offset: 0, 0
+  index: -1
+boat 3
+  rotate: false
+  xy: 2, 136
+  size: 250, 106
+  orig: 250, 106
+  offset: 0, 0
+  index: -1
+boat 4
+  rotate: false
+  xy: 2, 368
+  size: 267, 142
+  orig: 267, 142
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 203, 33
+  size: 55, 101
+  orig: 55, 101
+  offset: 0, 0
+  index: -1
+cup
+  rotate: true
+  xy: 297, 2
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+earL
+  rotate: false
+  xy: 483, 280
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+earR
+  rotate: true
+  xy: 473, 201
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: true
+  xy: 502, 477
+  size: 33, 6
+  orig: 33, 6
+  offset: 0, 0
+  index: -1
+eye_open
+  rotate: true
+  xy: 441, 95
+  size: 33, 6
+  orig: 33, 6
+  offset: 0, 0
+  index: -1
+eye_side_close
+  rotate: true
+  xy: 319, 128
+  size: 6, 3
+  orig: 6, 3
+  offset: 0, 0
+  index: -1
+eye_side_open
+  rotate: false
+  xy: 473, 195
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+eye_side_smile
+  rotate: true
+  xy: 329, 240
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+fishing_rod
+  rotate: true
+  xy: 2, 2
+  size: 132, 199
+  orig: 132, 199
+  offset: 0, 0
+  index: -1
+handR_talk_S2
+  rotate: false
+  xy: 408, 24
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+legL_bend
+  rotate: false
+  xy: 379, 84
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+legL_bend_scout_S2
+  rotate: false
+  xy: 451, 192
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+legL_scout_S2
+  rotate: false
+  xy: 408, 46
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+legL_scout_book_add_S2
+  rotate: false
+  xy: 401, 87
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+legL_scout_fishing_add_S2
+  rotate: true
+  xy: 450, 129
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+legL_spread
+  rotate: false
+  xy: 412, 189
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+legR_bend
+  rotate: false
+  xy: 251, 326
+  size: 18, 40
+  orig: 18, 40
+  offset: 0, 0
+  index: -1
+legR_bend_scout_S2
+  rotate: false
+  xy: 454, 150
+  size: 18, 40
+  orig: 18, 40
+  offset: 0, 0
+  index: -1
+legR_scout_book_add_S2
+  rotate: false
+  xy: 449, 105
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+legR_scout_fishing_add_S2
+  rotate: false
+  xy: 373, 2
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+legR_spread
+  rotate: false
+  xy: 414, 236
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: -1
+legR_spread_scout_S2
+  rotate: true
+  xy: 390, 178
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: -1
+mouth_laugh
+  rotate: true
+  xy: 251, 311
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+mouth_open_small
+  rotate: false
+  xy: 502, 471
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+mouth_smile
+  rotate: true
+  xy: 476, 298
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+mouth_teeth
+  rotate: false
+  xy: 438, 55
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 483, 322
+  size: 20, 83
+  orig: 20, 83
+  offset: 0, 0
+  index: -1
+nose_side
+  rotate: true
+  xy: 254, 136
+  size: 31, 87
+  orig: 31, 87
+  offset: 0, 0
+  index: -1
+onepiece
+  rotate: false
+  xy: 251, 249
+  size: 83, 60
+  orig: 83, 60
+  offset: 0, 0
+  index: -1
+pants
+  rotate: false
+  xy: 322, 38
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+scout_uniform_S2
+  rotate: false
+  xy: 260, 83
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+scout_uniform_book_S2
+  rotate: false
+  xy: 319, 84
+  size: 58, 42
+  orig: 58, 42
+  offset: 0, 0
+  index: -1
+scout_uniform_fishing_S2
+  rotate: false
+  xy: 399, 130
+  size: 49, 25
+  orig: 49, 25
+  offset: 0, 0
+  index: -1
+string
+  rotate: true
+  xy: 449, 87
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
