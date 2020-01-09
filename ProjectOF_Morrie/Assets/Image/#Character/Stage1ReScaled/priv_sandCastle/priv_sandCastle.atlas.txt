@@ -1,0 +1,62 @@
+
+priv_sandCastle.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sand castle 1
+  rotate: false
+  xy: 623, 623
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+sand castle 2
+  rotate: false
+  xy: 2, 416
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+sand castle 3
+  rotate: false
+  xy: 209, 416
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+sand castle 4
+  rotate: false
+  xy: 416, 416
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+sand castle 6
+  rotate: false
+  xy: 623, 416
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+sand-castle-7
+  rotate: false
+  xy: 2, 623
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+sand-castle-8
+  rotate: false
+  xy: 209, 623
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+sand-castle52
+  rotate: false
+  xy: 416, 623
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1

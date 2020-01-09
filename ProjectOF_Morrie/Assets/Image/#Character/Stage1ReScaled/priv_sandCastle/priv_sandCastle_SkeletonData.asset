@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
-  m_Name: Pub_lieFaceUp02_SkeletonData
+  m_Name: priv_sandCastle_SkeletonData
   m_EditorClassIdentifier: 
   atlasAssets:
-  - {fileID: 11400000, guid: 79dca806fdf819f4c8deb412409f16dd, type: 2}
+  - {fileID: 11400000, guid: 488fa3be8590e614f95e58748c7ffe17, type: 2}
   scale: 0.4
-  skeletonJSON: {fileID: 4900000, guid: e5a92dd75a500844398f720ca1671d0e, type: 3}
+  skeletonJSON: {fileID: 4900000, guid: 9e44e04024379554e9a5f4f42054a14f, type: 3}
   skeletonDataModifiers: []
   fromAnimation: []
   toAnimation: []
