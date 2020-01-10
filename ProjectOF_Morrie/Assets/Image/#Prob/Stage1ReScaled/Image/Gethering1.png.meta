@@ -1,0 +1,1303 @@
+fileFormatVersion: 2
+guid: 4fd3749b646e36c419c7a17247e13d89
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -818650710143394568
+    second: Gethering1_0
+  - first:
+      213: -23151259632775828
+    second: Gethering1_1
+  - first:
+      213: -3244264674100434023
+    second: Gethering1_2
+  - first:
+      213: 1764879027212451771
+    second: Gethering1_3
+  - first:
+      213: 7338360007634864884
+    second: Gethering1_4
+  - first:
+      213: -9167446673702202046
+    second: Gethering1_5
+  - first:
+      213: 5244803719334796670
+    second: Gethering1_6
+  - first:
+      213: 4552384082245437967
+    second: Gethering1_7
+  - first:
+      213: -1356545901944483259
+    second: Gethering1_8
+  - first:
+      213: -6535962336685238780
+    second: Gethering1_9
+  - first:
+      213: -4951252865492854306
+    second: Gethering1_10
+  - first:
+      213: 6763928640915671504
+    second: Gethering1_11
+  - first:
+      213: -854308950766716264
+    second: Gethering1_12
+  - first:
+      213: -3247607835500340304
+    second: Gethering1_13
+  - first:
+      213: -325241656512972979
+    second: Gethering1_14
+  - first:
+      213: -6612714102263494096
+    second: Gethering1_15
+  - first:
+      213: -2850579288007247937
+    second: Gethering1_16
+  - first:
+      213: 8486906371826623921
+    second: Gethering1_17
+  - first:
+      213: -3894737134732232640
+    second: Gethering1_18
+  - first:
+      213: -6525047554302890822
+    second: Gethering1_19
+  - first:
+      213: 4775423622188601582
+    second: Gethering1_20
+  - first:
+      213: -1632391800241423498
+    second: Gethering1_21
+  - first:
+      213: -918614567613248966
+    second: Gethering1_22
+  - first:
+      213: -626919244065949842
+    second: Gethering1_23
+  - first:
+      213: -2957054329850138845
+    second: Gethering1_24
+  - first:
+      213: 5200623302915856761
+    second: Gethering1_25
+  - first:
+      213: -8789828123919174714
+    second: Gethering1_26
+  - first:
+      213: 4680169665066437746
+    second: Gethering1_27
+  - first:
+      213: -2326239669437130563
+    second: Gethering1_28
+  - first:
+      213: 6325631255393236353
+    second: Gethering1_29
+  - first:
+      213: 6577702220751800334
+    second: Gethering1_30
+  - first:
+      213: 2209604098952985315
+    second: Gethering1_31
+  - first:
+      213: 6967972123185729162
+    second: Gethering1_32
+  - first:
+      213: 8929209906376955155
+    second: Gethering1_33
+  - first:
+      213: -2219959919988145017
+    second: Gethering1_34
+  - first:
+      213: -7241978580719029830
+    second: Gethering1_35
+  - first:
+      213: -7279340371136067566
+    second: Gethering1_36
+  - first:
+      213: 8596134648369757457
+    second: Gethering1_37
+  - first:
+      213: -2491875798583493175
+    second: Gethering1_38
+  - first:
+      213: 617547833867806599
+    second: Gethering1_39
+  - first:
+      213: 8201667947010050336
+    second: Gethering1_40
+  - first:
+      213: 4855708550418750006
+    second: Gethering1_41
+  - first:
+      213: 4228694779172816601
+    second: Gethering1_42
+  - first:
+      213: -131884424849657775
+    second: Gethering1_43
+  - first:
+      213: 6928014820451568288
+    second: Gethering1_44
+  - first:
+      213: 8281698267384832805
+    second: Gethering1_45
+  - first:
+      213: -2175884124946850617
+    second: Gethering1_46
+  - first:
+      213: -1281477501117560231
+    second: Gethering1_47
+  - first:
+      213: -4144081223797693242
+    second: Gethering1_48
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gethering1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 923
+        width: 90
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81899188ce52564687d17d1287ab4cb
+      internalID: -818650710143394568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 949
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb4cf3f09b22a6448fe47f2825c8063
+      internalID: -23151259632775828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 955
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb6599cd2090e64e99118d7539af927
+      internalID: -3244264674100434023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_3
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 895
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c5532f1cbbf5249bf266eaf2748408
+      internalID: 1764879027212451771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 870
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92ed422b599afc4896e91b4d979dd4b
+      internalID: 7338360007634864884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 849
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9019beb6c7d244191025adf592d4c3
+      internalID: -9167446673702202046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 773
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6bde6fd2574f944b510963810e9191
+      internalID: 5244803719334796670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_7
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 773
+        width: 93
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76d79f7042317e48822d3688750bf7b
+      internalID: 4552384082245437967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 778
+        width: 84
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ab259ed30e77745abfecdea1dc9894
+      internalID: -1356545901944483259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_9
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 967
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8617e68a4e2fa014cafdb88c12ef6652
+      internalID: -6535962336685238780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_10
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 905
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afc7e7759a1f1b4399f01a8d3117892
+      internalID: -4951252865492854306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_11
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 848
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbc525d5c4c70844a91d96a240d0b71
+      internalID: 6763928640915671504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_12
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 774
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d30007d3d525fd45a4df782f972bc3f
+      internalID: -854308950766716264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 774
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6e3986a8439c34398624296b0a968b
+      internalID: -3247607835500340304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_14
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 969
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c2ab4c7d2341743bad5f2b33853787
+      internalID: -325241656512972979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_15
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 969
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa296ba31c32da4a99c91827fc74f11
+      internalID: -6612714102263494096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_16
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 893
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d08a495121b74449cc90d840160d2e
+      internalID: -2850579288007247937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_17
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 899
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2c5c9665b330f4896852f5c42754a4
+      internalID: 8486906371826623921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_18
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 839
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1370b5116b7fff4292b1cc122f5de66
+      internalID: -3894737134732232640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_19
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 778
+        width: 81
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e65b2299eae84b4c899a5665cacf41f
+      internalID: -6525047554302890822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_20
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 819
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413971a5c28ecc849b116c97fc926143
+      internalID: 4775423622188601582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_21
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 913
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417adc1592f2cfa44a6248b0275beefa
+      internalID: -1632391800241423498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_22
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 969
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddb237a1fc878c498916bf4d0c9bc07
+      internalID: -918614567613248966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_23
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 777
+        width: 67
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bddef680e2c61540ae83146cfeb0c43
+      internalID: -626919244065949842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 903
+        width: 149
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7632e0fcfb3e604abc60b6e948d1c85
+      internalID: -2957054329850138845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_25
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 771
+        width: 124
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80e1ddbf5829824ba456c6c49fbadb3
+      internalID: 5200623302915856761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_26
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 893
+        width: 75
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e6e6c05e9bfe9429d3ac005e4d88c6
+      internalID: -8789828123919174714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_27
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 782
+        width: 114
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c49c59276f342748be33329215fedf3
+      internalID: 4680169665066437746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_28
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 967
+        width: 99
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e76646a3d229d458208d8cd25d8194
+      internalID: -2326239669437130563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_29
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 902
+        width: 82
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b575e166f173147a3a6d0d7f0cf339
+      internalID: 6325631255393236353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_30
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 789
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730e6fa5fa6b542478a467ab63a67cc2
+      internalID: 6577702220751800334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_31
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 946
+        width: 115
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05815b2cd64c54548942ea38cfc9ea00
+      internalID: 2209604098952985315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_32
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 773
+        width: 160
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878b67688e8cfa84c8a6a2204de3aedb
+      internalID: 6967972123185729162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 411
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01ac9a071cc3a44e897d52634406d95
+      internalID: 8929209906376955155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_34
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 512
+        width: 103
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57384419351e8c949a94b6408abeda01
+      internalID: -2219959919988145017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_35
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 504
+        width: 485
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1799c5e451f16dc4c8dded5242e2b344
+      internalID: -7241978580719029830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_36
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 512
+        width: 33
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8721a0238c79cab4da0fc753b1970987
+      internalID: -7279340371136067566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 307
+        width: 337
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c1997d7b6d1a04594a53ec9dff8f11
+      internalID: 8596134648369757457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 335
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa8f1c0173d7fe4c8f67b1c994c1054
+      internalID: -2491875798583493175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_39
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 394
+        width: 124
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5047acaee8826458e26b651ada3525
+      internalID: 617547833867806599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_40
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 174
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97467b9bc1287041a4b10cbd8870983
+      internalID: 8201667947010050336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_41
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 227
+        width: 284
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd134ede62269a549979263b551e199b
+      internalID: 4855708550418750006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_42
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 241
+        width: 159
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35d722d8f61bb044a6b29426352b297
+      internalID: 4228694779172816601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_43
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 248
+        width: 94
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df78cb2001c61d449e42baba23bd01c
+      internalID: -131884424849657775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_44
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 152
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae874696dd33aec4c8400c4171421b08
+      internalID: 6928014820451568288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_45
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 18
+        width: 200
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d123784729b8a04e9c58d41504ef3d1
+      internalID: 8281698267384832805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_46
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 142
+        width: 157
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785cd22b650e7b5468376e93373f444d
+      internalID: -2175884124946850617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_47
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 71
+        width: 119
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09645ab81428d74583d4b624503e494
+      internalID: -1281477501117560231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gethering1_48
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 0
+        width: 126
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461e2e18c59c80f49bdb0bb1c2489834
+      internalID: -4144081223797693242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 48cef388167a78547bac05eb086eb719
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
