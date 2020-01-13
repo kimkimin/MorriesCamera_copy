@@ -38,7 +38,7 @@ public class GridRotate : MonoBehaviour
             //카메라 ui활성화
             if (!b_isGridRotate)
             {
-                print("?");
+                //print("?");
 #if UNITY_IOS
                 //binding.ErrorHaptic();
 #endif
@@ -62,7 +62,7 @@ public class GridRotate : MonoBehaviour
 
             if (b_isGridRotate)
             {
-                print("!");
+                //print("!");
 #if UNITY_IOS
                 //binding.ErrorHaptic();
 #endif
