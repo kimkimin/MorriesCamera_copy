@@ -34,7 +34,7 @@ public class CameraButton : MonoBehaviour
     void AutoCamButton()
     {
         insAnswerCheck.CheckingAnswerCamButton();
-        print("Save Photo");
+        //print("Save Photo");
     }
     public void ManualCamButton()
     {
@@ -50,6 +50,6 @@ public class CameraButton : MonoBehaviour
             dragBoxDrawActive.SetActive(true);
             b_manualCameraActive = true;
         }
-        print("Save Photo");
+        //print("Save Photo");
     }
 }

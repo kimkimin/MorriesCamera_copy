@@ -53,9 +53,22 @@ public class UI_RenderViewMaskResetting : MonoBehaviour
     Vector3 MaskRescaling(Vector3 maskScale)//auto manual all
     {
         float currentWidth = GetComponent<RectTransform>().sizeDelta.x;
-        float targetWidth = 600;
+        float targetWidth = TesmpScalableArea(600); //600;
 
         float multiplyScale = targetWidth / currentWidth;
         return maskScale * multiplyScale;
+    }
+
+    /// <summary>
+    /// 사진을 찍을때마다 해상도를 확인해서 렌더뷰의 마스크를 해상도에따라 다르게 적용
+    /// </summary>
+    float TesmpScalableArea(int baseInt)
+    {
+        Vector2 baseScreen = new Vector2(1080, 1920);
+        float devideArea = baseInt / baseScreen.x;
+        float reviseArea = devideArea * Screen.width;
+
+        print("수정된 랜더뷰 마스크 스케일" + reviseArea);
+        return reviseArea;
     }
 }
