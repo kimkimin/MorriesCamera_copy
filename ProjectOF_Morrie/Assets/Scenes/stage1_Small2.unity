@@ -20891,7 +20891,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &451186971
 RectTransform:
   m_ObjectHideFlags: 0
@@ -20910,9 +20910,9 @@ RectTransform:
   m_Father: {fileID: 638432686}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: 0, y: 960}
   m_SizeDelta: {x: 1080, y: 1920}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &451186973
@@ -31418,7 +31418,8 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 4.3e-44, z: 2.974e-42, w: 1.02e-43}
+  m_BoundingSphereOverride: {x: 0.000000008067874, y: -0.00020062343, z: -2.863044e-34,
+    w: 0}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -41994,7 +41995,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 5000
-  field of view: 100
+  field of view: 80
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
@@ -76600,6 +76601,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   renderCam: {fileID: 986947985}
+  canvas_: {fileID: 638432685}
 --- !u!1 &1820526069
 GameObject:
   m_ObjectHideFlags: 0
@@ -76886,6 +76888,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   boxRT: {fileID: 1200416871}
   viewFinderRT: {fileID: 1776039376}
+  tempCanvas: {fileID: 638432685}
 --- !u!1 &1825764711
 GameObject:
   m_ObjectHideFlags: 0

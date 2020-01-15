@@ -26,7 +26,10 @@ public class PictureSave : MonoBehaviour
         yield return new WaitForEndOfFrame();
         //한프레임 대기
 
-        Vector2 readArea = ScalableArea(new Vector2(1080 / 2 - 300, 1920 / 2 - 197));
+        //Vector2 temp = ScalableArea(new Vector2(300, 197));
+        //Vector2 readArea = new Vector2(Screen.width/2 - temp.x, Screen.height/2 - temp.y);
+
+        Vector2 readArea = ScalableArea(new Vector2(1080/2 - 300, 1920/2 - 197));
         Vector2 readTexture = ScalableArea(new Vector2(600, 600));
         //Texture2D screenShot = new Texture2D(600, 600, TextureFormat.RGB24, false);
         //screenShot.ReadPixels(new Rect(Screen.width/2 - 300, Screen.height/2 - 197, screenShot.width, screenShot.height), 0, 0);
