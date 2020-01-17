@@ -13,6 +13,7 @@ public class SoundControl : MonoBehaviour
         if (Input.GetMouseButtonDown(0))
             soundEffect.Play();
     }
+    
 
     /*
     public void SoundOffBgm()
