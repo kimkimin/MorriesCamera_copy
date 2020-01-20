@@ -9,10 +9,8 @@ using UnityEngine.UI;
 /// </summary>
 public class CameraButton : MonoBehaviour
 {
-    public GameObject dragBoxDrawActive;
-    public GameObject manualViewFinder;
+    //public GameObject dragBoxDrawActive;
     public Play_AnswerCheck insAnswerCheck;
-    public static bool b_manualCameraActive = false;
     public static int rollNum = 6;
 
     private void Start()
@@ -27,29 +25,6 @@ public class CameraButton : MonoBehaviour
 #endif
         rollNum--;
         gameObject.GetComponentInChildren<Text>().text = rollNum.ToString();
-        if (CameraMode.b_autoMode) AutoCamButton();
-        else ManualCamButton();
-    }
-
-    void AutoCamButton()
-    {
         insAnswerCheck.CheckingAnswerCamButton();
-        //print("Save Photo");
-    }
-    public void ManualCamButton()
-    {
-        if (b_manualCameraActive)
-        {
-            manualViewFinder.SetActive(false);
-            dragBoxDrawActive.SetActive(false);
-            b_manualCameraActive = false;
-        }
-        else
-        {
-            manualViewFinder.SetActive(true);
-            dragBoxDrawActive.SetActive(true);
-            b_manualCameraActive = true;
-        }
-        //print("Save Photo");
     }
 }

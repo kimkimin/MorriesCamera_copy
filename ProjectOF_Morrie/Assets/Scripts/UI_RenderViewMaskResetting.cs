@@ -17,16 +17,17 @@ public class UI_RenderViewMaskResetting : MonoBehaviour
     {
         //자동 : 1000*1000, 수동 : 드래그박스사이즈
         //여기에 600으로 만드는 계산넣어서 스케일값으로 대입하기
-        if (CameraMode.b_autoMode)//auto
+        GetComponent<RectTransform>().sizeDelta = viewFinderRT.sizeDelta;
+        MaskReplacing_Auto();
+        /*if (CameraMode.b_autoMode)//auto
         {
-            GetComponent<RectTransform>().sizeDelta = viewFinderRT.sizeDelta;
-            MaskReplacing_Auto();
         }
+        
         else//manual
         {
             GetComponent<RectTransform>().sizeDelta = boxRT.sizeDelta;
             MaskReplacing_Manual();
-        }
+        }*/
         gameObject.GetComponent<RectTransform>().localScale = MaskRescaling(Vector3.one);
     }
 

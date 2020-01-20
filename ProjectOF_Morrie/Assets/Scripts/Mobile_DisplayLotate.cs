@@ -50,20 +50,10 @@ public class Mobile_DisplayLotate : MonoBehaviour
 
     public void CheckCameraMode()
     {
-        if (CameraMode.b_autoMode)
-        {
-            saveAfterDamping.x = ins_zoom.a_zoomInAfterDamping;
-            saveBeforeDamping.x = ins_zoom.a_zoomInBeforeDamping;
+        saveAfterDamping.x = ins_zoom.a_zoomInAfterDamping;
+        saveBeforeDamping.x = ins_zoom.a_zoomInBeforeDamping;
 
-            CheckCameraOrientation();
-        }
-        else
-        {
-            saveAfterDamping.x = ins_zoom.ma_zoomInAfterDamping;
-            saveBeforeDamping.x = ins_zoom.ma_zoomInBeforeDamping;
-
-            CheckCameraOrientation();
-        }
+        CheckCameraOrientation();
     }
     float ZoomClampFOV_Resize(float fromFOV)
     {

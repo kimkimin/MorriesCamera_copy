@@ -12,9 +12,9 @@ public class GridRotate : MonoBehaviour
     public bool b_isGridRotate = false;
     
     public GameObject GridForImage, GridForCam;
-    public GameObject cameraActive;
+    public GameObject cameraActive, viewFinder;
     public Play_DragCameraZoom insZoom;
-    public CameraMode insCamMode;
+    //public CameraMode insCamMode;
 
     
     public delegate void GridRotateDelegate();
@@ -44,8 +44,7 @@ public class GridRotate : MonoBehaviour
 #endif
                 LayDown?.Invoke();
                 cameraActive.SetActive(true);
-                if (CameraMode.b_autoMode) insCamMode.AutoButton();
-                else insCamMode.ManualButton();
+                viewFinder.SetActive(true);
                 b_isGridRotate = true;
             }
         }
@@ -68,7 +67,7 @@ public class GridRotate : MonoBehaviour
 #endif
                 StandUp?.Invoke();
                 cameraActive.SetActive(false);
-                insCamMode.autoViewfinder.SetActive(false);
+                viewFinder.SetActive(false);
                 b_isGridRotate = false;
             }
         }

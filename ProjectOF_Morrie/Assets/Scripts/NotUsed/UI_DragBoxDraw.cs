@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 //using System;
 
+/// <summary>
+/// 이거자체가 필요없는거 아닐까
+/// </summary>
 public class UI_DragBoxDraw : MonoBehaviour
 {
     public RectTransform boxImage;
@@ -37,7 +40,7 @@ public class UI_DragBoxDraw : MonoBehaviour
     /// </summary>
     public void DragBoxStart()
     {   if (!enabled) return;
-        if (!CameraButton.b_manualCameraActive) return;
+        //if (!CameraButton.b_manualCameraActive) return;
 
         boxImage.gameObject.SetActive(true);
 
@@ -60,7 +63,7 @@ public class UI_DragBoxDraw : MonoBehaviour
     /// </summary>
     public void DragBoxOnDraging()
     {   if (!enabled) return;
-        if (!CameraButton.b_manualCameraActive) return;
+        //if (!CameraButton.b_manualCameraActive) return;
 
         Vector3 TempMouse;
         TempMouse.x = Mathf.Clamp(Link_touchCheck.touch.position.x, cameraCenter.x - Screen.width / 2, cameraCenter.x + Screen.width / 2);
@@ -86,10 +89,10 @@ public class UI_DragBoxDraw : MonoBehaviour
     /// 드래그 종료, 초기화 
     /// </summary>
     public void DragBoxEnd()
-    {if(!insAnswer.b_isSizeFit) boxImage.sizeDelta = Vector2.zero;//수정필요
+    {//if(!insAnswer.b_isSizeFit) boxImage.sizeDelta = Vector2.zero;//수정필요
     
         if (!enabled) return;
-        if (!CameraButton.b_manualCameraActive) return;
+        //if (!CameraButton.b_manualCameraActive) return;
         
         if (b_isDrawBox)//버튼클릭과 동시에 드래그실행됨을 방지
         {

@@ -67,7 +67,7 @@ public class Tutorial_InteractionControl : MonoBehaviour
 
         if (!stopCheckManuPhoto)
         {
-            if (ManuPhotoManager.b_isSizeFit) isManuPhoto = true;
+            //if (ManuPhotoManager.b_isSizeFit) isManuPhoto = true;
             if (isManuPhoto && PhotoManager.activeSelf) isManuPhoto1 = true;
 
             if(isManuPhoto1 && !PhotoManager.activeSelf)

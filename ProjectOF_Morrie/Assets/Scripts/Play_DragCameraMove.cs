@@ -35,7 +35,7 @@ public class Play_DragCameraMove : MonoBehaviour
     /// </summary>
     public void OnTouchBegan_ToCameraMove()
     {   if (!enabled) return;
-        if (CameraButton.b_manualCameraActive) return;
+        //if (CameraButton.b_manualCameraActive) return;
 
         StartTouch = Link_touchCheck.touch.position;
         StartMouse = Input.mousePosition;
@@ -49,7 +49,7 @@ public class Play_DragCameraMove : MonoBehaviour
     /// </summary>
     public void OnTouchMoved_ToCameraMove()
     {   if (!enabled) return;
-        if (CameraButton.b_manualCameraActive) return;
+        //if (CameraButton.b_manualCameraActive) return;
 
         if (GetComponent<GridRotate>().b_isGridRotate) OnTouchMoved_ZoomOn();
         else OnTouchMoved_ZoomOff();

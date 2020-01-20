@@ -9,71 +9,14 @@ using UnityEngine.UI;
 public class Play_AnswerCheck : MonoBehaviour
 {
     public RectTransform boxRT, viewRT; //boxRectTransform
-    public float boxSizeMin, boxSizeMax;
+    //public float boxSizeMin, boxSizeMax;
     public Play_AnswerGetList insAnswerList;
     public UI_RenderViewActive insRenderView;
     public GameObject Exit;
-    public bool b_isSizeFit = false;
+    //public bool b_isSizeFit = false;
 
-    private void OnEnable()
-    {
-        Link_touchCheck.OnTouchMoved += this.CheckingSizeDragMove;
-        Link_touchCheck.OnTouchEnded += this.CheckingAnswerDragEnd;
-    }
-    private void OnDisable()
-    {
-        Link_touchCheck.OnTouchMoved -= this.CheckingSizeDragMove;
-        Link_touchCheck.OnTouchEnded -= this.CheckingAnswerDragEnd;
-    }
 
-    /// <summary>
-    /// Manu모드에서 드래그시 박스가 촬영가능 영역인지 표시
-    /// </summary>
-    public void CheckingSizeDragMove()
-    {if (!gameObject.activeSelf) return;
 
-        if(boxRT.sizeDelta.x > boxSizeMin)
-        {
-            if(boxRT.sizeDelta.x < boxSizeMax)
-            {
-                b_isSizeFit = true;
-                boxRT.gameObject.GetComponent<Image>().color = Color.green * new Color(1, 1, 1, 0.5f);
-            }
-            else
-            {
-                b_isSizeFit = false;
-                boxRT.gameObject.GetComponent<Image>().color = Color.grey * new Color(1, 1, 1, 0.5f); ;
-            }
-        }
-        else
-        {
-            b_isSizeFit = false;
-            boxRT.gameObject.GetComponent<Image>().color = Color.grey * new Color(1, 1, 1, 0.5f); ;
-        }
-    }
-
-    /// <summary>
-    /// Manu모드에서 드래그 종료시 정답영역을 확인하고 프린트
-    /// </summary>
-    public void CheckingAnswerDragEnd()
-    {
-        if (!b_isSizeFit) return;
-        
-        boxRT.gameObject.SetActive(false);
-        insRenderView.ActiveRenderView();
-        if (CheckingArea(boxRT))
-        {
-            print("Right");
-            Exit.SetActive(true);
-        }
-        else
-        {
-            print("Wrong");
-        }
-
-        b_isSizeFit = false;//초기화
-
-    }
     /// <summary>
     /// Auto모드에서 카메라버튼을 눌렀을때 정답영역을 확인하고 프린트
     /// </summary>
