@@ -12,9 +12,12 @@ EditorBuildSettings:
     path: Assets/Scenes/PrologueScene.unity
     guid: 3baddfc41dd3df24ab51f30ee27f510c
   - enabled: 1
+    path: Assets/Scenes/stage1_Small2.unity
+    guid: 7c8ef30f0b14bd246b21c3fef102dba1
+  - enabled: 1
     path: Assets/Scenes/LobbyScene.unity
     guid: 28c0476cca76c6445997cecf6c479066
   - enabled: 1
-    path: Assets/Scenes/stage1_Small2.unity
-    guid: 7c8ef30f0b14bd246b21c3fef102dba1
+    path: Assets/Scenes/stage1_end.unity
+    guid: a0e838e4b77323741bbea4dfbccbf390
   m_configObjects: {}

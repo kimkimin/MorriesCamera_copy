@@ -1,16 +1,22 @@
 fileFormatVersion: 2
-guid: 907014a63b0ce5f4a920eed31c19789d
+guid: 4427288d9f25150448c42857d889fbcb
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4383956105127466189
-    second: 0115_wordCloud@4x_0
+      213: -7336173191051626795
+    second: 0120_UI_04@4x_0
   - first:
-      213: 2391953668735046243
-    second: 0115_wordCloud@4x_1
+      213: -8601630632677525295
+    second: 0120_UI_04@4x_1
   - first:
-      213: 9060161994547085395
-    second: 0115_wordCloud@4x_2
+      213: 7993394923507102814
+    second: 0120_UI_04@4x_2
+  - first:
+      213: -8634977609925842826
+    second: 0120_UI_04@4x_3
+  - first:
+      213: -8124584865928980800
+    second: 0120_UI_04@4x_4
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -119,13 +125,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 0115_wordCloud@4x_0
+      name: 0120_UI_04@4x_0
       rect:
         serializedVersion: 2
-        x: 13
+        x: 170
         y: 173
-        width: 106
-        height: 59
+        width: 342
+        height: 339
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -133,20 +139,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 80ecb61226cea4246b1e7c42b238591e
-      internalID: 4383956105127466189
+      spriteID: facadb5eb3abac14b9d8752c2429cfb6
+      internalID: -7336173191051626795
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0115_wordCloud@4x_1
+      name: 0120_UI_04@4x_1
       rect:
         serializedVersion: 2
-        x: 164
-        y: 157
-        width: 63
-        height: 72
+        x: 56
+        y: 249
+        width: 41
+        height: 241
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,20 +160,62 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b89c038a272369c4baf9bac410ce977e
-      internalID: 2391953668735046243
+      spriteID: e82ba91385db1b64a8a53c49816801bb
+      internalID: -8601630632677525295
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 0115_wordCloud@4x_2
+      name: 0120_UI_04@4x_2
       rect:
         serializedVersion: 2
-        x: 16
-        y: 5
+        x: 12
+        y: 249
+        width: 33
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b3b413a0aa8494ab60ad06fe120c93
+      internalID: 7993394923507102814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0120_UI_04@4x_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 184
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bc60f3b2d69664cb21fb28201e6e9b
+      internalID: -8634977609925842826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0120_UI_04@4x_4
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 0
         width: 224
-        height: 145
+        height: 186
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -175,8 +223,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d9d3bc3c2fd43ac48a414a6cdab3fd34
-      internalID: 9060161994547085395
+      spriteID: 0155ff388a0210c44a831cdc5617a024
+      internalID: -8124584865928980800
       vertices: []
       indices: 
       edges: []
@@ -184,7 +232,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: c96e4b7d0f5d4d2469541c925fb93433
+    spriteID: 93f600b3f1b75da42b2a661d5953b844
     internalID: 0
     vertices: []
     indices: 

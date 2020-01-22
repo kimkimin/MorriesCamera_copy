@@ -2,17 +2,22 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Mobile_DisplayLotate : MonoBehaviour
+/// <summary>
+/// 기기가 회전할때 보이는 비율 맞추기, 카메라 fov 맞추기
+/// </summary>
+public class Mobile_DisplayRotate : MonoBehaviour
 {
     public float saveGridRot;
     public Vector2 saveBeforeDamping, saveAfterDamping;
     public int previousRatio;
     public Play_DragCameraZoom ins_zoom;
     public GridRotate ins_grid;
+    Mobile_DisplayRotateUI ins_rotUi;
 
     // Start is called before the first frame update
     void Start()
     {
+        ins_rotUi = GetComponent<Mobile_DisplayRotateUI>();
         previousRatio = (int)Camera.main.aspect;
 
         saveAfterDamping = ins_zoom.AfterDamping;
@@ -35,6 +40,8 @@ public class Mobile_DisplayLotate : MonoBehaviour
                 ResizingLandscapeZoomLimit();
                 Camera.main.fieldOfView = ZoomClampFOV_Resize(Camera.main.fieldOfView);
                 previousRatio = (int)Camera.main.aspect;
+                ins_rotUi.SetUILandscape();
+                print("RotateChange");
             }
         }
         else//Portrait
@@ -44,6 +51,7 @@ public class Mobile_DisplayLotate : MonoBehaviour
                 ResizingPortraitZoomLimit();
                 Camera.main.fieldOfView = ZoomClampFOV_Resize(Camera.main.fieldOfView);
                 previousRatio = (int)Camera.main.aspect;
+                ins_rotUi.SetUIPortrait();
             }
         }
     }

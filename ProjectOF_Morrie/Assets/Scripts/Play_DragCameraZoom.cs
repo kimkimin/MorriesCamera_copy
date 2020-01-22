@@ -8,7 +8,7 @@ using UnityEngine;
 public class Play_DragCameraZoom : MonoBehaviour
 {
     public float a_zoomInBeforeDamping, a_zoomInAfterDamping;
-    public float ma_zoomInBeforeDamping, ma_zoomInAfterDamping;
+    //public float ma_zoomInBeforeDamping, ma_zoomInAfterDamping;
     public float zoomOutBeforeDamping, zoomOutAfterDamping;
 
     public Vector2 BeforeDamping, AfterDamping;

@@ -22,6 +22,7 @@ public class Link_SceneManagerIcon : MonoBehaviour
     public void Ready()
     {
         b_playReady = true;
+        print("너 왜자꾸 넘어가 모야너");
     }
     
     /// <summary>
@@ -34,8 +35,9 @@ public class Link_SceneManagerIcon : MonoBehaviour
 
         while (!asyncOper.isDone)
         {
+            print("씬로드 진행률 : " + asyncOper.progress);
             yield return null;
-            if (asyncOper.progress >= 0.9f)
+            if (asyncOper.progress >= 0.9f && b_playReady == true)
             {
                 if (Icon_Loading != null)
                 {
@@ -43,8 +45,11 @@ public class Link_SceneManagerIcon : MonoBehaviour
                     icon_Entering.SetActive(true);
                 }
 
-                if (b_playReady == true) asyncOper.allowSceneActivation = true;
+                print("Next Scene Load");
+                asyncOper.allowSceneActivation = true;
 
+                //if () 
+                //이게없는데도 된다고??
             }
         }
     }
