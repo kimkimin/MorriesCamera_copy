@@ -34,7 +34,7 @@ public class Spine_Touch : MonoBehaviour
 
         //print("imTouched");
 #if UNITY_IOS
-        //binding.LigthHaptic();
+        binding.LigthHaptic();
 #endif
         int checkNext = animNum + 1;
         if (checkNext >= setAnim.animList.Count) return;

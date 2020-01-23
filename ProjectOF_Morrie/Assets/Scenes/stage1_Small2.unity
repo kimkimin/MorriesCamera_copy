@@ -2820,7 +2820,7 @@ MonoBehaviour:
     materialsInsideMask: []
     materialsOutsideMask: []
   disableRenderingOnOverride: 1
-  _animationName: 
+  _animationName: Tu_thumpUp_mori
   loop: 1
   timeScale: 1
 --- !u!23 &68657429
@@ -7780,7 +7780,7 @@ MonoBehaviour:
     materialsInsideMask: []
     materialsOutsideMask: []
   disableRenderingOnOverride: 1
-  _animationName: 
+  _animationName: Tu_thumpUp_mori
   loop: 1
   timeScale: 1
 --- !u!23 &210186805
@@ -17449,7 +17449,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6eef2cac841631343864f1e058361314, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SceneNum: 1
+  SceneNum: 3
 --- !u!1 &411670535
 GameObject:
   m_ObjectHideFlags: 0
@@ -22622,7 +22622,7 @@ MonoBehaviour:
     materialsInsideMask: []
     materialsOutsideMask: []
   disableRenderingOnOverride: 1
-  _animationName: 
+  _animationName: Tu_thumpUp_mori
   loop: 1
   timeScale: 1
 --- !u!23 &528133529
@@ -31727,7 +31727,7 @@ MonoBehaviour:
     materialsInsideMask: []
     materialsOutsideMask: []
   disableRenderingOnOverride: 1
-  _animationName: 
+  _animationName: Tu_slide_mori_t1_E
   loop: 1
   timeScale: 1
 --- !u!23 &773723905
@@ -31784,8 +31784,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 773723903}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -576.35504, y: -521.47015, z: -260.73508}
-  m_LocalScale: {x: 1.3036754, y: 1.3036754, z: 1.3036754}
+  m_LocalPosition: {x: -679, y: -671, z: 0}
+  m_LocalScale: {x: 1.7, y: 1.7, z: 1.3036754}
   m_Children: []
   m_Father: {fileID: 1328469628}
   m_RootOrder: 0
@@ -48320,7 +48320,7 @@ MonoBehaviour:
     materialsInsideMask: []
     materialsOutsideMask: []
   disableRenderingOnOverride: 1
-  _animationName: 
+  _animationName: Tu_introduce_mori
   loop: 1
   timeScale: 1
 --- !u!23 &1201300243
@@ -56141,7 +56141,7 @@ MonoBehaviour:
     materialsInsideMask: []
     materialsOutsideMask: []
   disableRenderingOnOverride: 1
-  _animationName: 
+  _animationName: Tu_slide_mori_t1_E
   loop: 1
   timeScale: 1
 --- !u!23 &1430448173
@@ -70224,7 +70224,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1895985197
 RectTransform:
   m_ObjectHideFlags: 0
