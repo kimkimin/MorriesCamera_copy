@@ -29,6 +29,14 @@ public class Play_DragCameraMove : MonoBehaviour
     {
         CamAnchor = gameObject;
     }
+
+    /// <summary>
+    /// 0123 잠깐만 사용하고 삭제할 함수
+    /// </summary>
+    public void TempAnimatorDeleter()
+    {
+        GetComponent<Animator>().enabled = false;
+    }
     
     /// <summary>
     /// 터치 시작
