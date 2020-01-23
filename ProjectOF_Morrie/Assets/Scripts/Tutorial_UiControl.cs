@@ -4,12 +4,16 @@ using UnityEngine;
 
 public class Tutorial_UiControl : MonoBehaviour
 {
-    public GameObject CameraMove;
-    public GameObject tut1, tut2, tut4, tut5;
+    public GameObject CameraMove, CameraAnchor;
+    public GameObject tut1, tut2, tut4, tut5, tut8;
+    public BoxCollider2D moryCollider;
+    public GameObject PhotoManager;
     Vector3 cameraPos;
 
     bool isMoved = false;
     bool isZoomed = false;
+    bool isPhoto = false;
+    bool isPhotoed = false;
     // Start is called before the first frame update
     void Start()
     {
@@ -28,7 +32,13 @@ public class Tutorial_UiControl : MonoBehaviour
         if (isZoomed && !Play_DragCameraZoom.b_IsTouch2)
         {
             tut5.SetActive(true);
+            moryCollider.gameObject.GetComponent<Tutorial_SpineTouch>().PointingAnim();
             isZoomed = false;
+        }
+        if (isPhotoed)
+        {
+            tut8.SetActive(true);
+            isPhotoed = false;
         }
         
     }
@@ -41,6 +51,15 @@ public class Tutorial_UiControl : MonoBehaviour
     public void ZoomCheck()
     {
         StartCoroutine(ZoomChecking());
+    }
+    public void PhotoCheck()
+    {
+        StartCoroutine(PhotoChecking());
+    }
+
+    public void EndTut()
+    {
+        CameraAnchor.GetComponent<Animator>().enabled = true;
     }
 
     IEnumerator MoveChecking()
@@ -68,6 +87,23 @@ public class Tutorial_UiControl : MonoBehaviour
         {
             yield return new WaitForSeconds(0);
             StartCoroutine(ZoomChecking());
+        }
+    }
+
+    IEnumerator PhotoChecking()
+    {
+
+        if (PhotoManager.activeSelf == true) isPhoto = true;
+
+        if (isPhoto && !PhotoManager.activeSelf)
+        {
+            isPhotoed = true;
+        }
+
+        if (!isPhotoed)
+        {
+            yield return new WaitForSeconds(0);
+            StartCoroutine(PhotoChecking());
         }
     }
 }
